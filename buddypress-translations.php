@@ -35,11 +35,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * @since 1.6a
  */
 function bpt_load_textdomain() {
-	// If a translation has already been loaded, bail out
-	if ( is_textdomain_loaded( 'buddypress' ) )
-		return;
-
-	$mofile = WP_PLUGIN_DIR . '/buddypress-translations/pomo/' . apply_filters( 'buddypress_locale', get_locale() );
+	$mofile = WP_PLUGIN_DIR . '/buddypress-translations/pomo/' . apply_filters( 'buddypress_locale', get_locale() ) . '.mo';
 
 	if ( file_exists( $mofile ) )
 		return load_textdomain( 'buddypress', $mofile );
