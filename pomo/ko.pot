@@ -1,0 +1,5625 @@
+# Translation of 1.6.x in Korean
+# This file is distributed under the same license as the 1.6.x package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2012-10-17 17:43:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: 1.6.x\n"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:7
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr "아바타는 프로필과 전체 사이트에 사용됩니다. 계정 이메일과 연관된 <a href=\"http://gravatar.com\">Gravatar</a>가 있으면 그것을 사용할 것입니다. 또는 컴퓨터에서 이미지를 업로드할 수 있습니다."
+
+#: bp-themes/bp-default/comments.php:46
+msgid "Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post\">trackbacks</a> and pingbacks are open."
+msgstr "댓글이 닫혔습니다. 하지만 <a href=\"%1$s\" title=\"Trackback URL for this post\">트랙백</a>과 핑백은 열려있습니다."
+
+#: bp-themes/bp-default/groups/create.php:96
+#: bp-themes/bp-default/groups/single/admin.php:99
+msgid "All group members"
+msgstr "모든 그룹 회원"
+
+#: bp-themes/bp-default/forums/index.php:63
+#: bp-themes/bp-default/groups/single/forum.php:39
+#: bp-themes/bp-default/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "대부분의 글"
+
+#: bp-themes/bp-default/blogs/create.php:32
+msgid "Site registration is currently disabled"
+msgstr "사이트 등록이 현재 불가능합니다"
+
+#: bp-themes/bp-default/blogs/blogs-loop.php:90
+msgid "Sorry, there were no sites found."
+msgstr "죄송합니다. 사이트를 찾을 수 없습니다."
+
+#: bp-themes/bp-default/comments.php:3
+msgid "Password Protected"
+msgstr "비밀번호 보호됨"
+
+#: bp-themes/bp-default/comments.php:4
+msgid "Enter the password to view comments."
+msgstr "댓글을 보려면 비밀번호를 입력하세요."
+
+#: bp-themes/bp-default/footer.php:15
+msgid "Proudly powered by <a href=\"%1$s\">WordPress</a> and <a href=\"%2$s\">BuddyPress</a>."
+msgstr "Proudly powered by <a href=\"%1$s\">WordPress</a> and <a href=\"%2$s\">BuddyPress</a>."
+
+#: bp-themes/bp-default/blogs/create.php:21
+#: bp-themes/bp-default/blogs/index.php:21
+msgid "Site Directory"
+msgstr "사이트 디렉토리"
+
+#: bp-themes/bp-default/groups/create.php:101
+#: bp-themes/bp-default/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "그룹 관리자와 조정자만"
+
+#: bp-themes/bp-default/forums/forums-loop.php:41
+msgid "Freshness"
+msgstr "최근"
+
+#: bp-themes/bp-default/blogs/index.php:57
+#: bp-themes/bp-default/groups/index.php:60
+#: bp-themes/bp-default/members/index.php:60
+#: bp-themes/bp-default/members/single/blogs.php:23
+#: bp-themes/bp-default/members/single/friends.php:24
+#: bp-themes/bp-default/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "알파벳 순으로"
+
+#: bp-themes/bp-default/forums/index.php:44
+msgid "My Topics <span>%s</span>"
+msgstr "내 토픽 <span>%s</span>"
+
+#: bp-themes/bp-default/groups/create.php:91
+#: bp-themes/bp-default/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "이 그룹의 어떤 회원이 다른 사람을 초대할 수 있나요?"
+
+#: bp-themes/bp-default/forums/index.php:116
+#: bp-xprofile/bp-xprofile-template.php:463
+msgid "----"
+msgstr "----"
+
+#: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/index.php:41
+#: bp-themes/bp-default/search.php:38
+msgid "% Comments &#187;"
+msgstr "% 댓글 &#187;"
+
+#: bp-themes/bp-default/activity/post-form.php:35
+msgid "Post Update"
+msgstr "글 업데이트"
+
+#: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/index.php:41
+#: bp-themes/bp-default/search.php:38
+msgid "No Comments &#187;"
+msgstr "댓글 없음 &#187;"
+
+#: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/index.php:41
+#: bp-themes/bp-default/search.php:38 bp-themes/bp-default/single.php:33
+msgid "Tags: "
+msgstr "태그:"
+
+#: bp-themes/bp-default/archive.php:30 bp-themes/bp-default/index.php:34
+#: bp-themes/bp-default/search.php:32 bp-themes/bp-default/single.php:23
+msgid "%1$s <span>in %2$s</span>"
+msgstr "%1$s <span>%2$s에서</span>"
+
+#: bp-themes/bp-default/archive.php:33 bp-themes/bp-default/index.php:37
+#: bp-themes/bp-default/search.php:35 bp-themes/bp-default/single.php:28
+msgid "Read the rest of this entry &rarr;"
+msgstr "해당 항목의 나머지 읽기 &rarr;"
+
+#: bp-themes/bp-default/archive.php:24 bp-themes/bp-default/attachment.php:18
+#: bp-themes/bp-default/index.php:24 bp-themes/bp-default/search.php:26
+#: bp-themes/bp-default/single.php:16
+msgctxt "Post written by..."
+msgid "by %s"
+msgstr "글쓴이"
+
+#: bp-themes/bp-default/archive.php:10
+msgid "You are browsing the archive for %1$s."
+msgstr "%1$s의 글보관함을 둘러보고 있습니다."
+
+#: bp-themes/bp-default/activity/post-form.php:42
+msgid "Post in"
+msgstr "게시"
+
+#: bp-themes/bp-default/activity/post-form.php:23
+msgid "What's new in %s, %s?"
+msgstr "%s에서 새로운 것, %s?"
+
+#: bp-themes/bp-default/activity/index.php:124
+msgid "New Members"
+msgstr "새 회원"
+
+#: bp-themes/bp-default/activity/index.php:114
+#: bp-themes/bp-default/groups/single/activity.php:18
+#: bp-themes/bp-default/members/single/activity.php:51
+msgid "Group Memberships"
+msgstr "그룹 회원"
+
+#: bp-themes/bp-default/activity/index.php:113
+#: bp-themes/bp-default/members/single/activity.php:50
+msgid "New Groups"
+msgstr "새 그룹"
+
+#: bp-themes/bp-default/_inc/ajax.php:618
+msgid "Friendship request could not be cancelled."
+msgstr "친구 관계 요청을 취소할 수 없습니다."
+
+#: bp-themes/bp-default/activity/index.php:107
+#: bp-themes/bp-default/groups/single/activity.php:15
+#: bp-themes/bp-default/members/single/activity.php:44
+msgid "Forum Replies"
+msgstr "포럼 응답"
+
+#: bp-themes/bp-default/activity/index.php:106
+#: bp-themes/bp-default/groups/single/activity.php:14
+#: bp-themes/bp-default/members/single/activity.php:43
+msgid "Forum Topics"
+msgstr "포럼 토픽"
+
+#: bp-themes/bp-default/activity/index.php:100
+#: bp-themes/bp-default/members/single/activity.php:28
+msgid "Comments"
+msgstr "댓글"
+
+#: bp-themes/bp-default/activity/index.php:95
+#: bp-themes/bp-default/groups/single/activity.php:11
+#: bp-themes/bp-default/members/single/activity.php:21
+msgid "Updates"
+msgstr "업데이트"
+
+#: bp-themes/bp-default/activity/index.php:94
+#: bp-themes/bp-default/groups/single/activity.php:10
+#: bp-themes/bp-default/members/single/activity.php:20
+msgid "Everything"
+msgstr "모두"
+
+#: bp-themes/bp-default/activity/index.php:92
+#: bp-themes/bp-default/groups/single/activity.php:8
+#: bp-themes/bp-default/members/single/activity.php:18
+msgid "Show:"
+msgstr "보이기:"
+
+#: bp-themes/bp-default/activity/index.php:77
+msgid "Activity that I have been mentioned in."
+msgstr "나에게 멘션된 활동"
+
+#: bp-members/bp-members-functions.php:1346
+msgid "<strong>ERROR</strong>: Your account has not been activated. Check your email for the activation link."
+msgstr "<strong>에러</strong>: 계정이 인증됐습니다. 이메일에서 인증 링크를 점검하세요."
+
+#: bp-themes/bp-default/activity/index.php:87
+#: bp-themes/bp-default/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: bp-messages/bp-messages-loader.php:188
+msgid "Inbox <span class=\"count\">%s</span>"
+msgstr "받은 메일 <span class=\"count\">%s</span>"
+
+#: bp-messages/bp-messages-loader.php:190
+#: bp-messages/bp-messages-screens.php:148
+msgid "Messages"
+msgstr "메시지"
+
+#: bp-themes/bp-default/activity/index.php:61
+msgid "The activity of groups I am a member of."
+msgstr "내가 회원인 그룹의 활동"
+
+#: bp-messages/bp-messages-functions.php:239
+msgid "You have %d new message"
+msgstr "%d 새 메시지"
+
+#: bp-themes/bp-default/activity/index.php:49
+msgid "The activity of my friends only."
+msgstr "내 친구의 활동만."
+
+#: bp-messages/bp-messages-loader.php:250
+msgid "My Messages"
+msgstr "내 메시지"
+
+#: bp-messages/bp-messages-loader.php:132
+#: bp-messages/bp-messages-loader.php:214
+msgid "Sent"
+msgstr "발송됨"
+
+#: bp-messages/bp-messages-loader.php:142
+#: bp-messages/bp-messages-loader.php:222
+msgid "Compose"
+msgstr "구성하기"
+
+#: bp-messages/bp-messages-loader.php:153
+msgid "Notices"
+msgstr "공지"
+
+#: bp-messages/bp-messages-loader.php:187
+msgid "Messages <span class=\"count\">%s</span>"
+msgstr "메시지 <span class=\"count\">%s</span>"
+
+#: bp-themes/bp-default/activity/index.php:77
+msgid "<span>%s new</span>"
+msgstr "<span>%s new</span>"
+
+#: bp-themes/bp-default/activity/index.php:87
+#: bp-themes/bp-default/groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr "RSS 피드"
+
+#: bp-themes/bp-default/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "해당 대화에 혼자입니다."
+
+#: bp-messages/bp-messages-loader.php:231
+msgid "All Member Notices"
+msgstr "모든 회원 공지"
+
+#: bp-messages/bp-messages-notifications.php:46
+msgid "New message from %s"
+msgstr "%s의 새 메시지"
+
+#: bp-messages/bp-messages-notifications.php:48
+msgid ""
+"%1$s sent you a new message:\n"
+"\n"
+"Subject: %2$s\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"To view and read your messages please log in and visit: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 새 메시지를 보냈습니다:\n"
+"\n"
+"제목: %2$s\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"메시지를 보려면 로그인하고 방문하세요: %4$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-messages/bp-messages-functions.php:236
+msgid "You have %d new messages"
+msgstr "%d 새 메시지"
+
+#: bp-messages/bp-messages-functions.php:233
+#: bp-messages/bp-messages-loader.php:122
+#: bp-messages/bp-messages-loader.php:191
+msgid "Inbox"
+msgstr "받은 메일"
+
+#: bp-messages/bp-messages-functions.php:61
+msgid "No Subject"
+msgstr "제목 없음"
+
+#: bp-groups/bp-groups-template.php:357
+msgid "Hidden Group"
+msgstr "숨은 그룹"
+
+#: bp-xprofile/bp-xprofile-template.php:855
+msgid "Profile not recently updated"
+msgstr "프로필이 최근에 업데이트되지 않았습니다."
+
+#: bp-xprofile/bp-xprofile-template.php:865
+msgid "Profile updated %s"
+msgstr "프로필 업데이트됨 %s"
+
+#: bp-xprofile/bp-xprofile-template.php:679
+msgid "December"
+msgstr "12월"
+
+#: bp-xprofile/bp-xprofile-template.php:847
+msgid "Avatar uploads are currently disabled. Why not use a <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a> instead?"
+msgstr "아바타 업로드가 현재 불가능합니다. 대신에 <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a>를 사용해 보세요."
+
+#: bp-xprofile/bp-xprofile-loader.php:110
+msgid "Logged In Users"
+msgstr "로그인 사용자"
+
+#: bp-members/bp-members-template.php:634
+msgid "registered %s"
+msgstr "등록된 %s"
+
+#: bp-members/bp-members-template.php:1076
+msgid "Your Avatar"
+msgstr "당신의 아바타"
+
+#: bp-members/bp-members-screens.php:98
+msgid "The passwords you entered do not match."
+msgstr "입력한 비밀번호가 일치하지 않습니다."
+
+#: bp-members/bp-members-screens.php:121
+msgid "This is a required field"
+msgstr "필수 입력란입니다"
+
+#: bp-members/bp-members-screens.php:251
+msgid "Your account is now active!"
+msgstr "계정이 이제 활성화됐습니다!"
+
+#: bp-members/bp-members-template.php:206
+msgctxt "Member pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-members/bp-members-template.php:207
+msgctxt "Member pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-groups/bp-groups-template.php:524
+msgid "Private"
+msgstr "개인"
+
+#: bp-xprofile/bp-xprofile-template.php:673
+msgid "June"
+msgstr "6월"
+
+#: bp-xprofile/bp-xprofile-template.php:674
+msgid "July"
+msgstr "7일"
+
+#: bp-xprofile/bp-xprofile-template.php:675
+msgid "August"
+msgstr "8월"
+
+#: bp-xprofile/bp-xprofile-template.php:676
+msgid "September"
+msgstr "9월"
+
+#: bp-xprofile/bp-xprofile-template.php:677
+msgid "October"
+msgstr "10월"
+
+#: bp-xprofile/bp-xprofile-template.php:668
+msgid "January"
+msgstr "1월"
+
+#: bp-xprofile/bp-xprofile-template.php:669
+msgid "February"
+msgstr "2월"
+
+#: bp-xprofile/bp-xprofile-template.php:670
+msgid "March"
+msgstr "3월"
+
+#: bp-xprofile/bp-xprofile-template.php:671
+msgid "April"
+msgstr "4월"
+
+#: bp-xprofile/bp-xprofile-template.php:672
+msgid "May"
+msgstr "5월"
+
+#: bp-xprofile/bp-xprofile-screens.php:126
+msgid "There was a problem updating some of your profile information, please try again."
+msgstr "프로필 정보를 업데이트하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-xprofile/bp-xprofile-screens.php:128
+msgid "Changes saved."
+msgstr "변경사항이 저장됐습니다."
+
+#: bp-xprofile/bp-xprofile-screens.php:180
+msgid "There was a problem cropping your avatar, please try uploading it again"
+msgstr "아바타를 자르는데 문제가 발생했습니다. 다시 업로드 해보세요"
+
+#: bp-xprofile/bp-xprofile-template.php:678
+msgid "November"
+msgstr "11월"
+
+#: bp-groups/bp-groups-template.php:433
+msgid "not yet active"
+msgstr "아직 비활성"
+
+#: bp-groups/bp-groups-template.php:602
+msgid "No Mods"
+msgstr "조정자 없음"
+
+#: bp-xprofile/bp-xprofile-screens.php:182
+msgid "Your new avatar was uploaded successfully!"
+msgstr "새 아바타가 성공적으로 업로드 됐습니다!"
+
+#: bp-xprofile/bp-xprofile-screens.php:95
+msgid "Please make sure you fill in all required fields in this profile field group before saving."
+msgstr "저장하기 전에 이 프로필 필드 그룹의 모든 필수 필드를 입력했는지 확인하세요."
+
+#: bp-members/bp-members-loader.php:68
+msgid "Search Members..."
+msgstr "회원 검색..."
+
+#: bp-xprofile/bp-xprofile-classes.php:931
+msgid "Please make sure you fill out all required fields."
+msgstr "모든 필수 필드를 채웠는지 확인하세요."
+
+#: bp-xprofile/bp-xprofile-classes.php:934
+msgid "Radio button field types require at least one option. Please add options below."
+msgstr "라디오 버튼 필드 형태는 최소한 하나의 옵션이 필요합니다. 아래에서 옵션을 추가하세요."
+
+#: bp-xprofile/bp-xprofile-classes.php:937
+#: bp-xprofile/bp-xprofile-classes.php:940
+msgid "Select box field types require at least one option. Please add options below."
+msgstr "선택 상자 필드 형태는 최소한 하나의 옵션이 필요합니다. 아래에서 옵션을 추가하세요."
+
+#: bp-xprofile/bp-xprofile-classes.php:943
+msgid "Checkbox field types require at least one option. Please add options below."
+msgstr "체크박스 필드 형태는 최소한 하나의 옵션이 필요합니다. 아래에서 옵션을 추가하세요."
+
+#: bp-xprofile/bp-xprofile-loader.php:106
+msgid "Anyone"
+msgstr "누구든지"
+
+#: bp-xprofile/bp-xprofile-classes.php:899
+msgid "Per-Member Visibility"
+msgstr "회원당 가시성"
+
+#: bp-xprofile/bp-xprofile-classes.php:901
+msgid "Let members change the this field's visibility"
+msgstr "회원이 이 필드의 가시성 변경 허용"
+
+#: bp-xprofile/bp-xprofile-classes.php:903
+msgid "Enforce the default visibility for all members"
+msgstr "모든 회원에게 기본 가시성 의무화"
+
+#: bp-xprofile/bp-xprofile-classes.php:890
+msgid "Default Visibility"
+msgstr "기본 가시성"
+
+#: bp-xprofile/bp-xprofile-admin.php:382
+msgid "(Required)"
+msgstr "(필수)"
+
+#: bp-xprofile/bp-xprofile-classes.php:866
+msgid "Radio Buttons"
+msgstr "라디오 버튼"
+
+#: bp-xprofile/bp-xprofile-classes.php:867
+msgid "Drop Down Select Box"
+msgstr "드랍다운 선택 박스"
+
+#: bp-xprofile/bp-xprofile-classes.php:868
+msgid "Multi Select Box"
+msgstr "다중 선택 박스"
+
+#: bp-xprofile/bp-xprofile-classes.php:869
+msgid "Checkboxes"
+msgstr "체크박스"
+
+#: bp-groups/bp-groups-template.php:684
+msgid "Filter Groups"
+msgstr "필터 그룹"
+
+#: bp-xprofile/bp-xprofile-classes.php:856
+msgid "Required"
+msgstr "필수"
+
+#: bp-xprofile/bp-xprofile-classes.php:861
+msgid "Field Type"
+msgstr "필드 형태"
+
+#: bp-xprofile/bp-xprofile-classes.php:863
+msgid "Text Box"
+msgstr "글 상자"
+
+#: bp-xprofile/bp-xprofile-classes.php:864
+msgid "Multi-line Text Box"
+msgstr "다중 라인 글 상자"
+
+#: bp-xprofile/bp-xprofile-classes.php:865
+msgid "Date Selector"
+msgstr "날짜 선택기"
+
+#: bp-xprofile/bp-xprofile-classes.php:855
+msgid "Not Required"
+msgstr "필수 아님"
+
+#: bp-xprofile/bp-xprofile-classes.php:853
+msgid "Is This Field Required?"
+msgstr "이 필드는 필수인가요?"
+
+#: bp-xprofile/bp-xprofile-classes.php:837
+msgid "Field Title"
+msgstr "필드 제목"
+
+#: bp-xprofile/bp-xprofile-classes.php:844
+msgid "Field Description"
+msgstr "필드 설명"
+
+#: bp-xprofile/bp-xprofile-classes.php:797
+msgid "Add Another Option"
+msgstr "다른 옵션 추가"
+
+#: bp-xprofile/bp-xprofile-classes.php:805
+msgid "Add Field"
+msgstr "필드 추가"
+
+#: bp-xprofile/bp-xprofile-classes.php:817
+msgid "Edit Field"
+msgstr "필드 편집"
+
+#: bp-xprofile/bp-xprofile-classes.php:771
+#: bp-xprofile/bp-xprofile-classes.php:791
+msgid "Default Value"
+msgstr "기본 값"
+
+#: bp-xprofile/bp-xprofile-classes.php:769
+#: bp-xprofile/bp-xprofile-classes.php:790
+msgid "Option"
+msgstr "옵션"
+
+#: bp-messages/bp-messages-functions.php:53
+msgid "Re: %s"
+msgstr "Re: %s"
+
+#: bp-xprofile/bp-xprofile-classes.php:745
+msgid "Name - Descending"
+msgstr "이름 - 내림차순"
+
+#: bp-xprofile/bp-xprofile-classes.php:744
+msgid "Name - Ascending"
+msgstr "이름 - 오름차순"
+
+#: bp-xprofile/bp-xprofile-classes.php:743
+msgid "Order Entered"
+msgstr "순서 입력됨"
+
+#: bp-xprofile/bp-xprofile-classes.php:405
+#: bp-xprofile/bp-xprofile-classes.php:913
+msgid "or"
+msgstr "또는"
+
+#: bp-xprofile/bp-xprofile-classes.php:740
+msgid "Please enter options for this Field:"
+msgstr "이 필드의 옵션을 입력하세요:"
+
+#: bp-xprofile/bp-xprofile-classes.php:385
+msgid "Field Group Title"
+msgstr "필드 그룹 제목"
+
+#: bp-xprofile/bp-xprofile-classes.php:394
+msgid "Group Description"
+msgstr "그룹 설명"
+
+#: bp-xprofile/bp-xprofile-classes.php:361
+msgid "Edit Field Group"
+msgstr "필드 그룹 편집"
+
+#: bp-xprofile/bp-xprofile-classes.php:371
+#: bp-xprofile/bp-xprofile-classes.php:824
+msgid "Fields marked * are required"
+msgstr "* 표시된 필드는 필수입니다"
+
+#: bp-xprofile/bp-xprofile-classes.php:359
+msgid "Create Field Group"
+msgstr "필드 그룹 생성하기"
+
+#: bp-xprofile/bp-xprofile-classes.php:271
+msgid "Please make sure you give the group a name."
+msgstr "그룹 이름을 입력했는지 확인하세요."
+
+#: bp-xprofile/bp-xprofile-admin.php:323
+msgid "The %s was deleted successfully!"
+msgstr "%s가 성공적으로 삭제됐습니다."
+
+#: bp-members/bp-members-template.php:348
+msgid "Viewing member %1$s to %2$s (of %3$s members with friends)"
+msgstr "%1$s에서 %2$s까지 회원 보임 (친구를 가진 %3$s 회원 중에서)"
+
+#: bp-members/bp-members-template.php:350
+msgid "Viewing member %1$s to %2$s (of %3$s members online)"
+msgstr "%1$s에서 %2$s까지 회원 보임 (%3$s 온라인 회원 중에서)"
+
+#: bp-members/bp-members-template.php:352
+msgid "Viewing member %1$s to %2$s (of %3$s members)"
+msgstr "%1$s에서 %2$s까지 회원 보임 (%3$s 회원 중에서)"
+
+#: bp-messages/bp-messages-actions.php:108
+msgid "There was an error deleting messages."
+msgstr "메시지를 삭제하는데 에러가 발생했습니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:316
+msgid "field"
+msgstr "필드"
+
+#: bp-xprofile/bp-xprofile-admin.php:316
+msgid "option"
+msgstr "옵션"
+
+#: bp-xprofile/bp-xprofile-admin.php:320
+msgid "There was an error deleting the %s. Please try again"
+msgstr "%s를 삭제하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-xprofile/bp-xprofile-admin.php:272
+msgid "The field was saved successfully."
+msgstr "필드가 성공적으로 저장됐습니다."
+
+#: bp-members/bp-members-functions.php:1219
+#: bp-members/bp-members-functions.php:1223
+msgid "Invalid activation key"
+msgstr "유효하지 않은 인증키"
+
+#: bp-xprofile/bp-xprofile-admin.php:265
+msgid "There was an error saving the field. Please try again"
+msgstr "필드를 저장중 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-xprofile/bp-xprofile-admin.php:224
+msgid "The group was deleted successfully."
+msgstr "그룹이 성공적으로 삭제됐습니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:221
+msgid "There was an error deleting the group. Please try again"
+msgstr "그룹 제거시 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-xprofile/bp-xprofile-admin.php:192
+msgid "The group was saved successfully."
+msgstr "그룹이 성공적으로 저장됐습니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:189
+msgid "There was an error saving the group. Please try again"
+msgstr "그룹 저장 중 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-xprofile/bp-xprofile-admin.php:162
+msgid "Add New Group"
+msgstr "새 그룹 추가"
+
+#: bp-messages/bp-messages-loader.php:33
+msgid "Private Messages"
+msgstr "개인 메시지"
+
+#: bp-xprofile/bp-xprofile-admin.php:152
+msgid "There are no fields in this group."
+msgstr "이 그룹에 필드가 없습니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:161
+msgid "You have no groups."
+msgstr "그룹이 없습니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:98 bp-xprofile/bp-xprofile-admin.php:382
+msgid "(Primary)"
+msgstr "(주)"
+
+#: bp-members/bp-members-template.php:346
+msgid "Viewing member %1$s to %2$s (of %3$s active members)"
+msgstr "%1$s에서 %2$s 까지 회원 보임 (%3$s 활성 회원 중에서)"
+
+#: bp-xprofile/bp-xprofile-admin.php:113
+msgid "Add New Field"
+msgstr "새 필드 추가"
+
+#: bp-xprofile/bp-xprofile-admin.php:75
+msgid "Fields in the \"%s\" group will appear on the signup page."
+msgstr "\"%s\" 그룹 필드는 회원 가입 페이지에 나타날 것입니다."
+
+#: bp-xprofile/bp-xprofile-admin.php:72 bp-xprofile/bp-xprofile-classes.php:357
+msgid "Add New Field Group"
+msgstr "새 필드 그룹 추가"
+
+#: bp-themes/bp-default/search.php:51
+msgid "No posts found. Try a different search?"
+msgstr "글을 찾을 수 없습니다. 다른 검색을 해보세요."
+
+#: bp-members/bp-members-template.php:1146
+msgid "Activity RSS Feed"
+msgstr "활동 RSS 피드"
+
+#: bp-messages/bp-messages-actions.php:36
+msgid "Your reply was sent successfully"
+msgstr "응답이 성공적으로 발송됐습니다"
+
+#: bp-messages/bp-messages-actions.php:54
+msgid "From: %s"
+msgstr "발신: %s"
+
+#: bp-messages/bp-messages-actions.php:47
+#: bp-messages/bp-messages-loader.php:104
+msgid "Messages <span>%s</span>"
+msgstr "메시지 <span>%s</span>"
+
+#: bp-xprofile/bp-xprofile-activity.php:129
+msgid "%s changed their profile picture"
+msgstr "%s가 프로필 사진을 변경했습니다"
+
+#: bp-xprofile/bp-xprofile-admin.php:27 bp-xprofile/bp-xprofile-admin.php:71
+msgid "Profile Fields"
+msgstr "프로필 입력란"
+
+#: bp-xprofile/bp-xprofile-activity.php:21
+msgid "New member registered"
+msgstr "새 회원 등록됨"
+
+#: bp-messages/bp-messages-actions.php:38
+msgid "There was a problem sending your reply, please try again"
+msgstr "응답을 보내는데 문제가 발생했습니다. 다시 해보세요"
+
+#: bp-themes/bp-default/single.php:45
+msgid "Sorry, no posts matched your criteria."
+msgstr "죄송합니다. 기준에 일치하는 글이 없습니다."
+
+#: bp-xprofile/bp-xprofile-activity.php:20
+msgid "Member changed profile picture"
+msgstr "회원이 프로필 사진을 변경했습니다"
+
+#: bp-themes/bp-default/single.php:36
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-themes/bp-default/single.php:35
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-themes/bp-default/sidebar.php:37
+msgid "Please <a href=\"%s\" title=\"Create an account\">create an account</a> to get started."
+msgstr "시작하려면 <a href=\"%s\" title=\"Create an account\">계정 만들기</a>를 해주세요."
+
+#: bp-themes/bp-default/sidebar.php:47
+msgid "Password"
+msgstr "비밀번호"
+
+#: bp-themes/bp-default/sidebar.php:50
+msgid "Remember Me"
+msgstr "기억하기"
+
+#: bp-themes/bp-default/sidebar.php:64
+msgid "Forum Topic Tags"
+msgstr "포럼 토픽 태그"
+
+#: bp-themes/bp-default/search.php:14
+msgid "Search Results"
+msgstr "검색 결과"
+
+#: bp-themes/bp-default/search.php:10
+msgid "Site"
+msgstr "사이트"
+
+#: bp-themes/bp-default/registration/register.php:211
+msgid "Blog URL"
+msgstr "블로그 URL"
+
+#: bp-themes/bp-default/registration/register.php:220
+msgid "Site Title"
+msgstr "사이트 제목"
+
+#: bp-themes/bp-default/registration/register.php:258
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr "계정을 성공적으로 생성했습니다! 이 사이트 사용을 시작하려면 이메일 주소로 보낸 이메일을 통해서 계정을 활성화 하세요."
+
+#: bp-themes/bp-default/registration/register.php:252
+msgid "Sign Up Complete!"
+msgstr "회원 등록 완료!"
+
+#: bp-themes/bp-default/registration/register.php:41
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: bp-messages/bp-messages-actions.php:84
+msgid "There was an error deleting that message."
+msgstr "해당 메시지를 삭제하는데 에러가 발생했습니다."
+
+#: bp-messages/bp-messages-actions.php:86
+msgid "Message deleted."
+msgstr "메시지 삭제됨."
+
+#: bp-messages/bp-messages-actions.php:110
+#: bp-themes/bp-default/_inc/ajax.php:853
+msgid "Messages deleted."
+msgstr "메시지 삭제됨"
+
+#: bp-messages/bp-messages-classes.php:261
+msgid "%s Recipients"
+msgstr "%s 받는이"
+
+#: bp-messages/bp-messages-loader.php:87
+msgid "Search Messages..."
+msgstr "메시지 검색..."
+
+#: bp-themes/bp-default/registration/register.php:45
+msgid "Choose a Password"
+msgstr "비밀번호 선택"
+
+#: bp-themes/bp-default/registration/register.php:49
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#: bp-themes/bp-default/registration/register.php:35
+msgid "Account Details"
+msgstr "계정 상세"
+
+#: bp-themes/bp-default/registration/register.php:37
+#: bp-themes/bp-default/sidebar.php:44
+msgid "Username"
+msgstr "사용자명"
+
+#: bp-themes/bp-default/registration/register.php:65
+msgid "Profile Details"
+msgstr "프로필 상세"
+
+#: bp-themes/bp-default/registration/register.php:205
+msgid "Blog Details"
+msgstr "블로그 상세"
+
+#: bp-xprofile/bp-xprofile-activity.php:22
+msgid "Updated Profile"
+msgstr "프로필 업데이트됨"
+
+#: bp-themes/bp-default/registration/activate.php:32
+msgid "Activation Key:"
+msgstr "인증키:"
+
+#: bp-themes/bp-default/registration/register.php:16
+msgid "User registration is currently not allowed."
+msgstr "사용자 등록이 현재 허용되지 않습니다."
+
+#: bp-themes/bp-default/registration/register.php:27
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr "이 사이트의 등록은 쉽습니다. 아래의 입력란을 채우면 빠른 시간 내에 새 계정을 설정할 것입니다."
+
+#: bp-themes/bp-default/registration/register.php:207
+msgid "Yes, I'd like to create a new site"
+msgstr "네, 새 사이트를 생성하고 싶습니다"
+
+#: bp-themes/bp-default/members/single/settings/general.php:65
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "비밀번호 변경 <span>(변경이 없으면 비워두세요)</span>"
+
+#: bp-members/bp-members-template.php:555
+msgid "Never active"
+msgstr "활성된 적 없음"
+
+#: bp-themes/bp-default/registration/register.php:260
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr "계정을 성공적으로 생성했습니다! 방금 생성한 사용자명과 비밀번호를 사용해서 로그인하세요."
+
+#: bp-themes/bp-default/registration/activate.php:19
+msgid "Your account was activated successfully! You can now log in with the username and password you provided when you signed up."
+msgstr "계정이 성공적으로 활성화됐습니다! 등록할 때 제공한 사용자명과 비밀번호로 로그인 할 수 있습니다."
+
+#: bp-themes/bp-default/registration/activate.php:17
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr "계정이 성공적으로 활성화 됐습니다! 계정 상세는 별개의 이메일로 보냈습니다."
+
+#: bp-themes/bp-default/registration/activate.php:12
+msgid "Account Activated"
+msgstr "계정 활성화됨"
+
+#: bp-members/bp-members-functions.php:1260
+msgid "%s became a registered member"
+msgstr "%s가 등록된 회원으로 됐습니다"
+
+#: bp-themes/bp-default/onecolumn-page.php:29 bp-themes/bp-default/page.php:18
+msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
+msgstr "<p class=\"serif\">이 페이지의 나머지 읽기 &rarr;</p>"
+
+#: bp-themes/bp-default/activity/index.php:71
+msgid "My Favorites <span>%s</span>"
+msgstr "내 즐겨찾기 <span>%s</span>"
+
+#: bp-themes/bp-default/members/single/settings/notifications.php:49
+msgid "Email Notification"
+msgstr "이메일 통지"
+
+#: bp-themes/bp-default/members/single/settings/notifications.php:54
+msgid "Send a notification by email when:"
+msgstr "이메일로 통지 보내기:"
+
+#: bp-themes/bp-default/registration/activate.php:28
+msgid "Please provide a valid activation key."
+msgstr "유효한 인증키를 제공해주세요."
+
+#: bp-themes/bp-default/onecolumn-page.php:32 bp-themes/bp-default/page.php:21
+msgid "Edit this page."
+msgstr "이 페이지 편집."
+
+#: bp-themes/bp-default/members/single/settings/general.php:67
+msgid "Repeat New Password"
+msgstr "새 비밀번호를 반복하세요"
+
+#: bp-themes/bp-default/members/single/settings/general.php:66
+msgid "New Password"
+msgstr "새 비밀번호"
+
+#: bp-themes/bp-default/members/single/settings/general.php:62
+msgid "Account Email"
+msgstr "계정 이메일"
+
+#: bp-themes/bp-default/members/single/settings/general.php:58
+msgid "Lost your password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+#: bp-themes/bp-default/members/single/settings/general.php:58
+msgid "Password Lost and Found"
+msgstr "비밀번호 잊음 & 찾기"
+
+#: bp-themes/bp-default/members/single/settings/general.php:49
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: bp-themes/bp-default/members/single/settings/general.php:57
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr "현재 비밀번호 <span>(이메일 업데이트나 현재 비밀번호 변경시 필요)</span>"
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:60
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr "이 계정을 삭제하면 생성된 모든 컨텐트가 삭제됩니다. 복구 불가능합니다."
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:72
+msgid "I understand the consequences."
+msgstr "결과를 잘 이해합니다."
+
+#: bp-themes/bp-default/members/single/settings/delete-account.php:56
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr "계정을 삭제하면 생성한 모든 컨텐트가 삭제됩니다. 복구 불가능합니다."
+
+#: bp-themes/bp-default/members/single/settings/capabilities.php:57
+msgid "This user is a spammer."
+msgstr "해당 사용자는 스패머입니다."
+
+#: bp-members/bp-members-loader.php:192
+msgid "You"
+msgstr "회원"
+
+#: bp-members/bp-members-screens.php:94
+msgid "Please make sure you enter your password twice"
+msgstr "반드시 비밀번호를 두번 입력하세요"
+
+#: bp-members/bp-members-template.php:577
+msgctxt "member latest update in member directory"
+msgid "- &quot;%s &quot;"
+msgstr "- &quot;%s &quot;"
+
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:8
+msgid "%s's Profile"
+msgstr "%s의 프로필"
+
+#: bp-themes/bp-default/registration/register.php:241
+msgid "Complete Sign Up"
+msgstr "회원 등록 완료하기"
+
+#: bp-themes/bp-default/members/single/profile/edit.php:118
+msgid "Change"
+msgstr "변경하기"
+
+#: bp-themes/bp-default/members/single/profile/edit.php:123
+#: bp-themes/bp-default/registration/register.php:164
+msgid "Who can see this field?"
+msgstr "이 란은 누가 볼 수 있나요?"
+
+#: bp-themes/bp-default/activity/index.php:21
+msgid "Site Activity"
+msgstr "사이트 활동"
+
+#: bp-themes/bp-default/activity/index.php:39
+msgid "The public activity for everyone on this site."
+msgstr "이 사이트에서 모든 사람의 공개 활동."
+
+#: bp-themes/bp-default/activity/index.php:39
+#: bp-themes/bp-default/members/index.php:33
+msgid "All Members <span>%s</span>"
+msgstr "모든 회원 <span>%s</span>"
+
+#: bp-themes/bp-default/members/single/profile/edit.php:118
+#: bp-themes/bp-default/members/single/profile/edit.php:132
+#: bp-themes/bp-default/registration/register.php:159
+#: bp-themes/bp-default/registration/register.php:174
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "이 란은 다음이 볼 수 있습니다: <span class=\"current-visibility-level\">%s</span>"
+
+#: bp-themes/bp-default/blogs/index.php:53
+#: bp-themes/bp-default/forums/index.php:60
+#: bp-themes/bp-default/groups/index.php:55
+#: bp-themes/bp-default/groups/single/forum.php:36
+#: bp-themes/bp-default/members/index.php:53
+#: bp-themes/bp-default/members/single/blogs.php:19
+#: bp-themes/bp-default/members/single/forums.php:18
+#: bp-themes/bp-default/members/single/friends.php:20
+#: bp-themes/bp-default/members/single/groups.php:20
+#: bp-xprofile/bp-xprofile-classes.php:741
+msgid "Order By:"
+msgstr "순서:"
+
+#: bp-themes/bp-default/blogs/index.php:55
+#: bp-themes/bp-default/forums/index.php:62
+#: bp-themes/bp-default/groups/index.php:57
+#: bp-themes/bp-default/groups/single/forum.php:38
+#: bp-themes/bp-default/members/index.php:55
+#: bp-themes/bp-default/members/single/blogs.php:21
+#: bp-themes/bp-default/members/single/forums.php:20
+#: bp-themes/bp-default/members/single/friends.php:22
+#: bp-themes/bp-default/members/single/groups.php:22
+msgid "Last Active"
+msgstr "최근 활성"
+
+#: bp-themes/bp-default/forums/index.php:40
+msgid "All Topics <span>%s</span>"
+msgstr "모든 토픽 <span>%s</span>"
+
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr "죄송합니다. 공지를 찾을 수 없습니다."
+
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr "발송:"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:69
+msgid "Sorry, no messages were found."
+msgstr "죄송합니다. 메시지를 찾을 수 없습니다."
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:51
+#: bp-themes/bp-default/members/single/messages/notices-loop.php:43
+#: bp-themes/bp-default/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr "메시지 삭제"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:43
+msgid "View Message"
+msgstr "메시지 보기"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:37
+msgid "To:"
+msgstr "수취인:"
+
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:32
+msgid "From:"
+msgstr "발신인:"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "메시지 보내기"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "메시지"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "제목"
+
+#: bp-themes/bp-default/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "모든 사용자에 대한 공지입니다."
+
+#: bp-themes/bp-default/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "보내기 (사용자명 또는 친구 이름)"
+
+#: bp-themes/bp-default/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "두드러진 그룹 초정이 없습니다."
+
+#: bp-themes/bp-default/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "대기 중인 친구 관계 요청이 없습니다."
+
+#: bp-themes/bp-default/members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr "죄송합니다. 회원을 찾을 수 없습니다."
+
+#: bp-themes/bp-default/members/index.php:56
+#: bp-themes/bp-default/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "최신 등록"
+
+#: bp-themes/bp-default/members/index.php:21
+msgid "Members Directory"
+msgstr "회원 디렉토리"
+
+#: bp-themes/bp-default/links.php:16
+msgid "Links"
+msgstr "링크"
+
+#: bp-themes/bp-default/index.php:55
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "죄송합니다. 여기에 없는 것을 찾고 있습니다."
+
+#: bp-themes/bp-default/index.php:27
+msgctxt "Sticky post"
+msgid "Featured"
+msgstr "인기있는"
+
+#: bp-themes/bp-default/header.php:25
+msgid "Search for:"
+msgstr "검색:"
+
+#: bp-themes/bp-default/header.php:22
+msgctxt "Home page banner link title"
+msgid "Home"
+msgstr "홈"
+
+#: bp-themes/bp-default/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "요청 보내기"
+
+#: bp-themes/bp-default/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "댓글(선택사항)"
+
+#: bp-themes/bp-default/groups/single/request-membership.php:4
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "그룹 '%s'의 회원 요청을 했습니다."
+
+#: bp-themes/bp-default/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "그룹 조정자"
+
+#: bp-themes/bp-default/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "그룹 관리자"
+
+#: bp-themes/bp-default/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "새 토픽 올리기:"
+
+#: bp-themes/bp-default/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "새 토픽을 시작하면 해당 그룹에 자동으로 참여하게 됩니다."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr "이 토픽에 응답을 달면 해당 그룹에 참여하게 됩니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:352
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "경구: 이 그룹을 삭제하면 관련된 모든 컨텐트가 삭제됩니다. 복구할 방법이 없으니 해당 옵션을 주의해서 사용하세요."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr "해당 토픽의 글이 없습니다."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr "이 글의 고유주소 링크 "
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:81
+msgid "%1$s said %2$s:"
+msgstr "%1$s 말하기를 %2$s:"
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "토픽 태그:"
+
+#: bp-themes/bp-default/groups/single/admin.php:335
+msgid "There are no pending membership requests."
+msgstr "대기중인 회원 요청이 없습니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:290
+#: bp-themes/bp-default/groups/single/members.php:87
+msgid "This group has no members."
+msgstr "해당 그룹은 회원이 없습니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "차단 제거"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:1
+#: bp-xprofile/bp-xprofile-loader.php:182
+#: bp-xprofile/bp-xprofile-loader.php:238
+msgid "Change Avatar"
+msgstr "아바타 변경"
+
+#: bp-themes/bp-default/members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr "응답 보내기"
+
+#: bp-themes/bp-default/members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr "응답 보내기"
+
+#: bp-themes/bp-default/members/single/messages/single.php:18
+msgid "Conversation between %s and you."
+msgstr "%s와 대화."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "새 응답"
+
+#: bp-themes/bp-default/groups/single/admin.php:320
+#: bp-themes/bp-default/members/single/friends/requests.php:37
+#: bp-themes/bp-default/members/single/groups/invites.php:23
+msgid "Accept"
+msgstr "수락"
+
+#: bp-themes/bp-default/groups/single/admin.php:266
+msgid "Unban this member"
+msgstr "해당 회원 차단 해제"
+
+#: bp-themes/bp-default/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "그룹에서 제거"
+
+#: bp-themes/bp-default/groups/single/admin.php:260
+msgid "(banned)"
+msgstr "(차단됨)"
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "이 토픽은 닫혔습니다. 응답은 수락되지 않습니다."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr "응답 추가:"
+
+#: bp-themes/bp-default/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "편집:"
+
+#: bp-themes/bp-default/groups/single/admin.php:355
+msgid "I understand the consequences of deleting this group."
+msgstr "이 그룹을 삭제한 결과에 대해 잘 이해합니다."
+
+#: bp-themes/bp-default/groups/single/forum/topic.php:144
+msgid "Post Reply"
+msgstr "응답 올리기"
+
+#: bp-themes/bp-default/groups/single/admin.php:276
+msgid "Remove this member"
+msgstr "해당 회원 삭제"
+
+#: bp-themes/bp-default/groups/single/admin.php:270
+msgid "Kick and ban this member"
+msgstr "해당 회원 추방 및 차단"
+
+#: bp-themes/bp-default/groups/single/forum/edit.php:16
+#: bp-themes/bp-default/groups/single/forum/topic.php:17
+#: bp-themes/bp-default/groups/single/forum.php:27
+msgid "Forum Directory"
+msgstr "포럼 디렉토리"
+
+#: bp-themes/bp-default/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "추방 및 차단"
+
+#: bp-themes/bp-default/groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr "조정자로 승격"
+
+#: bp-themes/bp-default/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "해당 토픽이 존재하지 않습니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:322
+#: bp-themes/bp-default/members/single/friends/requests.php:38
+#: bp-themes/bp-default/members/single/groups/invites.php:24
+msgid "Reject"
+msgstr "거절"
+
+#: bp-themes/bp-default/blogs/index.php:37
+msgid "My Sites <span>%s</span>"
+msgstr "내 사이트 <span>%s</span>"
+
+#: bp-themes/bp-default/blogs/index.php:33
+msgid "All Sites <span>%s</span>"
+msgstr "모든 사이트 <span>%s</span>"
+
+#: bp-themes/bp-default/archive.php:50 bp-themes/bp-default/index.php:54
+msgid "Not Found"
+msgstr "찾을 수 없습니다"
+
+#: bp-themes/bp-default/attachment.php:26 bp-themes/bp-default/single.php:24
+msgid "Edit this entry"
+msgstr "이 항목 편집하기"
+
+#: bp-themes/bp-default/forums/forums-loop.php:54
+msgid "Permalink"
+msgstr "고유주소"
+
+#: bp-themes/bp-default/forums/forums-loop.php:61
+msgid "Started by %1$s"
+msgstr "%1$s 시작"
+
+#: bp-themes/bp-default/forums/forums-loop.php:72
+msgid "in %1$s"
+msgstr "%1$s에서"
+
+#: bp-themes/bp-default/forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr "죄송합니다. 포럼 토픽을 찾을 수 없습니다."
+
+#: bp-themes/bp-default/attachment.php:40
+msgid "Full size is %s pixels"
+msgstr "풀 사이즈는 %s 픽셀입니다"
+
+#: bp-themes/bp-default/attachment.php:43
+msgid "Link to full size image"
+msgstr "풀사이즈 이미지로 링크"
+
+#: bp-themes/bp-default/attachment.php:62
+msgid "Sorry, no attachments matched your criteria."
+msgstr "죄송합니다. 해당 기준에 맞는 첨부가 없습니다."
+
+#: bp-themes/bp-default/members/single/profile/edit.php:10
+msgid "Editing '%s' Profile Group"
+msgstr "'%s' 프로필 그룹 편집"
+
+#: bp-themes/bp-default/members/single/profile/edit.php:26
+#: bp-themes/bp-default/members/single/profile/edit.php:33
+#: bp-themes/bp-default/members/single/profile/edit.php:40
+#: bp-themes/bp-default/members/single/profile/edit.php:49
+#: bp-themes/bp-default/members/single/profile/edit.php:67
+#: bp-themes/bp-default/members/single/profile/edit.php:83
+#: bp-themes/bp-default/members/single/profile/edit.php:93
+#: bp-themes/bp-default/registration/register.php:37
+#: bp-themes/bp-default/registration/register.php:41
+#: bp-themes/bp-default/registration/register.php:45
+#: bp-themes/bp-default/registration/register.php:49
+#: bp-themes/bp-default/registration/register.php:76
+#: bp-themes/bp-default/registration/register.php:84
+#: bp-themes/bp-default/registration/register.php:92
+#: bp-themes/bp-default/registration/register.php:102
+#: bp-themes/bp-default/registration/register.php:113
+#: bp-themes/bp-default/registration/register.php:128
+#: bp-themes/bp-default/registration/register.php:139
+#: bp-themes/bp-default/registration/register.php:211
+#: bp-themes/bp-default/registration/register.php:220
+msgid "(required)"
+msgstr "(필수)"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:23
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr "현재 아바타를 삭제하고 새 것을 업로드하지 않으려면 아바타 삭제 버튼을 사용하세요."
+
+#: bp-themes/bp-default/functions.php:431
+msgid "Fourth Footer Widget Area"
+msgstr "네번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:433
+msgid "The fourth footer widget area"
+msgstr "네번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:488
+msgid "<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said on <a href=\"%3$s\"><span class=\"time-since\">%4$s</span></a>"
+msgstr "<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> 가 <a href=\"%3$s\"><span class=\"time-since\">%4$s</span></a>에 말했습니다"
+
+#: bp-themes/bp-default/functions.php:495
+msgid "Your comment is awaiting moderation."
+msgstr "댓글이 승인을 기다리고 있습니다."
+
+#: bp-themes/bp-default/functions.php:507
+msgid "Edit comment"
+msgstr "댓글 편집"
+
+#: bp-themes/bp-default/functions.php:577
+msgid "Theme activated! This theme contains <a href=\"%s\">custom header image</a> support and <a href=\"%s\">sidebar widgets</a>."
+msgstr "테마가 활성화됨! 이 테마는 <a href=\"%s\">사용자 정의 헤더 이미지</a> 지원과 <a href=\"%s\">사이드바 위젯</a>을 포함합니다."
+
+#: bp-themes/bp-default/functions.php:643
+msgid "Email"
+msgstr "이메일"
+
+#: bp-themes/bp-default/functions.php:653
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "댓글을 달려면 <a href=\"%1$s\">로그인</a> 해야합니다."
+
+#: bp-themes/bp-default/functions.php:654
+msgid "Leave a reply"
+msgstr "댓글을 달아주세요"
+
+#: bp-themes/bp-default/functions.php:741
+msgid "&larr; Previous Entries"
+msgstr "&larr; 이전 항목"
+
+#: bp-themes/bp-default/functions.php:742
+msgid "Next Entries &rarr;"
+msgstr "다음 항목 &rarr;"
+
+#: bp-themes/bp-default/groups/create.php:18
+#: bp-themes/bp-default/groups/index.php:21
+msgid "Groups Directory"
+msgstr "그룹 디렉토리"
+
+#: bp-themes/bp-default/groups/create.php:39
+#: bp-themes/bp-default/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "그룹 이름(필수)"
+
+#: bp-themes/bp-default/groups/create.php:42
+#: bp-themes/bp-default/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "그룹 설명(필수)"
+
+#: bp-themes/bp-default/groups/create.php:58
+#: bp-themes/bp-default/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "사생활 보호 옵션"
+
+#: bp-themes/bp-default/groups/create.php:62
+#: bp-themes/bp-default/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "공개 그룹입니다"
+
+#: bp-themes/bp-default/groups/create.php:64
+#: bp-themes/bp-default/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "모든 사이트 회원은 이 그룹에 참가할 수 있습니다."
+
+#: bp-themes/bp-default/groups/create.php:65
+#: bp-themes/bp-default/groups/create.php:74
+#: bp-themes/bp-default/groups/single/admin.php:64
+#: bp-themes/bp-default/groups/single/admin.php:74
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "이 그룹은 그룹 디렉토리와 검색 결과에 나타날 것입니다."
+
+#: bp-themes/bp-default/groups/create.php:66
+#: bp-themes/bp-default/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "그룹 컨텐트와 활동이 모든 사이트 회원에게 보여질 것입니다."
+
+#: bp-themes/bp-default/groups/create.php:71
+#: bp-themes/bp-default/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "개인 그룹입니다"
+
+#: bp-themes/bp-default/groups/create.php:73
+#: bp-themes/bp-default/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "회원 가입을 요청하고 수락된 사용자만이 그룹에 참여할 수 있습니다."
+
+#: bp-themes/bp-default/groups/create.php:75
+#: bp-themes/bp-default/groups/create.php:84
+#: bp-themes/bp-default/groups/single/admin.php:75
+#: bp-themes/bp-default/groups/single/admin.php:85
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "그룹 컨텐트와 활동이 그룹 회원에게만 보여질 것입니다."
+
+#: bp-themes/bp-default/groups/create.php:80
+#: bp-themes/bp-default/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "숨은 그룹입니다"
+
+#: bp-themes/bp-default/groups/create.php:82
+#: bp-themes/bp-default/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "초대받은 사용자만 그룹에 참여할 수 있습니다."
+
+#: bp-themes/bp-default/groups/create.php:83
+#: bp-themes/bp-default/groups/single/admin.php:84
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "이 그룹은 그룹 디렉토리나 검색결과에 나타나지 않습니다."
+
+#: bp-themes/bp-default/groups/create.php:89
+#: bp-themes/bp-default/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "그룹 초대"
+
+#: bp-themes/bp-default/comments.php:24
+msgid "1 response to %2$s"
+msgid_plural "%1$s responses to %2$s"
+msgstr[0] "%2$s에 대한 1 응답"
+
+#: bp-themes/bp-default/comments.php:50
+msgid "Comments are closed."
+msgstr "댓글이 닫혔습니다."
+
+#: bp-themes/bp-default/comments.php:62
+msgid "1 trackback"
+msgid_plural "%d trackbacks"
+msgstr[0] "1 트랙백"
+
+#: bp-themes/bp-default/groups/create.php:246
+#: bp-themes/bp-default/groups/single/send-invites.php:73
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr "친구 연결을 설정한 이후에는 다른 사람을 그룹에 초대할 수 있습니다. 나중에 새 그룹 보기 할때 \"초대장 보내기\" 옵션을 선택해서 언제라도 초대장을 보낼 수 있습니다."
+
+#: bp-themes/bp-default/groups/create.php:211
+#: bp-themes/bp-default/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr "친구 목록에서 초대할 사람 선택하기"
+
+#: bp-themes/bp-default/groups/create.php:172
+#: bp-themes/bp-default/groups/single/admin.php:157
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr "이미지 자르기"
+
+#: bp-themes/bp-default/groups/create.php:169
+#: bp-themes/bp-default/groups/single/admin.php:154
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:36
+msgid "Avatar preview"
+msgstr "아바타 미리보기"
+
+#: bp-themes/bp-default/groups/create.php:112
+msgid "Group Forums"
+msgstr "그룹 포럼"
+
+#: bp-themes/bp-default/groups/create.php:116
+msgid "Should this group have a forum?"
+msgstr "이 그룹은 포럼이 있나요?"
+
+#: bp-themes/bp-default/groups/create.php:119
+#: bp-themes/bp-default/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "토론 포럼 활성화"
+
+#: bp-themes/bp-default/groups/create.php:123
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr "<strong>사이트 관리자 주의:</strong> 그룹 포럼은 비비프레스 설치에서 <a href=\"%s\">올바른 설정과 환경설정</a>이 필수입니다."
+
+#: bp-themes/bp-default/groups/create.php:166
+#: bp-themes/bp-default/groups/single/admin.php:151
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:33
+msgid "Avatar to crop"
+msgstr "자르기할 아바타"
+
+#: bp-themes/bp-default/groups/create.php:164
+msgid "Crop Group Avatar"
+msgstr "그룹 아바타 자르기"
+
+#: bp-themes/bp-default/groups/create.php:157
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "아바타 업로드 과정을 생략하려면, \"다음 단계\"버튼을 클릭하세요."
+
+#: bp-themes/bp-default/groups/create.php:153
+#: bp-themes/bp-default/groups/single/admin.php:131
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: bp-themes/bp-default/groups/create.php:149
+#: bp-themes/bp-default/groups/single/admin.php:127
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "해당 그룹의 아바타로 사용하기 위한 이미지를 업로드 하세요. 이미지는 메인 그룹 페이지와 검색 결과에 나타날 것입니다."
+
+#: bp-themes/bp-default/groups/create.php:106
+#: bp-themes/bp-default/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "그룹 관리자만"
+
+#: bp-themes/bp-default/forums/forums-loop.php:39
+msgid "Topic"
+msgstr "토픽"
+
+#: bp-themes/bp-default/forums/index.php:23
+msgid "Forums Directory"
+msgstr "포럼 디렉토리"
+
+#: bp-groups/bp-groups-template.php:361
+msgid "Group"
+msgstr "그룹"
+
+#: bp-groups/bp-groups-screens.php:702
+msgid "User ban removed successfully"
+msgstr "사용자 차단이 성공적으로 제거됐습니다"
+
+#: bp-groups/bp-groups-template.php:173
+msgctxt "Group pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-groups/bp-groups-template.php:174
+msgctxt "Group pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-groups/bp-groups-template.php:355
+msgid "Public Group"
+msgstr "공개 그룹"
+
+#: bp-groups/bp-groups-screens.php:718
+msgid "There was an error removing that user from the group, please try again"
+msgstr "해당 사용자를 그룹에서 제거하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-groups/bp-groups-template.php:359
+msgid "Private Group"
+msgstr "개인 그룹"
+
+#: bp-groups/bp-groups-screens.php:720
+msgid "User removed successfully"
+msgstr "사용자가 성공적으로 제거됐습니다"
+
+#: bp-groups/bp-groups-screens.php:758
+msgid "There was an error accepting the membership request, please try again."
+msgstr "회원 가입 요청을 수락하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:760
+msgid "Group membership request accepted"
+msgstr "그룹 회원 가입 요청이 수락 됐습니다"
+
+#: bp-groups/bp-groups-screens.php:769
+msgid "There was an error rejecting the membership request, please try again."
+msgstr "회원 가입 요청을 거절하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:771
+msgid "Group membership request rejected"
+msgstr "그룹 회원 가입 요청이 거절됐습니다"
+
+#: bp-groups/bp-groups-screens.php:801
+msgid "There was an error deleting the group, please try again."
+msgstr "그룹을 삭제하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:803
+msgid "The group was deleted successfully"
+msgstr "그룹이 성공적으로 삭제됐습니다."
+
+#: bp-groups/bp-groups-screens.php:853
+msgid "A member invites you to join a group"
+msgstr "회원이 그룹에 당신을 참여하도록 초대했습니다"
+
+#: bp-groups/bp-groups-screens.php:859
+msgid "Group information is updated"
+msgstr "그룹 정보가 업데이트 됐습니다"
+
+#: bp-groups/bp-groups-screens.php:865
+msgid "You are promoted to a group administrator or moderator"
+msgstr "그룹 관리자 또는 조정자로 승격됐습니다"
+
+#: bp-groups/bp-groups-screens.php:871
+msgid "A member requests to join a private group for which you are an admin"
+msgstr "회원이 당신이 관리자인 개인 그룹에 참여하기를 요청했습니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "관리자"
+
+#: bp-themes/bp-default/groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr "변경을 이메일로 그룹 회원에게 통지하기"
+
+#: bp-themes/bp-default/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "아바타 자르기"
+
+#: bp-themes/bp-default/groups/single/admin.php:139
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:24
+msgid "Delete Avatar"
+msgstr "아바타 삭제"
+
+#: bp-themes/bp-default/_inc/ajax.php:726
+msgid "There was a problem closing the notice."
+msgstr "해당 공지를 닫는데 문제가 발생했습니다."
+
+#: bp-themes/bp-default/groups/single/admin.php:137
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "기존 아바타를 제거하고 새 것을 업로드 하지 않으려면 아바타 삭제 버튼을 사용하세요."
+
+#: bp-themes/bp-default/groups/index.php:59
+#: bp-themes/bp-default/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "새로 생성됨"
+
+#: bp-themes/bp-default/groups/index.php:58
+#: bp-themes/bp-default/members/single/groups.php:23
+msgid "Most Members"
+msgstr "대부분의 회원"
+
+#: bp-themes/bp-default/groups/index.php:35
+msgid "All Groups <span>%s</span>"
+msgstr "모든 그룹 <span>%s</span>"
+
+#: bp-themes/bp-default/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "그룹을 찾을 수 없습니다."
+
+#: bp-themes/bp-default/groups/create.php:282
+msgid "Create Group and Continue"
+msgstr "그룹 생성후 계속하기"
+
+#: bp-themes/bp-default/groups/create.php:275
+msgid "Next Step"
+msgstr "다음 단계"
+
+#: bp-themes/bp-default/groups/create.php:268
+msgid "Back to Previous Step"
+msgstr "이전 단계로 가기"
+
+#: bp-groups/bp-groups-template.php:2168
+msgid "Group avatar"
+msgstr "그룹 아바타"
+
+#: bp-groups/bp-groups-template.php:2309 bp-groups/bp-groups-template.php:2335
+msgid "Most Popular"
+msgstr "가장 인기있는"
+
+#: bp-groups/bp-groups-template.php:2308 bp-groups/bp-groups-template.php:2332
+msgid "Recently Joined"
+msgstr "최근에 참가함"
+
+#: bp-groups/bp-groups-template.php:1626
+msgid "This is a private group and you must request group membership in order to join."
+msgstr "이것은 개인 그룹이며 참여하려면 그룹 회원 가입을 요청해야합니다."
+
+#: bp-groups/bp-groups-template.php:1595 bp-groups/bp-groups-template.php:1596
+msgid "Request Sent"
+msgstr "요청 발송"
+
+#: bp-groups/bp-groups-template.php:1628
+msgid "This is a private group. To join you must be a registered site member and request group membership."
+msgstr "이것은 개인 그룹입니다. 참여하려면 등록된 사이트 회원이어야 하고 그룹 회원가입 요청을 해야 합니다."
+
+#: bp-groups/bp-groups-template.php:1942
+msgid "Viewing members %1$s to %2$s (of %3$s members)"
+msgstr "%1$s에서 %2$s까지 회원 보임 (%3$s 회원 중에서)"
+
+#: bp-groups/bp-groups-template.php:1635
+msgid "This is a hidden group and only invited members can join."
+msgstr "이것은 숨은 그룹이며 초대된 회원만 참여할 수 있습니다."
+
+#: bp-members/bp-members-functions.php:1046
+msgid "Only lowercase letters and numbers allowed"
+msgstr "소문자와 숫자만 가능합니다"
+
+#: bp-members/bp-members-functions.php:1038
+msgid "Please enter a username"
+msgstr "사용자 이름을 입력하세요"
+
+#: bp-members/bp-members-functions.php:862
+msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
+msgstr "<strong>에러</strong>: 당신의 계정이 스패머로 처리됐습니다."
+
+#: bp-messages/bp-messages-template.php:439
+msgid "Unread"
+msgstr "안 읽음"
+
+#: bp-messages/bp-messages-template.php:434
+msgid "Select:"
+msgstr "선택:"
+
+#: bp-messages/bp-messages-screens.php:163
+msgid "A new site notice is posted"
+msgstr "새 사이트 공지가 게시됐습니다"
+
+#: bp-messages/bp-messages-template.php:84
+msgctxt "Message pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-messages/bp-messages-template.php:358
+msgid "Viewing message %1$s to %2$s (of %3$s messages)"
+msgstr "%1$s에서 %2$s까지 메시지 보임 (%3$s 메시지 중에서)"
+
+#: bp-messages/bp-messages-template.php:85
+msgctxt "Message pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-messages/bp-messages-template.php:438
+msgid "Read"
+msgstr "읽음"
+
+#: bp-messages/bp-messages-screens.php:157
+msgid "A member sends you a new message"
+msgstr "회원이 새 메시지를 발송했습니다"
+
+#: bp-messages/bp-messages-screens.php:116
+msgid "Notice deleted."
+msgstr "공지 삭제됨."
+
+#: bp-messages/bp-messages-screens.php:102
+msgid "There was a problem deactivating that notice."
+msgstr "해당 공지를 비활성화 하는데 문제가 발생했습니다."
+
+#: bp-messages/bp-messages-screens.php:110
+msgid "Notice activated."
+msgstr "공지 활성화됨"
+
+#: bp-messages/bp-messages-screens.php:104
+msgid "Notice deactivated."
+msgstr "공지 비활성화됨."
+
+#: bp-messages/bp-messages-screens.php:114
+msgid "There was a problem deleting that notice."
+msgstr "해당 공지를 삭제하는데 문제가 발생했습니다."
+
+#: bp-messages/bp-messages-screens.php:108
+msgid "There was a problem activating that notice."
+msgstr "해당 메시지를 활성화 하는데 문제가 발생했습니다."
+
+#: bp-groups/bp-groups-template.php:1135
+msgid "This group has no moderators"
+msgstr "이 그룹은 조정자가 없습니다"
+
+#: bp-groups/bp-groups-template.php:1101
+#: bp-themes/bp-default/groups/single/admin.php:216
+#: bp-themes/bp-default/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "관리자로 승격"
+
+#: bp-groups/bp-groups-template.php:1073
+msgid "This group has no administrators"
+msgstr "이 그룹은 관리자가 없습니다"
+
+#: bp-groups/bp-groups-template.php:1050 bp-groups/bp-groups-template.php:1115
+#: bp-groups/bp-groups-template.php:1894
+msgid "joined %s"
+msgstr "%s 에 참가함"
+
+#: bp-members/bp-members-functions.php:1052
+msgid "Sorry, usernames may not contain the character \"_\"!"
+msgstr "죄송합니다. 사용자명은 \"_\" 글자를 포함할 수 없습니다!"
+
+#: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
+#: bp-themes/bp-default/_inc/ajax.php:706
+msgid "Join Group"
+msgstr "그룹 참가"
+
+#: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
+#: bp-themes/bp-default/_inc/ajax.php:689
+msgid "Leave Group"
+msgstr "그룹 탈퇴"
+
+#: bp-groups/bp-groups-template.php:1499 bp-groups/bp-groups-template.php:1500
+#: bp-themes/bp-default/forums/index.php:23
+#: bp-themes/bp-default/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "새 토픽"
+
+#: bp-members/bp-members-functions.php:1059
+msgid "Sorry, usernames must have letters too!"
+msgstr "죄송합니다. 사용자명은 글자도 포함해야합니다!"
+
+#: bp-members/bp-members-functions.php:1121
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>에러</strong>: 등록할 수 없으니 <a href=\"mailto:%s\">웹마스터</a>와 연락하세요 !"
+
+#: bp-members/bp-members-functions.php:1082
+msgid "Sorry, that email address is already used!"
+msgstr "죄송합니다. 해당 이메일 주소는 이미 사용되고 있습니다!"
+
+#: bp-members/bp-members-functions.php:1065
+#: bp-members/bp-members-functions.php:1073
+msgid "Sorry, that email address is not allowed!"
+msgstr "죄송합니다. 해당 이메일 주소는 허용되지 않습니다!"
+
+#: bp-members/bp-members-functions.php:1062
+msgid "Please check your email address."
+msgstr "이메일 주소를 점검하세요."
+
+#: bp-members/bp-members-functions.php:1078
+msgid "Sorry, that username already exists!"
+msgstr "죄송합니다. 해당 사용자명은 이미 존재합니다!"
+
+#: bp-members/bp-members-functions.php:1049
+msgid "Username must be at least 4 characters"
+msgstr "사용자명은 최소한 4글자 이상이어야 합니다."
+
+#: bp-groups/bp-groups-template.php:1631
+msgid "This is a private group. Your membership request is awaiting approval from the group administrator."
+msgstr "이것은 개인 그룹입니다. 당신의 회원 가입 요청이 그룹 관리자의 승인을 기다리고 있습니다."
+
+#: bp-members/bp-members-buddybar.php:125
+msgid "Edit %s's Profile"
+msgstr "%s의 프로필 편집"
+
+#: bp-groups/bp-groups-template.php:2310 bp-groups/bp-groups-template.php:2338
+msgid "Administrator Of"
+msgstr "관리자"
+
+#: bp-groups/bp-groups-template.php:2311 bp-groups/bp-groups-template.php:2341
+msgid "Moderator Of"
+msgstr "조정자"
+
+#: bp-groups/bp-groups-template.php:2399
+msgid "No Group Avatar"
+msgstr "그룹 아바타 없음"
+
+#: bp-groups/bp-groups-template.php:2600
+msgid "requested %s"
+msgstr "요청된 %s"
+
+#: bp-groups/bp-groups-template.php:2775
+msgid "Group Activity RSS Feed"
+msgstr "그룹 활동 RSS 피드"
+
+#: bp-groups/bp-groups-widgets.php:27
+msgid "A dynamic list of recently active, popular, and newest groups"
+msgstr "최근 활성, 인기있는, 최신 그룹의 동적 목록"
+
+#: bp-groups/bp-groups-widgets.php:78 bp-groups/bp-groups-widgets.php:183
+msgid "created %s"
+msgstr "%s 생성됨"
+
+#: bp-groups/bp-groups-widgets.php:97
+msgid "There are no groups to display."
+msgstr "표시할 그룹이 없습니다."
+
+#: bp-groups/bp-groups-widgets.php:134
+msgid "Link widget title to Groups directory"
+msgstr "그룹 디렉토리의 링크 위젯 제목"
+
+#: bp-groups/bp-groups-widgets.php:136
+msgid "Max groups to show:"
+msgstr "보여줄 최대 그룹:"
+
+#: bp-groups/bp-groups-widgets.php:139
+msgid "Default groups to show:"
+msgstr "보여줄 기본 그룹:"
+
+#: bp-groups/bp-groups-widgets.php:202
+msgid "No groups matched the current filter."
+msgstr "현재 필터에 일치하는 그룹 없음."
+
+#: bp-members/bp-members-actions.php:45
+msgid "User marked as spammer. Spam users are visible only to site admins."
+msgstr "사용자가 스패머로 처리됐습니다. 스팸 사용자는 사이트 관리자만 볼 수 있습니다."
+
+#: bp-members/bp-members-actions.php:47
+msgid "User removed as spammer."
+msgstr "사용자가 스패머로 제거됐습니다."
+
+#: bp-members/bp-members-actions.php:80
+msgid "%s has been deleted from the system."
+msgstr "%s가 시스템에서 제거됐습니다."
+
+#: bp-members/bp-members-actions.php:82
+msgid "There was an error deleting %s from the system. Please try again."
+msgstr "%s를 시스템에서 제거하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-members/bp-members-adminbar.php:38
+msgid "Edit My Profile"
+msgstr "내 프로필 편집하기"
+
+#: bp-members/bp-members-adminbar.php:52
+msgid "Log in"
+msgstr "로그인"
+
+#: bp-members/bp-members-adminbar.php:91
+msgid "Edit Member"
+msgstr "회원 편집"
+
+#: bp-members/bp-members-adminbar.php:99
+#: bp-xprofile/bp-xprofile-template.php:899
+#: bp-xprofile/bp-xprofile-template.php:900
+msgid "Edit Profile"
+msgstr "프로필 편집"
+
+#: bp-members/bp-members-adminbar.php:115
+msgid "User Capabilities"
+msgstr "사용자 권한"
+
+#: bp-members/bp-members-adminbar.php:123
+#: bp-settings/bp-settings-loader.php:134
+#: bp-settings/bp-settings-loader.php:194
+#: bp-themes/bp-default/members/single/settings/delete-account.php:50
+#: bp-themes/bp-default/members/single/settings/delete-account.php:76
+msgid "Delete Account"
+msgstr "계정 삭제"
+
+#: bp-members/bp-members-adminbar.php:167
+msgid "No new notifications"
+msgstr "새 통지 없음"
+
+#: bp-members/bp-members-buddybar.php:24 bp-settings/bp-settings-loader.php:109
+#: bp-settings/bp-settings-loader.php:185
+msgid "Notifications"
+msgstr "통지"
+
+#: bp-members/bp-members-buddybar.php:45
+msgid "No new notifications."
+msgstr "새 통지 없음."
+
+#: bp-members/bp-members-buddybar.php:75
+msgid "Blog Authors"
+msgstr "블로그 글쓴이"
+
+#: bp-themes/bp-default/activity/entry.php:104
+msgid "Post"
+msgstr "글"
+
+#: bp-themes/bp-default/activity/entry.php:68
+msgid "Mark as Favorite"
+msgstr "즐겨찾기로 처리"
+
+#: bp-members/bp-members-buddybar.php:137
+msgid "Not a Spammer"
+msgstr "스패머 아님"
+
+#: bp-members/bp-members-buddybar.php:133
+msgid "Mark as Spammer"
+msgstr "스패머로 처리"
+
+#: bp-members/bp-members-buddybar.php:129
+msgid "Edit %s's Avatar"
+msgstr "%s의 아바타 편집"
+
+#: bp-groups/bp-groups-template.php:1037 bp-groups/bp-groups-template.php:1102
+#: bp-themes/bp-default/groups/single/admin.php:190
+#: bp-themes/bp-default/groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr "회원으로 강등"
+
+#: bp-groups/bp-groups-template.php:801
+msgid "%d topic"
+msgstr "%d 토픽"
+
+#: bp-groups/bp-groups-template.php:803
+msgid "%d topics"
+msgstr "%d 토픽"
+
+#: bp-members/bp-members-buddybar.php:141
+msgid "Delete %s's Account"
+msgstr "%s의 계정 삭제"
+
+#: bp-themes/bp-default/activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr "쓰레드 / 고유주소 보기"
+
+#: bp-themes/bp-default/activity/entry.php:37
+msgid "In reply to: "
+msgstr "응답:"
+
+#: bp-themes/bp-default/_inc/ajax.php:478
+#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/activity/entry.php:72
+#: bp-themes/bp-default/functions.php:167
+msgid "Remove Favorite"
+msgstr "즐겨찾기 제거"
+
+#: bp-groups/bp-groups-template.php:762
+#: bp-themes/bp-default/members/single/groups/invites.php:14
+msgid "%s members"
+msgstr "%s 회원"
+
+#: bp-groups/bp-groups-template.php:760
+msgid "%s member"
+msgstr "%s 회원"
+
+#: bp-groups/bp-groups-template.php:732
+msgid "Viewing group %1$s to %2$s (of %3$s groups)"
+msgstr "%1$s에서 %2$s까지 그룹 보임 (%3$s 그룹 중에서)"
+
+#: bp-groups/bp-groups-template.php:575
+msgid "No Admins"
+msgstr "관리자 없음"
+
+#: bp-groups/bp-groups-screens.php:700
+msgid "There was an error when unbanning that user, please try again"
+msgstr "해당 사용자를 차단에서 해제하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-groups/bp-groups-screens.php:684
+msgid "User banned successfully"
+msgstr "사용자가 성공적으로 차단됐습니다"
+
+#: bp-groups/bp-groups-screens.php:666
+msgid "User demoted successfully"
+msgstr "사용자가 성공적으로 등급 하락됐습니다"
+
+#: bp-groups/bp-groups-screens.php:682
+msgid "There was an error when banning that user, please try again"
+msgstr "해당 사용자를 차단하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-themes/bp-default/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "조정자"
+
+#: bp-themes/bp-default/_inc/ajax.php:608
+msgid " Friendship could not be requested."
+msgstr "친구 관계를 요청할 수 없습니다."
+
+#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/groups/create.php:229
+#: bp-themes/bp-default/groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr "초청 제거"
+
+#: bp-settings/bp-settings-actions.php:191
+msgid "Your settings have been saved."
+msgstr "설정이 저장됐습니다."
+
+#: bp-settings/bp-settings-actions.php:182
+msgid "One of the password fields was empty."
+msgstr "비밀번호 란 중 하나가 비어있습니다."
+
+#: bp-themes/bp-default/_inc/ajax.php:687
+msgid "Error joining group"
+msgstr "그룹 참가에 에러 발생"
+
+#: bp-themes/bp-default/_inc/ajax.php:820
+msgid "There was a problem marking messages as read."
+msgstr "메시지를 읽음으로 표시하는데 문제가 발생했습니다."
+
+#: bp-themes/bp-default/_inc/ajax.php:795
+msgid "There was a problem marking messages as unread."
+msgstr "메시지를 읽지 않음으로 표시하는데 문제가 발생했습니다."
+
+#: bp-themes/bp-default/_inc/ajax.php:777
+msgid "There was a problem sending that reply. Please try again."
+msgstr "해당 응답을 보내는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-themes/bp-default/activity/comment.php:27
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr "<a href=\"%1$s\">%2$s</a> 응답됨 <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: bp-themes/bp-default/_inc/ajax.php:660
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "해당 요청을 거절하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-themes/bp-default/_inc/ajax.php:641
+msgid "There was a problem accepting that request. Please try again."
+msgstr "해당 요청을 수락하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-settings/bp-settings-actions.php:176
+msgid "Your current password is invalid."
+msgstr "현재 비밀번호는 유효하지 않습니다."
+
+#: bp-settings/bp-settings-actions.php:163
+msgid "That email address is already taken."
+msgstr "해당 이메일 주소는 이미 다른 사람이 사용하고 있습니다."
+
+#: bp-messages/bp-messages-template.php:922
+#: bp-themes/bp-default/_inc/ajax.php:760
+msgid "Sent %s"
+msgstr "%s 발송"
+
+#: bp-messages/bp-messages-template.php:840
+msgid "%d Recipients"
+msgstr "%d 수취인"
+
+#: bp-themes/bp-default/activity/post-form.php:25
+msgid "What's new, %s?"
+msgstr "새로운 것, %s?"
+
+#: bp-messages/bp-messages-template.php:446
+msgid "Mark as Unread"
+msgstr "안 읽음으로 표시"
+
+#: bp-messages/bp-messages-template.php:445
+msgid "Mark as Read"
+msgstr "읽음으로 표시"
+
+#: bp-themes/bp-default/activity/index.php:49
+#: bp-themes/bp-default/members/index.php:37
+msgid "My Friends <span>%s</span>"
+msgstr "내 친구들 <span>%s</span>"
+
+#: bp-themes/bp-default/_inc/ajax.php:704
+msgid "Error leaving group"
+msgstr "그룹 탈퇴 중 에러"
+
+#: bp-themes/bp-default/_inc/ajax.php:845
+msgid "There was a problem deleting messages."
+msgstr "메시지를 삭제하는데 문제가 발생했습니다."
+
+#: bp-settings/bp-settings-actions.php:160
+msgid "That email address is currently unavailable for use."
+msgstr "해당 이메일 주소는 현재 사용 가능하지 않습니다."
+
+#: bp-themes/bp-default/404.php:7
+msgid "Page not found"
+msgstr "페이지를 찾을 수 없습니다"
+
+#: bp-themes/bp-default/activity/activity-loop.php:41
+msgid "Load More"
+msgstr "더 보기"
+
+#: bp-themes/bp-default/activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr "또는 취소하려면 ESC를 누르세요."
+
+#: bp-messages/bp-messages-template.php:657
+msgid "Private Message"
+msgstr "개인 메시지"
+
+#: bp-messages/bp-messages-template.php:613
+#: bp-themes/bp-default/functions.php:164
+#: bp-themes/bp-default/members/single/profile/edit.php:128
+#: bp-themes/bp-default/registration/register.php:169
+msgid "Close"
+msgstr "닫기"
+
+#: bp-settings/bp-settings-loader.php:98 bp-settings/bp-settings-loader.php:177
+msgid "General"
+msgstr "일반"
+
+#: bp-settings/bp-settings-actions.php:157
+msgid "That email address is invalid. Check the formatting and try again."
+msgstr "해당 이메일 주고는 유효하지 않습니다. 형식을 점검하고 다시 해보세요."
+
+#: bp-themes/bp-default/404.php:9
+msgid "We're sorry, but we can't find the page that you're looking for. Perhaps searching will help."
+msgstr "죄송합니다. 원하는 페이지를 찾을 수 없습니다. 검색이 도움이 될겁니다."
+
+#: bp-messages/bp-messages-template.php:562
+msgid "Deactivate"
+msgstr "비활성"
+
+#: bp-settings/bp-settings-actions.php:199
+msgid "No changes were made to this account."
+msgstr "이 계정에 변경이 없습니다."
+
+#: bp-themes/bp-default/activity/index.php:71
+msgid "The activity I've marked as a favorite."
+msgstr "내가 즐겨찾기로 처리한 활동"
+
+#: bp-themes/bp-default/_inc/ajax.php:480
+#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/activity/entry.php:68
+#: bp-themes/bp-default/functions.php:166
+msgid "Favorite"
+msgstr "즐겨찾기"
+
+#: bp-messages/bp-messages-template.php:495
+msgid "Currently Active"
+msgstr "현재 활성"
+
+#: bp-messages/bp-messages-template.php:450
+msgid "Delete Selected"
+msgstr "선택 삭제"
+
+#: bp-themes/bp-default/archive.php:37 bp-themes/bp-default/index.php:41
+#: bp-themes/bp-default/search.php:38
+msgid "1 Comment &#187;"
+msgstr "1 댓글 &#187;"
+
+#: bp-settings/bp-settings-loader.php:121
+#: bp-themes/bp-default/members/single/settings/capabilities.php:49
+msgid "Capabilities"
+msgstr "권한"
+
+#: bp-themes/bp-default/_inc/ajax.php:278
+msgid "There was a problem posting your update, please try again."
+msgstr "업데이트를 게시하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-themes/bp-default/_inc/ajax.php:621
+msgid "Request Pending"
+msgstr "요청이 대기중입니다"
+
+#: bp-themes/bp-default/_inc/ajax.php:379
+#: bp-themes/bp-default/_inc/ajax.php:415
+msgid "There was a problem when deleting. Please try again."
+msgstr "삭제하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-settings/bp-settings-actions.php:166
+msgid "Email address cannot be empty."
+msgstr "이메일 주소는 있어야합니다."
+
+#: bp-messages/bp-messages-template.php:656
+msgid "Send a private message to this user."
+msgstr "해당 사용자에게 개인 메시지 보내기"
+
+#: bp-themes/bp-default/_inc/ajax.php:695
+msgid "Error requesting membership"
+msgstr "회원 요청중 에러 발생"
+
+#: bp-themes/bp-default/_inc/ajax.php:697
+msgid "Membership Requested"
+msgstr "회원 가입 요청됨"
+
+#: bp-settings/bp-settings-actions.php:247
+msgid "Your notification settings have been saved."
+msgstr "통지 설정이 저장됐습니다."
+
+#: bp-themes/bp-default/activity/index.php:61
+#: bp-themes/bp-default/groups/index.php:39
+msgid "My Groups <span>%s</span>"
+msgstr "내 그룹 <span>%s</span>"
+
+#: bp-themes/bp-default/archive.php:28 bp-themes/bp-default/attachment.php:22
+#: bp-themes/bp-default/index.php:32 bp-themes/bp-default/search.php:30
+msgid "Permanent Link to"
+msgstr "고유 링크"
+
+#: bp-settings/bp-settings-actions.php:249
+msgid "This user's notification settings have been saved."
+msgstr "해당 사용자의 통지 설정이 저장됐습니다."
+
+#: bp-themes/bp-default/activity/entry.php:60
+msgid "Comment <span>%s</span>"
+msgstr "댓글 <span>%s</span>"
+
+#: bp-settings/bp-settings-actions.php:197
+msgid "No changes were made to your account."
+msgstr "계정에 변경이 없습니다."
+
+#: bp-settings/bp-settings-actions.php:340
+msgid "%s was successfully deleted."
+msgstr "%s가 성공적으로 제거됐습니다."
+
+#: bp-settings/bp-settings-actions.php:179
+msgid "The new password fields did not match."
+msgstr "새 비밀번호 란이 일치하지 않습니다."
+
+#: bp-themes/bp-default/archive.php:34 bp-themes/bp-default/index.php:38
+#: bp-themes/bp-default/onecolumn-page.php:31 bp-themes/bp-default/page.php:20
+#: bp-themes/bp-default/single.php:30
+msgid "Pages: "
+msgstr "페이지:"
+
+#: bp-themes/bp-default/activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "죄송합니다. 활동을 찾을 수 없습니다. 다른 필터를 해보세요."
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr "내 아바타 삭제"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:14
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr "컴퓨터에서 가져온 JPG, GIF 또는 PNG 포맷의 사진을 선택하려면 아래를 클릭하고 계속해서 '업로드 이미지'를 클릭하세요."
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr "새 아바타 자르기"
+
+#: bp-themes/bp-default/members/single/profile/edit.php:58
+#: bp-themes/bp-default/members/single/profile/edit.php:73
+#: bp-themes/bp-default/registration/register.php:119
+#: bp-xprofile/bp-xprofile-admin.php:415
+msgid "Clear"
+msgstr "지우기"
+
+#: bp-themes/bp-default/members/single/profile/change-avatar.php:55
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr "아바타는 프로필과 사이트 전체에 사용됩니다. 아바타를 변경하려면 이 사이트에서 등록할 때 사용한 이메일 주소를 사용해서 <a href=\"http://gravatar.com\">Gravatar</a>에 계정을 생성하세요."
+
+#: bp-themes/bp-default/functions.php:422
+msgid "The third footer widget area"
+msgstr "세번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:420
+msgid "Third Footer Widget Area"
+msgstr "세번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:411
+msgid "The second footer widget area"
+msgstr "두번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:409
+msgid "Second Footer Widget Area"
+msgstr "두번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:400
+msgid "The first footer widget area"
+msgstr "첫번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:398
+msgid "First Footer Widget Area"
+msgstr "첫번째 푸터 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:389
+msgid "The sidebar widget area"
+msgstr "사이드바 위젯 영역"
+
+#: bp-themes/bp-default/functions.php:163
+msgid "comments"
+msgstr "댓글"
+
+#: bp-themes/bp-default/functions.php:162
+msgid "Show all"
+msgstr "모두 보이기"
+
+#: bp-themes/bp-default/functions.php:161
+msgid "Show all comments for this thread"
+msgstr "이 글타래의 모든 댓글 보이기"
+
+#: bp-themes/bp-default/functions.php:160
+msgid "Rejected"
+msgstr "거절됨"
+
+#: bp-themes/bp-default/functions.php:159
+msgid "Accepted"
+msgstr "수락됨"
+
+#: bp-themes/bp-default/functions.php:158
+msgid "My Favorites"
+msgstr "내 즐겨찾기"
+
+#: bp-themes/bp-default/functions.php:85
+msgid "Primary Navigation"
+msgstr "주 내비게이션"
+
+#: bp-themes/bp-default/forums/index.php:145
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr "어떤 그룹에도 회원이 아닙니다. 그래서 글을 올릴 어떤 그룹 포럼도 없습니다. 글을 올리려면 시작하려면 토픽 제목과 일치하는 그룹을 찾으세요. 해당 그룹이 없으면 <a href='%s'>새 그룹 생성하기</a>를 해보세요. 참가 하거나 그룹을 생성한 이후에 해당 그룹의 포럼에서 토픽을 올릴 수 있습니다."
+
+#: bp-themes/bp-default/forums/index.php:133
+#: bp-themes/bp-default/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr "글 토픽"
+
+#: bp-themes/bp-default/forums/index.php:113
+msgid "Post In Group Forum:"
+msgstr "그룹 포럼 글:"
+
+#: bp-themes/bp-default/forums/index.php:110
+#: bp-themes/bp-default/groups/single/forum/edit.php:53
+#: bp-themes/bp-default/groups/single/forum.php:81
+msgid "Tags (comma separated):"
+msgstr "태그(콤마 분리):"
+
+#: bp-themes/bp-default/forums/index.php:107
+#: bp-themes/bp-default/groups/single/forum/edit.php:50
+#: bp-themes/bp-default/groups/single/forum.php:78
+msgid "Content:"
+msgstr "컨텐트:"
+
+#: bp-themes/bp-default/forums/index.php:100
+msgid "Create New Topic:"
+msgstr "새 토픽 생성:"
+
+#: bp-themes/bp-default/forums/index.php:64
+#: bp-themes/bp-default/groups/single/forum.php:40
+#: bp-themes/bp-default/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "응답 없음"
+
+#: bp-messages/bp-messages-screens.php:56
+#: bp-messages/bp-messages-screens.php:78
+msgid "There was an error sending that message, please try again"
+msgstr "해당 메시지를 보내는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-messages/bp-messages-screens.php:75
+msgid "Message sent successfully!"
+msgstr "메시지가 성공적으로 발송됐습니다!"
+
+#: bp-messages/bp-messages-screens.php:64
+msgid "There was an error sending that notice, please try again"
+msgstr "해당 공지를 보내는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-messages/bp-messages-screens.php:61
+msgid "Notice sent successfully!"
+msgstr "공지가 성공적으로 발송됐습니다!"
+
+#: bp-groups/bp-groups-notifications.php:35
+msgid ""
+"Group details for the group \"%1$s\" were updated:\n"
+"\n"
+"To view the group: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"그룹 \"%1$s\"의 그룹 상세가 업데이트 됐습니다:\n"
+"\n"
+"그룹 보기: %2$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-screens.php:641
+msgid "User promoted successfully"
+msgstr "사용자가 성공적으로 승격됐습니다"
+
+#: bp-groups/bp-groups-screens.php:604
+msgid "The new group avatar was uploaded successfully!"
+msgstr "새 그룹 아바타가 성공적으로 업로드 됐습니다."
+
+#: bp-groups/bp-groups-adminbar.php:40 bp-xprofile/bp-xprofile-admin.php:114
+msgid "Edit Group"
+msgstr "그룹 편집"
+
+#: bp-groups/bp-groups-screens.php:602
+msgid "There was a problem cropping the avatar, please try uploading it again"
+msgstr "아바타를 자르는데 문제가 발생했습니다. 다시 업로드해보세요"
+
+#: bp-groups/bp-groups-loader.php:306 bp-groups/bp-groups-template.php:1280
+msgid "Avatar"
+msgstr "아바타"
+
+#: bp-groups/bp-groups-loader.php:140
+msgid "Search Groups..."
+msgstr "그룹 검색..."
+
+#: bp-groups/bp-groups-loader.php:365
+msgid "Invitations"
+msgstr "초청"
+
+#: bp-groups/bp-groups-notifications.php:20
+msgid "Group Details Updated"
+msgstr "그룹 상세 업데이트됨"
+
+#: bp-groups/bp-groups-screens.php:294
+msgid "There was an error deleting that post"
+msgstr "해당 토픽을 삭제하는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:270
+msgid "The topic was edited successfully"
+msgstr "토픽이 성공적으로 편집됐습니다"
+
+#: bp-groups/bp-groups-screens.php:268
+msgid "There was an error when editing that topic"
+msgstr "해당 토픽을 편집하는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-notifications.php:77
+msgid "Membership request for group: %s"
+msgstr "이 그룹의 회원 가입 요청\" %s"
+
+#: bp-groups/bp-groups-screens.php:318
+msgid "There was an error when editing that post"
+msgstr "해당 글을 편집하는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:296
+msgid "The post was deleted successfully"
+msgstr "글이 성공적으로 삭제됐습니다"
+
+#: bp-groups/bp-groups-screens.php:541
+msgid "Group settings were successfully updated."
+msgstr "그룹 설정이 성공적으로 업데이트 됐습니다."
+
+#: bp-groups/bp-groups-screens.php:320
+msgid "The post was edited successfully"
+msgstr "글이 성공적으로 편집됐습니다"
+
+#: bp-groups/bp-groups-screens.php:335 bp-groups/bp-groups-screens.php:352
+msgid "You have been banned from this group."
+msgstr "이 그룹에서 차단됐습니다."
+
+#: bp-groups/bp-groups-screens.php:365
+msgid "This group does not have a forum setup yet."
+msgstr "이 그룹은 아직 포럼 설정이 안돼있습니다"
+
+#: bp-groups/bp-groups-screens.php:419
+msgid "Group invites sent."
+msgstr "그룹 초정 발송됨"
+
+#: bp-groups/bp-groups-screens.php:447
+msgid "There was an error sending your group membership request, please try again."
+msgstr "그룹 회원가입 요청을 보내는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:449
+msgid "Your membership request was sent to the group administrator successfully. You will be notified when the group administrator responds to your request."
+msgstr "회원 가입 요청이 성공적으로 그룹 관리자에게 발송됐습니다. 그룹 관리자가 요청에 응답하면 통지될 것입니다."
+
+#: bp-groups/bp-groups-screens.php:496
+msgid "There was an error updating group details, please try again."
+msgstr "그룹 상세를 업데이트하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:498
+msgid "Group details were successfully updated."
+msgstr "그룹 상세가 성공적으로 업데이트 됐습니다."
+
+#: bp-groups/bp-groups-screens.php:539
+msgid "There was an error updating group settings, please try again."
+msgstr "그룹 설정을 업데이트 하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-forums.php:154 bp-groups/bp-groups-forums.php:206
+msgid "%1$s started the forum topic %2$s in the group %3$s"
+msgstr "%1$s가 포럼 토픽 %2$s를 그룹 %3$s에서 시작했습니다"
+
+#: bp-groups/bp-groups-forums.php:104 bp-groups/bp-groups-forums.php:253
+msgid "%1$s replied to the forum topic %2$s in the group %3$s"
+msgstr "%1$s replied to the forum topic %2$s in the group %3$s"
+
+#: bp-groups/bp-groups-classes.php:838 bp-groups/bp-groups-functions.php:121
+msgid "Group Admin"
+msgstr "그룹 관리자"
+
+#: bp-groups/bp-groups-classes.php:832
+msgid "Group Mod"
+msgstr "그룹 조정자"
+
+#: bp-groups/bp-groups-buddybar.php:40 bp-groups/bp-groups-loader.php:570
+#: bp-groups/bp-groups-template.php:2395
+msgid "Group Avatar"
+msgstr "그룹 아바타"
+
+#: bp-groups/bp-groups-buddybar.php:36
+msgid "Group Settings"
+msgstr "그룹 설정"
+
+#: bp-groups/bp-groups-adminbar.php:56
+msgid "Edit Settings"
+msgstr "설정 편집"
+
+#: bp-groups/bp-groups-adminbar.php:48 bp-groups/bp-groups-buddybar.php:34
+msgid "Edit Details"
+msgstr "상세 편집"
+
+#: bp-groups/bp-groups-activity.php:295
+msgid "You have an invitation to the group: %s"
+msgstr "그룹에 초청장이 있습니다: %s"
+
+#: bp-groups/bp-groups-activity.php:287
+msgid "Group Invites"
+msgstr "그룹 초청"
+
+#: bp-groups/bp-groups-functions.php:288
+msgid "As the only Admin, you cannot leave the group."
+msgstr "한 사람의 관리자이므로 그룹을 탈퇴할 수 없습니다."
+
+#: bp-groups/bp-groups-functions.php:538
+msgid "%1$s posted an update in the group %2$s"
+msgstr "%1$s이 그룹 %2$s에 업데이트를 올렸습니다"
+
+#: bp-groups/bp-groups-functions.php:357 bp-groups/bp-groups-functions.php:848
+#: bp-groups/bp-groups-screens.php:61
+msgid "%1$s joined the group %2$s"
+msgstr "%1$s이 그룹 %2$s에 참가했습니다"
+
+#: bp-groups/bp-groups-loader.php:342
+msgid "Groups <span>%d</span>"
+msgstr "그룹 <span>%d</span>"
+
+#: bp-groups/bp-groups-loader.php:314
+msgid "Invites"
+msgstr "초청"
+
+#: bp-groups/bp-groups-loader.php:354 bp-groups/bp-groups-loader.php:383
+#: bp-groups/bp-groups-loader.php:522 bp-groups/bp-groups-loader.php:550
+msgid "Memberships"
+msgstr "회원 관리"
+
+#: bp-groups/bp-groups-loader.php:294 bp-groups/bp-groups-template.php:1269
+msgid "Details"
+msgstr "상세"
+
+#: bp-groups/bp-groups-loader.php:269
+msgid "You do not have access to this group."
+msgstr "이 그룹에 접근할 수 없습니다."
+
+#: bp-groups/bp-groups-loader.php:284
+msgid "You are not an admin of this group."
+msgstr "이 그룹의 관리자가 아닙니다."
+
+#: bp-groups/bp-groups-screens.php:639
+msgid "There was an error when promoting that user, please try again"
+msgstr "해당 사용자를 승격하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-groups/bp-groups-screens.php:574 bp-xprofile/bp-xprofile-actions.php:42
+msgid "There was a problem deleting that avatar, please try again."
+msgstr "해당 아바타늘 삭제하는데 문제가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-screens.php:572 bp-xprofile/bp-xprofile-actions.php:40
+msgid "Your avatar was deleted successfully!"
+msgstr "아바타가 성공적으로 삭제 됐습니다!"
+
+#: bp-groups/bp-groups-screens.php:664
+msgid "There was an error when demoting that user, please try again"
+msgstr "해당 사용자를 등급하락하는데 에러가 발생했습니다. 다시 해보세요"
+
+#: bp-groups/bp-groups-adminbar.php:93 bp-groups/bp-groups-buddybar.php:54
+msgid "Membership Requests"
+msgstr "회원 가입 요청"
+
+#: bp-groups/bp-groups-adminbar.php:84 bp-groups/bp-groups-buddybar.php:50
+msgid "Manage Members"
+msgstr "회원 관리"
+
+#: bp-groups/bp-groups-adminbar.php:65 bp-members/bp-members-adminbar.php:107
+msgid "Edit Avatar"
+msgstr "아바타 편집"
+
+#: bp-groups/bp-groups-adminbar.php:75 bp-groups/bp-groups-buddybar.php:46
+msgid "Manage Invitations"
+msgstr "초청 관리"
+
+#: bp-groups/bp-groups-adminbar.php:102 bp-groups/bp-groups-buddybar.php:58
+#: bp-themes/bp-default/groups/single/admin.php:360
+#: bp-xprofile/bp-xprofile-admin.php:118
+msgid "Delete Group"
+msgstr "그룹 삭제"
+
+#: bp-groups/bp-groups-buddybar.php:31 bp-members/bp-members-buddybar.php:120
+msgid "Admin Options"
+msgstr "관리자 옵션"
+
+#: bp-groups/bp-groups-activity.php:259
+msgid "You were promoted to a mod in the group \"%s\""
+msgstr "\"%s\" 그룹의 조정자로 승격됐습니다"
+
+#: bp-groups/bp-groups-activity.php:246
+msgid "You were promoted to a mod in %d groups"
+msgstr "%d 그룹의 조정자로 승격됐습니다"
+
+#: bp-groups/bp-groups-activity.php:101
+msgid "%1$d new membership requests for the group \"%2$s\""
+msgstr "그룹 \"%2$s\"의 %1$d 새 회원 요청 "
+
+#: bp-groups/bp-groups-activity.php:223
+msgid "You were promoted to an admin in the group \"%s\""
+msgstr "\"%s\" 그룹 관리자로 승격됐습니다"
+
+#: bp-groups/bp-groups-activity.php:210
+msgid "You were promoted to an admin in %d groups"
+msgstr "%d 그룹의 관리자로 승격됐습니다"
+
+#: bp-groups/bp-groups-activity.php:187
+msgid "Membership for group \"%s\" rejected"
+msgstr "\"%s\" 그룹 회원 가입이 거절됐습니다"
+
+#: bp-groups/bp-groups-activity.php:174
+msgid "%d rejected group membership requests"
+msgstr "%d가 그룹 회원 가입 요청을 거절했습니다"
+
+#: bp-groups/bp-groups-activity.php:151
+msgid "Membership for group \"%s\" accepted"
+msgstr "\"%s\" 그룹 회원 가입이 수락됐습니다"
+
+#: bp-groups/bp-groups-activity.php:138
+msgid "%d accepted group membership requests"
+msgstr "%d가 그룹 회원 가입 요청을 수락했습니다"
+
+#: bp-groups/bp-groups-activity.php:115 bp-groups/bp-groups-activity.php:120
+msgid "%s requests group membership"
+msgstr "%s가 그룹 회원가입을 요청합니다"
+
+#: bp-groups/bp-groups-activity.php:106
+msgid "Group Membership Requests"
+msgstr "그룹 회원 가입 요청"
+
+#: bp-groups/bp-groups-activity.php:283
+msgid "You have %d new group invitations"
+msgstr "%d 새 그룹 초정장이 있습니다"
+
+#: bp-groups/bp-groups-activity.php:25
+msgid "New group forum post"
+msgstr "새 그룹 포럼 글"
+
+#: bp-activity/bp-activity-actions.php:158
+msgid "Activity deleted successfully"
+msgstr "활동이 성공적으로 삭제 됐습니다."
+
+#: bp-activity/bp-activity-actions.php:160
+msgid "There was an error when deleting that activity"
+msgstr "그 활동을 제거하는데 에러가 발생했습니다."
+
+#: bp-activity/bp-activity-actions.php:214
+msgid "The activity item has been marked as spam and is no longer visible."
+msgstr "활동 아이템이 스팸으로 처리되고 더이상 볼 수 없습니다."
+
+#: bp-activity/bp-activity-actions.php:263
+#: bp-themes/bp-default/_inc/ajax.php:263
+msgid "Please enter some content to post."
+msgstr "게시할 콘텐츠를 입력해주세요"
+
+#: bp-activity/bp-activity-actions.php:284
+msgid "Update Posted!"
+msgstr "업데이트가 게시됐습니다."
+
+#: bp-activity/bp-activity-actions.php:286
+msgid "There was an error when posting your update, please try again."
+msgstr "업데이트를 게시하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-activity/bp-activity-actions.php:323
+#: bp-themes/bp-default/_inc/ajax.php:311
+msgid "Please do not leave the comment area blank."
+msgstr "댓글 란을 비워두면 안됩니다."
+
+#: bp-activity/bp-activity-actions.php:334
+msgid "Reply Posted!"
+msgstr "응답이 게시됐습니다!"
+
+#: bp-activity/bp-activity-actions.php:336
+#: bp-themes/bp-default/_inc/ajax.php:314
+#: bp-themes/bp-default/_inc/ajax.php:323
+msgid "There was an error posting that reply, please try again."
+msgstr "그 응답을 게시하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-activity/bp-activity-actions.php:368
+msgid "Activity marked as favorite."
+msgstr "활동이 즐겨찾기로 처리됐습니다."
+
+#: bp-activity/bp-activity-actions.php:370
+msgid "There was an error marking that activity as a favorite, please try again."
+msgstr "그 활동을 즐겨찾기로 처리하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-activity/bp-activity-actions.php:402
+msgid "Activity removed as favorite."
+msgstr "활동이 즐겨찾기에서 제거됐습니다."
+
+#: bp-activity/bp-activity-actions.php:404
+msgid "There was an error removing that activity as a favorite, please try again."
+msgstr "활동을 즐겨찾기에서 제거하는데 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-activity/bp-activity-admin.php:34 bp-activity/bp-activity-admin.php:835
+#: bp-activity/bp-activity-admin.php:1145
+#: bp-activity/bp-activity-loader.php:118
+#: bp-activity/bp-activity-loader.php:241
+#: bp-activity/bp-activity-screens.php:278
+#: bp-activity/feeds/bp-activity-personal-feed.php:28
+#: bp-core/admin/bp-core-update.php:391
+msgid "Activity"
+msgstr "활동"
+
+#: bp-activity/bp-activity-admin.php:64
+msgid "ERROR: Please type a reply."
+msgstr "에러: 응답을 작성해주세요."
+
+#: bp-activity/bp-activity-admin.php:69
+msgid "ERROR: The item you are trying to reply to cannot be found, or it has been deleted."
+msgstr "에러: 응답하려는 아이템을 찾을 수 없습니다. 또는 삭제됐을 수도 있습니다."
+
+#: bp-activity/bp-activity-admin.php:177 bp-activity/bp-activity-admin.php:224
+msgid "Overview"
+msgstr "전체보기"
+
+#: bp-activity/bp-activity-admin.php:179
+msgid "You edit activities made on your site similar to the way you edit a comment. This is useful if you need to change which page the activity links to, or when you notice that the author has made a typographical error."
+msgstr "사이트에 만들어진 활동을 댓글을 편집하는 것과 같은 방법으로 편집합니다. 활동이 링크된 페이지를 변경할 필요가 있을 경우 유요합니다. 또는 글쓴이가 글자 에러를 발생했다는 것을 통지할 때도 유용합니다."
+
+#: bp-activity/bp-activity-admin.php:180
+msgid "The two big editing areas for the activity title and content are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Primary Item/Secondary Item, Link, Type, Author ID) or to choose a 1- or 2-column layout for this screen."
+msgstr "활동 제목과 컨텐트의 두개의 큰 편집 영역은 고정돼 있지만 다른 박스는 끌어놓기를 사용해서 위치를 변경할 수 있습니다. 박스의 제목 바를 클릭해서 축소하거나 확대할 수도 있습니다. 더 많은 박스(주 아이템/부 아이템, 링크, 형태, 글쓴이 ID)를 나타나게 하려면 화면 옵션탭을 사용하세요. 또는 이 화면에서 1열이나 2열 레이아웃을 선택할 수도 있습니다."
+
+#: bp-activity/bp-activity-admin.php:181
+msgid "You can also moderate the activity from this screen using the Status box, where you can also change the timestamp of the activity."
+msgstr "상태 박스를 사용해서 이 화면에서 활동을 조정할 수도 있습니다. 거기서 활동의 시간을 변경할 수도 있습니다."
+
+#: bp-activity/bp-activity-admin.php:186
+msgid "Item, Link, Type"
+msgstr "아이템, 링크, 형태"
+
+#: bp-activity/bp-activity-admin.php:188
+msgid "<strong>Primary Item/Secondary Item</strong> - These identify the object that created the activity. For example, the fields could reference a comment left on a specific site. Some types of activity may only use one, or none, of these fields."
+msgstr "<strong>주 아이템/부 아이템</strong> - These identify the object that created the activity. For example, the fields could reference a comment left on a specific site. Some types of activity may only use one, or none, of these fields."
+
+#: bp-activity/bp-activity-admin.php:189
+msgid "<strong>Link</strong> - Activity generated by blog posts and comments, forum topics and replies, and some plugins, uses the link field for a permalink back to the content item. Some types of activity may not use this field, even if it has been set."
+msgstr "<strong>링크</strong> - Activity generated by blog posts and comments, forum topics and replies, and some plugins, uses the link field for a permalink back to the content item. Some types of activity may not use this field, even if it has been set."
+
+#: bp-activity/bp-activity-admin.php:190
+msgid "<strong>Type</strong> - Each distinct kind of activity has its own type. For example, <code>created_group</code> is used when a group is created and <code>joined_group</code> is used when a user joins a group."
+msgstr "<strong>형태</strong> - 각 구별된 활동은 고유의 형태가 있습니다. 예를 들면 <code>created_group</code> 은 그룹이 생성될 때 사용되고 <code>joined_group</code>은 사용자가 그룹에 참가할 때 사용됩니다."
+
+#: bp-activity/bp-activity-admin.php:191
+msgid "For information about when and how BuddyPress uses all of these settings, see the Managing Activity link in the panel to the side."
+msgstr "버디프레스가 이 설정을 사용하는 때와 방법에 관한 정보는 측면의 패널에 있는 활동 관리 링크를 보세요."
+
+#: bp-activity/bp-activity-admin.php:196 bp-activity/bp-activity-admin.php:241
+msgid "For more information:"
+msgstr "더 많은 정보:"
+
+#: bp-activity/bp-activity-admin.php:197
+msgid "<a href=\"http://codex.buddypress.org/buddypress-site-administration/managing-activity/\">Managing Activity</a>"
+msgstr "<a href=\"http://codex.buddypress.org/buddypress-site-administration/managing-activity/\">활동 관리</a>"
+
+#: bp-activity/bp-activity-admin.php:198 bp-activity/bp-activity-admin.php:242
+msgid "<a href=\"http://buddypress.org/support/\">Support Forums</a>"
+msgstr "<a href=\"http://buddypress.org/support/\">지원 포럼</a>"
+
+#: bp-activity/bp-activity-admin.php:202
+msgctxt "activity admin edit screen"
+msgid "Status"
+msgstr "상태"
+
+#: bp-activity/bp-activity-admin.php:203
+msgctxt "activity admin edit screen"
+msgid "Primary Item/Secondary Item"
+msgstr "주 아이템/부 아이템"
+
+#: bp-activity/bp-activity-admin.php:204
+msgctxt "activity admin edit screen"
+msgid "Link"
+msgstr "링크"
+
+#: bp-activity/bp-activity-admin.php:205
+msgctxt "activity admin edit screen"
+msgid "Type"
+msgstr "형태"
+
+#: bp-activity/bp-activity-admin.php:206
+msgctxt "activity admin edit screen"
+msgid "Author ID"
+msgstr "글쓴이 ID"
+
+#: bp-activity/bp-activity-admin.php:219
+msgctxt "Activity items per page (screen options)"
+msgid "Activity"
+msgstr "활동"
+
+#: bp-activity/bp-activity-admin.php:226
+msgid "You can manage activities made on your site similar to the way you manage comments and other content. This screen is customizable in the same ways as other management screens, and you can act on activities using the on-hover action links or the Bulk Actions."
+msgstr "사이트에 만들어진 활동을 댓글과 컨텐트를 관리하는 것과 같은 방법으로 관리할 수 있습니다. 이 화면은 다른 관리 화면과 같은 방법으로 사용자 정의 할 수 있습니다. 마우스 오버 작업 링크나 일괄작업을 사용해서 활동에 작업할 수 있습니다."
+
+#: bp-activity/bp-activity-admin.php:227
+msgid "There are many different types of activities. Some are generated automatically by BuddyPress and other plugins, and some are entered directly by a user in the form of status update. To help manage the different activity types, use the filter dropdown box to switch between them."
+msgstr "다양한 형태의 활동이 있습니다. 버디프레스와 다른 플러그인에 의해 자동으로 생성된 것들도 있고 상태 업데이트의 형태로 사용자에 의해서 바로 입력된 것들도 있습니다. 다른 활동 형태를 관리하려면 이들을 서로 변경할 수 있도록 필터 드랍다운 박스를 사용하세요."
+
+#: bp-activity/bp-activity-admin.php:233
+msgid "Moderating Activity"
+msgstr "활동 조정하기"
+
+#: bp-activity/bp-activity-admin.php:235
+msgid "In the <strong>Activity</strong> column, above each activity it says &#8220;Submitted on,&#8221; followed by the date and time the activity item was generated on your site. Clicking on the date/time link will take you to that activity on your live site. Hovering over any activity gives you options to reply, edit, spam mark, or delete that activity."
+msgstr "<strong>활동</strong> 열에서, 각 활동 위의 &#8220;제출일자,&#8221; 다음에 활동 아이템의 사이트에서 생성된 날짜와 시간이 있습니다. 날짜/시간 링크를 클릭하면 현재 사이트의 해당 활동으로 이동합니다. 활동에 마우스를 올리면 응답, 편집, 스팸처리, 또는 해당 활동 삭제 옵션을 볼 수 있습니다."
+
+#: bp-activity/bp-activity-admin.php:236
+msgid "In the <strong>In Response To</strong> column, if the activity was in reply to another activity, it shows that activity's author's picture and name, and a link to that activity on your live site. If there is a small bubble, the number in it shows how many other activities are related to this one; these are usually comments. Clicking the bubble will filter the activity screen to show only related activity items."
+msgstr "<strong>응답</strong> 열에서 활동이 다른 활동의 응답인 경우 해당 활동의 글쓴이의 사진과 이름, 그리고 현재 사이트의 해당 활동으로 이동하는 링크를 보여줍니다. 작은 말풍선 안에 숫자는 다른 활동이 해당 활동에 얼마나 관련돼 있는지 보여줍니다; 이것은 보통 댓글입니다. 말풍선을 클릭하면 관련된 활동 아이템만 보여주는 활동 화면을 필터링해서 보여줍니다. "
+
+#: bp-activity/bp-activity-admin.php:564
+msgid "Editing Activity (ID #%s)"
+msgstr "활동 편집 (ID #%s)"
+
+#: bp-activity/bp-activity-admin.php:575
+msgid "Action"
+msgstr "작업"
+
+#: bp-activity/bp-activity-admin.php:582
+msgid "Content"
+msgstr "컨텐트"
+
+#: bp-activity/bp-activity-admin.php:607
+msgid "No activity found with this ID. <a href=\"%s\">Go back and try again</a>."
+msgstr "해당 ID의 활동을 찾을 수 없습니다. <a href=\"%s\">돌아가서 다시 하세요</a>."
+
+#: bp-activity/bp-activity-admin.php:629
+msgid "View Activity"
+msgstr "활동 보기"
+
+#: bp-activity/bp-activity-admin.php:637
+msgid "Approved"
+msgstr "승인됨"
+
+#: bp-activity/bp-activity-admin.php:638 bp-activity/bp-activity-admin.php:1283
+#: bp-activity/bp-activity-akismet.php:178
+#: bp-activity/bp-activity-akismet.php:207
+msgid "Spam"
+msgstr "스팸"
+
+#: bp-activity/bp-activity-admin.php:644
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: bp-activity/bp-activity-admin.php:647
+msgid "Submitted on: <strong>%1$s</strong>"
+msgstr "제출일자: <strong>%1$s</strong>"
+
+#: bp-activity/bp-activity-admin.php:647 bp-activity/bp-activity-admin.php:1276
+#: bp-forums/bp-forums-template.php:1270 bp-themes/bp-default/functions.php:507
+#: bp-xprofile/bp-xprofile-admin.php:456 bp-xprofile/bp-xprofile-loader.php:172
+#: bp-xprofile/bp-xprofile-loader.php:230
+msgid "Edit"
+msgstr "편집"
+
+#: bp-activity/bp-activity-admin.php:660 bp-core/admin/bp-core-update.php:135
+msgid "Update"
+msgstr "업데이트"
+
+#: bp-activity/bp-activity-admin.php:679
+msgid "Link"
+msgstr "링크"
+
+#: bp-activity/bp-activity-admin.php:681
+msgid "Activity generated by blog posts and comments, forum topics and replies, and some plugins, uses the link field for a permalink back to the content item."
+msgstr "블로그 글과 댓글, 포럼 토픽, 응답, 플러그인에 의해 생성된 활동은 컨텐트 아이템으로 이동하는 고유주소의 링크란을 사용합니다."
+
+#: bp-activity/bp-activity-admin.php:695
+msgid "Author ID"
+msgstr "글쓴이 ID"
+
+#: bp-activity/bp-activity-admin.php:747
+msgid "Primary Item ID"
+msgstr "주 아이템 ID"
+
+#: bp-activity/bp-activity-admin.php:751
+msgid "Secondary Item ID"
+msgstr "부 아이템 ID"
+
+#: bp-activity/bp-activity-admin.php:754
+msgid "These identify the object that created this activity. For example, the fields could reference a pair of site and comment IDs."
+msgstr "이것은 이 활동을 생성한 목적물을 구분합니다. 예를 들면, 필드는 사이트와 댓글 ID를 참조할 수 있습니다."
+
+#: bp-activity/bp-activity-admin.php:791
+msgid "%s activity has been permanently deleted."
+msgid_plural "%s activity items have been permanently deleted."
+msgstr[0] "%s 활동이 영구적으로 삭제됐습니다."
+
+#: bp-activity/bp-activity-admin.php:795
+msgid "An error occurred when trying to update activity ID #%s."
+msgstr "활동 ID #%s를 업데이트 하는데 에러가 발생했습니다."
+
+#: bp-activity/bp-activity-admin.php:798
+msgid "Errors occurred when trying to update these activity items:"
+msgstr "해당 활동 아이템을 업데이트 하는 중 에러가 발생했습니다:"
+
+#: bp-activity/bp-activity-admin.php:804
+msgid "#%s"
+msgstr "#%s"
+
+#: bp-activity/bp-activity-admin.php:813
+msgid "%s activity has been successfully spammed."
+msgid_plural "%s activity items have been successfully spammed."
+msgstr[0] "%s 활동이 성공적으로 스팸 처리됐습니다."
+
+#: bp-activity/bp-activity-admin.php:816
+msgid "%s activity has been successfully unspammed."
+msgid_plural "%s activity items have been successfully unspammed."
+msgstr[0] "%s 활동이 성공적으로 스팸 해제됐습니다."
+
+#: bp-activity/bp-activity-admin.php:819
+msgid "The activity has been updated succesfully."
+msgstr "활동이 성공적으로 업데이트 됐습니다."
+
+#: bp-activity/bp-activity-admin.php:833
+msgid "Activity related to ID #%s"
+msgstr "활동이 ID #%s 에 연결됐습니다"
+
+#: bp-activity/bp-activity-admin.php:839
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 검색 결과 "
+
+#: bp-activity/bp-activity-admin.php:852
+msgid "Search all Activity"
+msgstr "모든 활동 검색"
+
+#: bp-activity/bp-activity-admin.php:863
+msgid "Reply to Activity"
+msgstr "활동에 응답"
+
+#: bp-activity/bp-activity-admin.php:867
+#: bp-themes/bp-default/forums/index.php:134
+#: bp-xprofile/bp-xprofile-classes.php:405
+#: bp-xprofile/bp-xprofile-classes.php:913
+msgid "Cancel"
+msgstr "취소"
+
+#: bp-activity/bp-activity-admin.php:868 bp-activity/bp-activity-admin.php:1273
+#: bp-themes/bp-default/activity/comment.php:37
+#: bp-themes/bp-default/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "응답"
+
+#: bp-activity/bp-activity-admin.php:1051
+msgid "No activities found."
+msgstr "활동을 찾을 수 없습니다."
+
+#: bp-activity/bp-activity-admin.php:1111
+#: bp-messages/bp-messages-template.php:440
+msgid "All"
+msgstr "모두"
+
+#: bp-activity/bp-activity-admin.php:1112
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgstr "스팸 <span class=\"count\">(%s)</span>"
+
+#: bp-activity/bp-activity-admin.php:1127
+msgid "Mark as Spam"
+msgstr "스팸으로 처리하기"
+
+#: bp-activity/bp-activity-admin.php:1128
+#: bp-activity/bp-activity-admin.php:1281
+msgid "Not Spam"
+msgstr "스팸 아님"
+
+#: bp-activity/bp-activity-admin.php:1129
+#: bp-activity/bp-activity-admin.php:1286
+msgid "Delete Permanently"
+msgstr "영원히 삭제하기"
+
+#: bp-activity/bp-activity-admin.php:1144
+msgid "Author"
+msgstr "글쓴이"
+
+#: bp-activity/bp-activity-admin.php:1146
+msgid "In Response To"
+msgstr "다음의 응답으로"
+
+#: bp-activity/bp-activity-admin.php:1201
+msgid "Show all activity types"
+msgstr "모든 활동 형태 보이기"
+
+#: bp-activity/bp-activity-admin.php:1208
+msgid "Filter"
+msgstr "필터"
+
+#: bp-activity/bp-activity-admin.php:1286 bp-core/bp-core-cssjs.php:17
+msgid "Are you sure?"
+msgstr "정말인가요?"
+
+#: bp-activity/bp-activity-admin.php:1295
+msgid "Submitted on <a href=\"%1$s\">%2$s at %3$s</a>"
+msgstr "제출일자 <a href=\"%1$s\">%2$s %3$s</a>"
+
+#: bp-activity/bp-activity-admin.php:1324
+msgid "%s related activity"
+msgid_plural "%s related activities"
+msgstr[0] "%s 관련된 활동"
+
+#: bp-activity/bp-activity-admin.php:1335
+msgid "<a href=\"%1$s\">View Activity</a>"
+msgstr "<a href=\"%1$s\">활동 보기</a>"
+
+#: bp-activity/bp-activity-akismet.php:80
+msgid "Flagged as spam by Akismet"
+msgstr "아키스밋에 의해 스팸으로 분류됨"
+
+#: bp-activity/bp-activity-akismet.php:83
+msgid "Cleared by Akismet"
+msgstr "아키스밋에 의해 제거됨"
+
+#: bp-activity/bp-activity-akismet.php:89
+msgid "Flagged as spam by %s"
+msgstr "%s에 의해 스팸으로 분류됨"
+
+#: bp-activity/bp-activity-akismet.php:91
+msgid "Un-spammed by %s"
+msgstr "%s에 의해 스팸 아님으로 처리됨"
+
+#: bp-activity/bp-activity-akismet.php:100
+msgid "History"
+msgstr "이력"
+
+#: bp-activity/bp-activity-akismet.php:345
+msgid "%s reported this activity as spam"
+msgstr "%s가 이 활동을 스팸으로 보고했습니다"
+
+#: bp-activity/bp-activity-akismet.php:361
+msgid "%s reported this activity as not spam"
+msgstr "%s가 이 활동을 스팸 아님으로 보고했습니다"
+
+#: bp-activity/bp-activity-akismet.php:384
+msgid "Akismet caught this item as spam"
+msgstr "아키스밋이 이 아이템을 스팸으로 잡아냈습니다"
+
+#: bp-activity/bp-activity-akismet.php:389
+msgid "Akismet cleared this item"
+msgstr "아키스밋이 이 아이템을 제거했습니다"
+
+#: bp-activity/bp-activity-akismet.php:394
+msgid "Akismet was unable to check this item (response: %s), will automatically retry again later."
+msgstr "아키스밋이 이 아이템(반응: %s)을 점검할 수 없으며 나중에 자동으로 재시도할 것입니다."
+
+#: bp-activity/bp-activity-akismet.php:502
+msgid "Activity History"
+msgstr "활동 이력"
+
+#: bp-activity/bp-activity-akismet.php:520
+msgctxt "x hours ago - akismet cleared this item"
+msgid "<span>%1$s</span> &mdash; %2$s"
+msgstr "<span>%1$s</span> &mdash; %2$s"
+
+#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-template.php:120
+msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
+msgstr "%1$s의 매개변수는 연상 배열(associative array)에 있어야합니다. 상세 정보는 %2$s의 내부 문서 도움말을 참고하세요."
+
+#: bp-activity/bp-activity-filters.php:321
+msgid "[Read more]"
+msgstr "[더 보기]"
+
+#: bp-activity/bp-activity-filters.php:326
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: bp-activity/bp-activity-functions.php:149
+msgid "@%s Mentions"
+msgstr "@%s 멘션"
+
+#: bp-activity/bp-activity-functions.php:152
+msgid "You have %1$d new mentions"
+msgstr "%1$d 새 멘션이 있습니다."
+
+#: bp-activity/bp-activity-functions.php:156
+msgid "%1$s mentioned you"
+msgstr "%1$s가 당신에게 맨션했습니다"
+
+#: bp-activity/bp-activity-functions.php:767
+msgid "Posted a status update"
+msgstr "상태 업데이트가 게시됐습니다"
+
+#: bp-activity/bp-activity-functions.php:768
+msgid "Replied to a status update"
+msgstr "상태 업데이트에 응답됐습니다"
+
+#: bp-activity/bp-activity-functions.php:1016
+msgid "%s posted an update"
+msgstr "%s가 업데이트를 게시했습니다"
+
+#: bp-activity/bp-activity-functions.php:1085
+msgid "%s posted a new activity comment"
+msgstr "%s가 새 활동 댓글을 게시했습니다"
+
+#: bp-activity/bp-activity-functions.php:1458
+msgid "Thumbnail"
+msgstr "썸네일"
+
+#: bp-activity/bp-activity-loader.php:30
+#: bp-core/admin/bp-core-components.php:83
+msgid "Activity Streams"
+msgstr "활동 흐름"
+
+#: bp-activity/bp-activity-loader.php:93
+msgid "Search Activity..."
+msgstr "활동 검색중..."
+
+#: bp-activity/bp-activity-loader.php:143
+#: bp-activity/bp-activity-loader.php:257
+msgid "Personal"
+msgstr "개인적인"
+
+#: bp-activity/bp-activity-loader.php:153
+#: bp-activity/bp-activity-loader.php:234
+#: bp-activity/feeds/bp-activity-mentions-feed.php:28
+#: bp-themes/bp-default/activity/index.php:77
+msgid "Mentions"
+msgstr "멘션"
+
+#: bp-activity/bp-activity-loader.php:164
+#: bp-activity/bp-activity-loader.php:265
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+#: bp-activity/bp-activity-loader.php:176
+#: bp-activity/bp-activity-loader.php:274 bp-friends/bp-friends-loader.php:155
+#: bp-friends/bp-friends-screens.php:83
+msgid "Friends"
+msgstr "친구"
+
+#: bp-activity/bp-activity-loader.php:189
+#: bp-activity/bp-activity-loader.php:284 bp-core/admin/bp-core-update.php:354
+#: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
+#: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
+#: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
+#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
+msgid "Groups"
+msgstr "그룹"
+
+#: bp-activity/bp-activity-loader.php:232
+msgid "Mentions <span class=\"count\">%s</span>"
+msgstr "멘션 <span class=\"count\">%s</span>"
+
+#: bp-activity/bp-activity-loader.php:309
+msgid "My Activity"
+msgstr "내 활동"
+
+#: bp-activity/bp-activity-loader.php:314
+#: bp-activity/bp-activity-template.php:968
+#: bp-activity/bp-activity-template.php:1089
+#: bp-activity/bp-activity-template.php:1099 bp-blogs/bp-blogs-loader.php:200
+#: bp-forums/bp-forums-loader.php:238 bp-forums/bp-forums-template.php:487
+#: bp-forums/bp-forums-template.php:604 bp-forums/bp-forums-template.php:1200
+#: bp-friends/bp-friends-loader.php:203 bp-groups/bp-groups-loader.php:557
+#: bp-groups/bp-groups-template.php:570 bp-groups/bp-groups-template.php:593
+#: bp-groups/bp-groups-template.php:1030 bp-groups/bp-groups-template.php:1046
+#: bp-groups/bp-groups-template.php:1095 bp-groups/bp-groups-template.php:1111
+#: bp-groups/bp-groups-template.php:1801 bp-groups/bp-groups-template.php:1810
+#: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
+#: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
+#: bp-members/bp-members-template.php:478
+#: bp-members/bp-members-template.php:777
+#: bp-members/bp-members-template.php:796
+#: bp-messages/bp-messages-loader.php:255
+#: bp-messages/bp-messages-template.php:326
+#: bp-themes/bp-default/groups/single/admin.php:185
+#: bp-themes/bp-default/groups/single/admin.php:212
+#: bp-xprofile/bp-xprofile-loader.php:262
+msgid "Profile picture of %s"
+msgstr "%s의 프로필 사진"
+
+#: bp-activity/bp-activity-notifications.php:74
+msgid "%s mentioned you in an update"
+msgstr "%s가 업데이트에 당신에게 멘션했습니다"
+
+#: bp-activity/bp-activity-notifications.php:77 bp-core/deprecated/1.5.php:337
+msgid ""
+"%1$s mentioned you in the group \"%2$s\":\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 그룹에서 당신에게 멘션했습니다 \"%2$s\":\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %4$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-notifications.php:87
+msgid ""
+"%1$s mentioned you in an update:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 업데이트에서 당신에게 멘션했습니다:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-notifications.php:98
+#: bp-activity/bp-activity-notifications.php:175
+#: bp-activity/bp-activity-notifications.php:221 bp-core/deprecated/1.5.php:347
+#: bp-friends/bp-friends-notifications.php:44
+#: bp-friends/bp-friends-notifications.php:81
+#: bp-groups/bp-groups-notifications.php:43
+#: bp-groups/bp-groups-notifications.php:92
+#: bp-groups/bp-groups-notifications.php:148
+#: bp-groups/bp-groups-notifications.php:195
+#: bp-groups/bp-groups-notifications.php:249
+#: bp-messages/bp-messages-notifications.php:60
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "이 통지를 비활성화 하려면 로그인하고 다음으로 가세요: %s"
+
+#: bp-activity/bp-activity-notifications.php:163
+msgid "%s replied to one of your updates"
+msgstr "%s가 당신의 업데이트 중 하나에 응답했습니다"
+
+#: bp-activity/bp-activity-notifications.php:165
+msgid ""
+"%1$s replied to one of your updates:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view your original update and all comments, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 당신의 업데이트 중 하나에 응답했습니다:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view your original update and all comments, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-notifications.php:206
+msgid "%s replied to one of your comments"
+msgstr "%s가 당신의 댓글 중 하나에 응답했습니다"
+
+#: bp-activity/bp-activity-notifications.php:211
+msgid ""
+"%1$s replied to one of your comments:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view the original activity, your comment and all replies, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 당신의 댓글 중 하나에 응답했습니다:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view the original activity, your comment and all replies, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity/bp-activity-screens.php:245
+msgid "You do not have access to this activity."
+msgstr "이 활동에 접근할 수 없습니다."
+
+#: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-messages/bp-messages-screens.php:149
+#: bp-themes/bp-default/groups/single/admin.php:26
+#: bp-themes/bp-default/registration/register.php:227
+msgid "Yes"
+msgstr "네"
+
+#: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-messages/bp-messages-screens.php:150
+#: bp-themes/bp-default/groups/single/admin.php:27
+#: bp-themes/bp-default/registration/register.php:228
+msgid "No"
+msgstr "아니오"
+
+#: bp-activity/bp-activity-screens.php:287
+msgid "A member mentions you in an update using \"@%s\""
+msgstr "회원이 \"@%s\"를 사용하여 업데이트에 당신에게 멘션했습니다."
+
+#: bp-activity/bp-activity-screens.php:293
+msgid "A member replies to an update or comment you've posted"
+msgstr "회원이 당신이 게시한 업데이트나 댓글에 응답합니다"
+
+#: bp-activity/bp-activity-template.php:220
+msgctxt "Activity pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-activity/bp-activity-template.php:221
+msgctxt "Activity pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-activity/bp-activity-template.php:523
+msgid "Viewing item %1$s to %2$s (of %3$s items)"
+msgstr "아이템 보임 %1$s에서 %2$s (%3$s 아이템 중에서)"
+
+#: bp-activity/bp-activity-template.php:968
+msgid "Profile picture"
+msgstr "프로필 사진"
+
+#: bp-activity/bp-activity-template.php:1065
+msgid "Group logo"
+msgstr "그룹 로고"
+
+#: bp-activity/bp-activity-template.php:1070
+#: bp-groups/bp-groups-template.php:391
+msgid "Group logo of %s"
+msgstr "%s의 그룹 로고"
+
+#: bp-activity/bp-activity-template.php:1080
+msgid "Profile picture of the author of the site %s"
+msgstr "사이트 %s의 글쓴이 프로필 사진"
+
+#: bp-activity/bp-activity-template.php:1270
+msgid "View Discussion"
+msgstr "토론 보기"
+
+#: bp-activity/bp-activity-template.php:2065
+#: bp-forums/bp-forums-template.php:1271 bp-groups/bp-groups-template.php:1294
+#: bp-themes/bp-default/activity/comment.php:43
+#: bp-themes/bp-default/members/single/messages/messages-loop.php:51
+#: bp-themes/bp-default/members/single/messages/single.php:24
+#: bp-xprofile/bp-xprofile-admin.php:460
+msgid "Delete"
+msgstr "삭제"
+
+#: bp-activity/bp-activity-template.php:2112
+#: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
+#: bp-members/bp-members-template.php:582
+#: bp-themes/bp-default/activity/entry.php:37
+#: bp-themes/bp-default/functions.php:165
+#: bp-xprofile/bp-xprofile-loader.php:222
+msgid "View"
+msgstr "보기"
+
+#: bp-activity/bp-activity-template.php:2206
+msgid "Clear Filter"
+msgstr "필터 지우기"
+
+#: bp-activity/bp-activity-template.php:2389
+msgid "a user"
+msgstr "사용자"
+
+#: bp-activity/bp-activity-template.php:2429
+msgid "Send a public message on your activity stream."
+msgstr "당신의 활동 흐름에 공개 메시지 보내기"
+
+#: bp-activity/bp-activity-template.php:2430
+msgid "Public Message"
+msgstr "공개 메시지"
+
+#: bp-activity/bp-activity-template.php:2737
+msgid "Site Wide Activity RSS Feed"
+msgstr "전체 사이트 RSS 피드"
+
+#: bp-activity/feeds/bp-activity-favorites-feed.php:28
+msgid "Favorite Activity"
+msgstr "즐겨찾기 활동"
+
+#: bp-activity/feeds/bp-activity-favorites-feed.php:31
+msgid "%s - Favorite Activity"
+msgstr "%s - 즐겨찾기 활동"
+
+#: bp-activity/feeds/bp-activity-favorites-feed.php:57
+#: bp-activity/feeds/bp-activity-friends-feed.php:50
+#: bp-activity/feeds/bp-activity-group-feed.php:50
+#: bp-activity/feeds/bp-activity-mentions-feed.php:51
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:56
+#: bp-activity/feeds/bp-activity-personal-feed.php:50
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:50
+msgid "Comments: %s"
+msgstr "댓글: %s"
+
+#: bp-activity/feeds/bp-activity-favorites-feed.php:61
+#: bp-activity/feeds/bp-activity-friends-feed.php:54
+#: bp-activity/feeds/bp-activity-mentions-feed.php:55
+#: bp-activity/feeds/bp-activity-personal-feed.php:54
+msgid "In reply to"
+msgstr "다음의 응답으로"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:28
+msgid "Friends Activity"
+msgstr "친구 활동"
+
+#: bp-activity/feeds/bp-activity-friends-feed.php:31
+msgid "%s - Friends Activity Feed"
+msgstr "%s - 친구 활동 피드"
+
+#: bp-activity/feeds/bp-activity-group-feed.php:28
+msgid "Group Activity"
+msgstr "그룹 활동"
+
+#: bp-activity/feeds/bp-activity-group-feed.php:31
+msgid "%s - Group Activity Feed"
+msgstr "%s - 그룹 활동 피드"
+
+#: bp-activity/feeds/bp-activity-mentions-feed.php:32
+msgid "%s - Mentions"
+msgstr "%s - 멘션"
+
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:28
+msgid "My Groups - Public Activity"
+msgstr "내 그룹 - 공개 활동"
+
+#: bp-activity/feeds/bp-activity-mygroups-feed.php:32
+msgid "%1$s - My Groups - Public Activity"
+msgstr "%1$s - 내 그룹 - 공개 활동"
+
+#: bp-activity/feeds/bp-activity-personal-feed.php:31
+msgid "%s - Activity Feed"
+msgstr "%s - 활동 피드"
+
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:28
+msgid "Site Wide Activity"
+msgstr "전체 사이트 활동"
+
+#: bp-activity/feeds/bp-activity-sitewide-feed.php:31
+msgid "Site Wide Activity Feed"
+msgstr "전체 사이트 활동 피드"
+
+#: bp-blogs/bp-blogs-activity.php:29
+msgid "New site created"
+msgstr "새 사이트가 생성됐습니다"
+
+#: bp-blogs/bp-blogs-activity.php:30
+msgid "New post published"
+msgstr "새 글이 발행됐습니다"
+
+#: bp-blogs/bp-blogs-activity.php:31
+msgid "New post comment posted"
+msgstr "새 댓글이 게시됐습니다"
+
+#: bp-blogs/bp-blogs-buddybar.php:43 bp-blogs/bp-blogs-loader.php:122
+#: bp-blogs/bp-blogs-loader.php:170 bp-blogs/bp-blogs-loader.php:191
+msgid "My Sites"
+msgstr "내 사이트"
+
+#: bp-blogs/bp-blogs-buddybar.php:55 bp-core/bp-core-buddybar.php:545
+msgid "Dashboard"
+msgstr "알림판"
+
+#: bp-blogs/bp-blogs-buddybar.php:56 bp-core/bp-core-buddybar.php:549
+msgid "New Post"
+msgstr "새 글 쓰기"
+
+#: bp-blogs/bp-blogs-buddybar.php:57 bp-core/bp-core-buddybar.php:550
+msgid "Manage Posts"
+msgstr "글 관리"
+
+#: bp-blogs/bp-blogs-buddybar.php:58 bp-core/bp-core-buddybar.php:551
+msgid "Manage Comments"
+msgstr "댓글 관리"
+
+#: bp-blogs/bp-blogs-buddybar.php:71
+msgid "Create a Site!"
+msgstr "사이트를 생성하세요!"
+
+#: bp-blogs/bp-blogs-functions.php:110
+msgid "%s created the site %s"
+msgstr "%s가  %s 사이트를 생성했습니다"
+
+#: bp-blogs/bp-blogs-functions.php:183
+msgid "%1$s wrote a new post, %2$s, on the site %3$s"
+msgstr "%1$s 가 %3$s 사이트에서 새 글을 작성했습니다, %2$s."
+
+#: bp-blogs/bp-blogs-functions.php:185
+msgid "%1$s wrote a new post, %2$s"
+msgstr "%1$s가 새 글을 작성했습니다. %2$s"
+
+#: bp-blogs/bp-blogs-functions.php:287
+msgid "%1$s commented on the post, %2$s, on the site %3$s"
+msgstr "%1$s가 %3$s 사이트에서 글에 댓글을 달았습니다, %2$s."
+
+#: bp-blogs/bp-blogs-functions.php:289
+msgid "%1$s commented on the post, %2$s"
+msgstr "%1$s가 글에 댓글을 달았습니다, %2$s"
+
+#: bp-blogs/bp-blogs-loader.php:25 bp-core/admin/bp-core-components.php:95
+msgid "Site Tracking"
+msgstr "사이트 추적"
+
+#: bp-blogs/bp-blogs-loader.php:58
+msgid "Search sites..."
+msgstr "사이트 검색..."
+
+#: bp-blogs/bp-blogs-loader.php:111
+msgid "Sites <span>%d</span>"
+msgstr "사이트 <span>%d</span>"
+
+#: bp-blogs/bp-blogs-loader.php:162
+msgid "Sites"
+msgstr "사이트"
+
+#: bp-blogs/bp-blogs-template.php:138
+msgctxt "Blog pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-blogs/bp-blogs-template.php:139
+msgctxt "Blog pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-blogs/bp-blogs-template.php:263
+msgid "Viewing site %1$s to %2$s (of %3$s sites)"
+msgstr "사이트 보임 %1$s에서 %2$s (%3$s 사이트 중에서)"
+
+#: bp-blogs/bp-blogs-template.php:287
+msgid "Profile picture of site author %s"
+msgstr "사이트 글쓴이 %s의 프로필 사진"
+
+#: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
+#: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
+#: bp-members/bp-members-template.php:553
+#: bp-members/bp-members-template.php:828
+#: bp-themes/bp-default/groups/groups-loop.php:47
+#: bp-themes/bp-default/groups/single/group-header.php:42
+msgid "active %s"
+msgstr "활성 %s"
+
+#: bp-blogs/bp-blogs-template.php:362
+msgid "Latest Post: %s"
+msgstr "최근 글: %s"
+
+#: bp-blogs/bp-blogs-template.php:425
+msgid "There was a problem, please correct the form below and try again."
+msgstr "문제가 있습니다. 아래의 양식을 수정하고 다시 해주세요."
+
+#: bp-blogs/bp-blogs-template.php:428
+msgid "By filling out the form below, you can <strong>add a site to your account</strong>. There is no limit to the number of sites that you can have, so create to your heart's content, but blog responsibly!"
+msgstr "아래의 양식을 작성하면 <strong>계정에 사이트를 추가</strong>할 수 있습니다. 소유할 수 있는 사이트의 수는 제한이 없습니다. 마음껏 생성할 수 있지만 책임감을 갖고 블로깅하세요!"
+
+#: bp-blogs/bp-blogs-template.php:430
+msgid "If you&#8217;re not going to use a great domain, leave it for a new user. Now have at it!"
+msgstr "해당 도메인을 사용하지 않으려면 새로운 사용자를 위해 남겨두세요. 지금 시작하세요!"
+
+#: bp-blogs/bp-blogs-template.php:439
+msgid "Create Site"
+msgstr "사이트 생성하기"
+
+#: bp-blogs/bp-blogs-template.php:453
+msgid "Site Name:"
+msgstr "사이트 이름:"
+
+#: bp-blogs/bp-blogs-template.php:455
+msgid "Site Domain:"
+msgstr "사이트 도메인:"
+
+#: bp-blogs/bp-blogs-template.php:469
+msgid "Your address will be "
+msgstr "당신의 주소는 다음이 될 것입니다"
+
+#: bp-blogs/bp-blogs-template.php:472
+msgid "blogname"
+msgstr "블로그 이름"
+
+#: bp-blogs/bp-blogs-template.php:474
+msgid "domain."
+msgstr "도메인."
+
+#: bp-blogs/bp-blogs-template.php:477
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed so choose carefully!)"
+msgstr "최소한 4글자(글자와 숫자만)여야합니다. 변경할 수 없으니 주의해서 선택하세요!"
+
+#: bp-blogs/bp-blogs-template.php:483
+msgid "Site Title:"
+msgstr "사이트 제목"
+
+#: bp-blogs/bp-blogs-template.php:494
+msgid "Privacy:"
+msgstr "사생활 보고:"
+
+#: bp-blogs/bp-blogs-template.php:495
+#: bp-themes/bp-default/registration/register.php:224
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr "내 사이트가 검색엔진과 이 네트워크의 공개 목록에 노출되기를 원합니다. "
+
+#: bp-blogs/bp-blogs-template.php:578
+msgid "Congratulations! You have successfully registered a new site."
+msgstr "축하합니다! 새 사이트를 성공적으로 등록했습니다."
+
+#: bp-blogs/bp-blogs-template.php:580
+msgid "<a href=\"%1$s\">%2$s</a> is your new site.  <a href=\"%3$s\">Login</a> as \"%4$s\" using your existing password."
+msgstr "<a href=\"%1$s\">%2$s</a> 는 당싱의 새 사이트입니다. 기존의 비밀번호를 사용해서 \"%4$s\"로 <a href=\"%3$s\">로그인</a>하세요."
+
+#: bp-blogs/bp-blogs-template.php:589 bp-core/bp-core-filters.php:348
+#: bp-themes/bp-default/blogs/create.php:21
+#: bp-themes/bp-default/blogs/index.php:21
+msgid "Create a Site"
+msgstr "사이트 생성하기"
+
+#: bp-blogs/bp-blogs-template.php:601
+msgid "%s's Sites"
+msgstr "%s의 사이트"
+
+#: bp-blogs/bp-blogs-template.php:602
+msgid "%s's Recent Posts"
+msgstr "%s의 최근 글"
+
+#: bp-blogs/bp-blogs-template.php:603
+msgid "%s's Recent Comments"
+msgstr "%s의 최근 댓글"
+
+#: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
+#: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
+#: bp-members/bp-members-template.php:667
+#: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
+#: bp-themes/bp-default/searchform.php:5
+msgid "Search"
+msgstr "검색"
+
+#: bp-blogs/bp-blogs-template.php:650 bp-blogs/bp-blogs-template.php:651
+msgid "Visit Site"
+msgstr "사이트 방문"
+
+#: bp-blogs/bp-blogs-widgets.php:25
+msgid "Recent Networkwide Posts"
+msgstr "최근 전체 네트워크 글"
+
+#: bp-blogs/bp-blogs-widgets.php:67
+msgid "Sorry, there were no posts found. Why not write one?"
+msgstr "죄송합니다. 글을 찾을 수 없습니다. 하나 써주세요."
+
+#: bp-blogs/bp-blogs-widgets.php:87
+msgid "Max posts to show:"
+msgstr "보여줄 최대 글 수:"
+
+#: bp-core/admin/bp-core-components.php:26
+#: bp-core/admin/bp-core-functions.php:365 bp-core/admin/bp-core-update.php:57
+#: bp-core/admin/bp-core-update.php:69 bp-core/admin/bp-core-update.php:201
+msgid "Components"
+msgstr "구성요소"
+
+#: bp-core/admin/bp-core-components.php:32
+msgid "Save Settings"
+msgstr "설정 저장하기"
+
+#: bp-core/admin/bp-core-components.php:67
+#: bp-xprofile/bp-xprofile-loader.php:41
+msgid "Extended Profiles"
+msgstr "확장 프로필"
+
+#: bp-core/admin/bp-core-components.php:68
+msgid "Customize your community with fully editable profile fields that allow your users to describe themselves."
+msgstr "사용자가 자신을 표현할 수 있도록 전체 편집 가능한 프로필 필드로 커뮤니티를 사용자 정의합니다."
+
+#: bp-core/admin/bp-core-components.php:71
+msgid "Account Settings"
+msgstr "계정 설정"
+
+#: bp-core/admin/bp-core-components.php:72
+msgid "Allow your users to modify their account and notification settings directly from within their profiles."
+msgstr "사용자가 자신의 프로필에서 자신의 계정과 통지 설정을 바로 수정할 수 있도록 합니다."
+
+#: bp-core/admin/bp-core-components.php:75 bp-friends/bp-friends-loader.php:24
+msgid "Friend Connections"
+msgstr "친구 연결"
+
+#: bp-core/admin/bp-core-components.php:76
+msgid "Let your users make connections so they can track the activity of others and focus on the people they care about the most."
+msgstr "사용자가 다른 사람의 활동을 추적하고 가장 관심있는 사람들에 집중할 수 있도록 연결합니다."
+
+#: bp-core/admin/bp-core-components.php:79
+msgid "Private Messaging"
+msgstr "개인 메시지"
+
+#: bp-core/admin/bp-core-components.php:80
+msgid "Allow your users to talk to each other directly and in private. Not just limited to one-on-one discussions, messages can be sent between any number of members."
+msgstr "사용자가 서로에게 직접 비공개적으로 이야기 할 수 있도록 합니다. 일대일 대화에 국한된 것이 아니며, 메시지는 회원 어느 누구에게도 보낼 수 있습니다."
+
+#: bp-core/admin/bp-core-components.php:84
+msgid "Global, personal, and group activity streams with threaded commenting, direct posting, favoriting and @mentions, all with full RSS feed and email notification support."
+msgstr "타래가 있는 댓글, 직접 글올리기, 즐겨찾기, @멘션, 그리고 전체 RSS 피드, 이메일 통지 지원이 있는 모든 것을 포함하는 전체, 개인, 그룹 활동 흐름"
+
+#: bp-core/admin/bp-core-components.php:87 bp-groups/bp-groups-loader.php:83
+msgid "User Groups"
+msgstr "사용자 그룹"
+
+#: bp-core/admin/bp-core-components.php:88
+msgid "Groups allow your users to organize themselves into specific public, private or hidden sections with separate activity streams and member listings."
+msgstr "그룹은 사용자들이 별개의 활동 흐름과 회원 목록을 가진 특정된 공개, 개인, 또는 숨은 섹션으로 조직화가 가능하게 합니다."
+
+#: bp-core/admin/bp-core-components.php:91 bp-forums/bp-forums-loader.php:25
+msgid "Discussion Forums"
+msgstr "토론 포럼"
+
+#: bp-core/admin/bp-core-components.php:92
+msgid "Site-wide and Group forums allow for focused, bulletin-board style conversations. Powered by bbPress."
+msgstr "전체 사이트와 그룹 포럼이 집중된 게시판 형태의 대화가 허용됩니다. bbPress 지원"
+
+#: bp-core/admin/bp-core-components.php:96
+msgid "Record activity for new posts and comments from your site."
+msgstr "사이트에서 새 글과 댓글을 위한 활동 기록"
+
+#: bp-core/admin/bp-core-components.php:102
+msgid "Record activity for new sites, posts, and comments across your network."
+msgstr "전체 네트워크에 새 사이트, 글, 댓글 활동 기록하기"
+
+#: bp-core/admin/bp-core-components.php:108 bp-core/bp-core-loader.php:27
+msgid "BuddyPress Core"
+msgstr "버디프레스 코어"
+
+#: bp-core/admin/bp-core-components.php:109
+msgid "It&#8216;s what makes <del>time travel</del> BuddyPress possible!"
+msgstr "<del>시간 여행</del> 버디프레스가 가능한 이유!"
+
+#: bp-core/admin/bp-core-components.php:112
+msgid "Community Members"
+msgstr "커뮤니티 회원"
+
+#: bp-core/admin/bp-core-components.php:113
+msgid "Everything in a BuddyPress community revolves around its members."
+msgstr "버디프레스 커뮤니티의 모든 것은 회원이 중심입니다."
+
+#: bp-core/admin/bp-core-components.php:179
+msgid "Available Components"
+msgstr "사용 가능한 구성요소"
+
+#: bp-core/admin/bp-core-components.php:181
+msgid "Each component has a unique purpose, and your community may not need each one."
+msgstr "각 구성요소는 고유의 목적이 있으며 커뮤니티가 이들 모두를 필요로 하지는 않습니다."
+
+#: bp-core/admin/bp-core-components.php:186
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "모두 <span class=\"count\">(%s)</span>"
+
+#: bp-core/admin/bp-core-components.php:187
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "활성 <span class=\"count\">(%s)</span>"
+
+#: bp-core/admin/bp-core-components.php:188
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] "비활성 <span class=\"count\">(%s)</span>"
+
+#: bp-core/admin/bp-core-components.php:189
+msgid "Must-Use <span class=\"count\">(%s)</span>"
+msgid_plural "Must-Use <span class=\"count\">(%s)</span>"
+msgstr[0] "필수 사용 <span class=\"count\">(%s)</span>"
+
+#: bp-core/admin/bp-core-components.php:196
+#: bp-core/admin/bp-core-components.php:204
+msgid "Component"
+msgstr "구성요소"
+
+#: bp-core/admin/bp-core-components.php:197
+#: bp-core/admin/bp-core-components.php:205
+msgid "Description"
+msgstr "설명"
+
+#: bp-core/admin/bp-core-components.php:230
+msgid "Select %s"
+msgstr "선택 %s"
+
+#: bp-core/admin/bp-core-components.php:255
+msgid "No components found."
+msgstr "구성요소를 찾을 수 없습니다."
+
+#: bp-core/admin/bp-core-functions.php:113
+msgid "Why have all my BuddyPress menus disappeared?"
+msgstr "내 버디프레스의 모든 메뉴가 사라진 이유는?"
+
+#: bp-core/admin/bp-core-functions.php:115
+msgid "Don't worry! We've moved the BuddyPress options into more convenient and easier to find locations. You're seeing this page because you are running a legacy BuddyPress plugin which has not been updated."
+msgstr "걱정마세요! 우리는 버디프레스의 옵션을 더 편리하고 찾기 쉬운 장소로 이동했습니다. 이 페이지가 보이는 이유는 업데이트가 안된 구형 버디프레스 플러그인을 사용하고 있기 때문입니다."
+
+#: bp-core/admin/bp-core-functions.php:116
+msgid "Components, Pages, Settings, and Forums, have been moved to <a href=\"%s\">Settings &gt; BuddyPress</a>. Profile Fields has been moved into the <a href=\"%s\">Users</a> menu."
+msgstr "구성요소, 페이지, 설정, 포럼은 <a href=\"%s\">설정 &gt; 버디프레스</a>로 이동됐습니다. 프로필 필드는 <a href=\"%s\">사용자</a>메뉴로 이동됐습니다."
+
+#: bp-core/admin/bp-core-functions.php:234
+msgid "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update your permalink structure</a> to something other than the default for it to work."
+msgstr "<strong>버디프레스는 준비가 다 됐습니다</strong>. 제대로 작동하려면 기본 설정이 아닌 것으로 <a href=\"%s\">고유주소 구조를 업데이트</a> 해야합니다."
+
+#: bp-core/admin/bp-core-functions.php:253
+msgid "You'll need to <a href='%s'>activate a <strong>BuddyPress-compatible theme</strong></a> to take advantage of all of BuddyPress's features. We've bundled a default theme, but you can always <a href='%s'>install some other compatible themes</a> or <a href='%s'>update your existing WordPress theme</a>."
+msgstr "버디프레스의 모든 기능을 활용하려면 <a href='%s'><strong>버디프레스 호환 테마</strong>를 활성화</a>해야합니다. 기본 테마를 포함시켰지만 항상 <a href='%s'>다른 호환 테마를 설치하거나</a> 또는 <a href='%s'>기존 워드프레스 테마를 업데이트</a> 할 수 있습니다."
+
+#: bp-core/admin/bp-core-functions.php:278 bp-core/admin/bp-core-slugs.php:139
+#: bp-core/admin/bp-core-update.php:439
+#: bp-messages/bp-messages-template.php:564
+#: bp-themes/bp-default/registration/activate.php:36
+msgid "Activate"
+msgstr "활성화"
+
+#: bp-core/admin/bp-core-functions.php:283 bp-core/admin/bp-core-slugs.php:138
+#: bp-core/admin/bp-core-update.php:425 bp-members/bp-members-adminbar.php:60
+msgid "Register"
+msgstr "등록하기"
+
+#: bp-core/admin/bp-core-functions.php:304
+msgid "The following active BuddyPress Components do not have associated WordPress Pages: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Repair</a>"
+msgstr "다음의 활성 버디프레스 구성요소는 워드프레스 페이지와 연계되지 않습니다: %2$s. <a href=\"%1$s\" class=\"button-secondary\">수리하기</a>"
+
+#: bp-core/admin/bp-core-functions.php:329
+msgid "Each BuddyPress Component needs its own WordPress page. The following WordPress Pages have more than one component associated with them: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Repair</a>"
+msgstr "각 버디프레스 구성요소는 고유의 워드프레스 페이지가 필요합니다. 다음의 워드프레스 페이지는 연관된 하나 이상의 구성요소가 있습니다: %2$s. <a href=\"%1$s\" class=\"button-secondary\">수리하기</a>"
+
+#: bp-core/admin/bp-core-functions.php:342
+msgid "IMPORTANT: <a href=\"http://codex.buddypress.org/buddypress-site-administration/upgrading-buddypress/\">Read this before attempting to update BuddyPress</a>"
+msgstr "중요: <a href=\"http://codex.buddypress.org/buddypress-site-administration/upgrading-buddypress/\">버디프레스 업데이트 시도하기 전에 읽기</a>"
+
+#: bp-core/admin/bp-core-functions.php:369 bp-core/admin/bp-core-slugs.php:26
+#: bp-core/admin/bp-core-update.php:58 bp-core/admin/bp-core-update.php:70
+#: bp-core/admin/bp-core-update.php:205
+msgid "Pages"
+msgstr "페이지"
+
+#: bp-core/admin/bp-core-functions.php:373
+#: bp-core/admin/bp-core-settings.php:258 bp-core/bp-core-admin.php:374
+#: bp-groups/bp-groups-loader.php:298 bp-groups/bp-groups-template.php:1276
+#: bp-settings/bp-settings-loader.php:23 bp-settings/bp-settings-loader.php:78
+#: bp-settings/bp-settings-loader.php:169
+msgid "Settings"
+msgstr "설정"
+
+#: bp-core/admin/bp-core-functions.php:381 bp-core/admin/bp-core-update.php:409
+#: bp-core/bp-core-template.php:266 bp-forums/bp-forums-admin.php:14
+#: bp-forums/bp-forums-admin.php:47 bp-forums/bp-forums-admin.php:314
+#: bp-forums/bp-forums-loader.php:111 bp-forums/bp-forums-loader.php:190
+#: bp-forums/bp-forums-loader.php:233 bp-forums/deprecated/1.6.php:24
+msgid "Forums"
+msgstr "포럼"
+
+#: bp-core/admin/bp-core-schema.php:247
+msgctxt "First XProfile group name"
+msgid "Base"
+msgstr "베이스"
+
+#: bp-core/admin/bp-core-schema.php:251
+msgctxt "XProfile fullname field name"
+msgid "Name"
+msgstr "이름"
+
+#: bp-core/admin/bp-core-settings.php:31
+msgid "Show the Toolbar for logged out users"
+msgstr "로그아웃 사용자에게 툴바 보이기"
+
+#: bp-core/admin/bp-core-settings.php:47
+msgid "Allow registered members to delete their own accounts"
+msgstr "등록된 회원이 자신의 계정 삭제 허용하기"
+
+#: bp-core/admin/bp-core-settings.php:62
+msgid "Switch to WordPress Toolbar"
+msgstr "워드프레스 툴바로 전환"
+
+#: bp-core/admin/bp-core-settings.php:87
+msgid "Allow Akismet to scan for activity stream spam"
+msgstr "아키스밋이 활동 흐름 스팸에 대한 점검 허용하기"
+
+#: bp-core/admin/bp-core-settings.php:101
+msgid "Allow activity stream commenting on blog and forum posts"
+msgstr "활동 흐름이 블로그와 포럼 글에 댓글 허용하기"
+
+#: bp-core/admin/bp-core-settings.php:153
+msgid "Enable BuddyPress to WordPress profile syncing"
+msgstr "버디프레스와 워드프레스 프로필 싱크 활성화"
+
+#: bp-core/admin/bp-core-settings.php:169
+msgid "Allow registered members to upload avatars"
+msgstr "등록된 회원이 아바타 업로드 허용하기"
+
+#: bp-core/admin/bp-core-settings.php:194
+msgid "Enable group creation for all users"
+msgstr "모든 사용자에게 그룹 생성 활성화"
+
+#: bp-core/admin/bp-core-settings.php:195
+msgid "Administrators can always create groups, regardless of this setting."
+msgstr "관리자는 이 설정에 상관없이 항상 그룹을 생성할 수 있습니다."
+
+#: bp-core/admin/bp-core-settings.php:226
+msgid "Attempt to save a new config file."
+msgstr "새 환경설정 파일 저장 시도."
+
+#: bp-core/admin/bp-core-settings.php:226
+msgid "Repair"
+msgstr "수리하기"
+
+#: bp-core/admin/bp-core-settings.php:227
+msgid "File does not exist"
+msgstr "파일이 존재하지 않습니다"
+
+#: bp-core/admin/bp-core-settings.php:231
+msgid "Absolute path to your bbPress configuration file."
+msgstr "비비프레스 환경설정 파일 절대 경로."
+
+#: bp-core/admin/bp-core-settings.php:267
+#: bp-themes/bp-default/groups/single/admin.php:32
+#: bp-themes/bp-default/groups/single/admin.php:117
+#: bp-themes/bp-default/groups/single/forum/edit.php:58
+#: bp-themes/bp-default/groups/single/forum/edit.php:74
+#: bp-themes/bp-default/members/single/profile/edit.php:146
+#: bp-themes/bp-default/members/single/settings/general.php:72
+#: bp-themes/bp-default/members/single/settings/notifications.php:61
+#: bp-xprofile/bp-xprofile-classes.php:363
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: bp-core/admin/bp-core-slugs.php:32
+msgid "Save All"
+msgstr "모두 저장"
+
+#: bp-core/admin/bp-core-slugs.php:82
+msgid "Directories"
+msgstr "디렉토리"
+
+#: bp-core/admin/bp-core-slugs.php:84
+msgid "Associate a WordPress Page with each BuddyPress component directory."
+msgstr "워드프레스 페이지와 버디프레스 구성요소 디렉토리 연계."
+
+#: bp-core/admin/bp-core-slugs.php:103 bp-core/admin/bp-core-slugs.php:164
+msgid "- None -"
+msgstr "- 없음 -"
+
+#: bp-core/admin/bp-core-slugs.php:107 bp-core/admin/bp-core-slugs.php:168
+msgid "New Page"
+msgstr "새 페이지"
+
+#: bp-core/admin/bp-core-slugs.php:108 bp-core/admin/bp-core-slugs.php:169
+#: bp-themes/bp-default/members/single/settings/capabilities.php:61
+#: bp-xprofile/bp-xprofile-classes.php:912
+msgid "Save"
+msgstr "저장하기"
+
+#: bp-core/admin/bp-core-slugs.php:146
+msgid "Registration"
+msgstr "등록"
+
+#: bp-core/admin/bp-core-slugs.php:148
+msgid "Associate WordPress Pages with the following BuddyPress Registration pages."
+msgstr "워드프레스 페이지와 다음의 버디프레스 등록 페이지 연계."
+
+#: bp-core/admin/bp-core-update.php:59 bp-core/admin/bp-core-update.php:209
+msgid "Permalinks"
+msgstr "고유주소"
+
+#: bp-core/admin/bp-core-update.php:60 bp-core/admin/bp-core-update.php:213
+msgid "Theme"
+msgstr "테마"
+
+#: bp-core/admin/bp-core-update.php:61 bp-core/admin/bp-core-update.php:80
+#: bp-core/admin/bp-core-update.php:178 bp-core/admin/bp-core-update.php:221
+#: bp-themes/bp-default/groups/create.php:289
+msgid "Finish"
+msgstr "끝내기"
+
+#: bp-core/admin/bp-core-update.php:75 bp-core/admin/bp-core-update.php:217
+#: bp-core/bp-core-admin.php:286 bp-core/bp-core-admin.php:291
+msgid "Toolbar"
+msgstr "툴바"
+
+#: bp-core/admin/bp-core-update.php:78 bp-core/admin/bp-core-update.php:197
+msgid "Database Update"
+msgstr "데이터베이스 업데이트"
+
+#: bp-core/admin/bp-core-update.php:135
+msgid "Setup"
+msgstr "설정"
+
+#: bp-core/admin/bp-core-update.php:143
+msgid "BuddyPress %s"
+msgstr "버디프레스 %s"
+
+#: bp-core/admin/bp-core-update.php:181
+msgid "Finish &amp; Activate"
+msgstr "끝내기 &amp; 활성화"
+
+#: bp-core/admin/bp-core-update.php:187
+msgid "Save &amp; Next"
+msgstr "저장 &amp; 다음"
+
+#: bp-core/admin/bp-core-update.php:238
+msgid "To complete the update, a few changes need to be made to your database. These changes are not destructive and will not remove or change any existing settings."
+msgstr "업데이트를 완료하려면, 데이터베이스에 몇가지 변경이 필요합니다. 이 변경은 복구 가능하며 기존의 설정을 제거하거나 변경하지 않습니다."
+
+#: bp-core/admin/bp-core-update.php:256
+msgid "BuddyPress bundles several individual social components together, each one adding a distinct feature. This first step decides which features are enabled on your site; all features are enabled by default. Don't worry, you can change your mind at any point in the future."
+msgstr "버디프레스는 여러개의 개별적인 소셜 구성요소를 포함하고 있습니다. 각각의 구성요소는 서로 다른 기능이 있습니다. 이 첫번째 단계는 사이트에서 어떤 기능을 활성화할 것인지 결정합니다. 모든 기능이 기본적으로 활성화됩니다. 나중에 언제라도 변경할 수 있습니다."
+
+#: bp-core/admin/bp-core-update.php:298
+msgid "members"
+msgstr "회원"
+
+#: bp-core/admin/bp-core-update.php:301
+msgid "groups"
+msgstr "그룹"
+
+#: bp-core/admin/bp-core-update.php:304
+msgid "activity"
+msgstr "활동"
+
+#: bp-core/admin/bp-core-update.php:307
+msgid "forums"
+msgstr "포럼"
+
+#: bp-core/admin/bp-core-update.php:310
+msgid "blogs"
+msgstr "블로그"
+
+#: bp-core/admin/bp-core-update.php:313
+msgid "register"
+msgstr "등록하기"
+
+#: bp-core/admin/bp-core-update.php:316
+msgid "activate"
+msgstr "활성화"
+
+#: bp-core/admin/bp-core-update.php:328
+msgid "BuddyPress uses WordPress pages to display directories. This allows you to easily change their titles and relocate them."
+msgstr "버디프레스는 디렉토리를 표시하기 위해 워드프레스 페이지를 사용합니다. 이것은 해당 제목 변경과 위치 변경을 쉽게 할 수 있도록 합니다."
+
+#: bp-core/admin/bp-core-update.php:330
+msgid "Choose an existing page, have one auto-created, or create them manually and come back here once you are finished."
+msgstr "기존 페이지를 선택하고 하나를 자동 생성 하거나, 수동으로 생성한 다음, 완료 후에 이곳으로 다시 오세요."
+
+#: bp-core/admin/bp-core-update.php:336 bp-core/bp-core-template.php:257
+#: bp-core/bp-core-widgets.php:19 bp-core/bp-core-widgets.php:111
+#: bp-groups/bp-groups-template.php:1284 bp-members/bp-members-loader.php:24
+#: bp-themes/bp-default/groups/single/admin.php:231
+msgid "Members"
+msgstr "회원"
+
+#: bp-core/admin/bp-core-update.php:337
+msgid "Displays member profiles, and a directory of all site members."
+msgstr "회원 프로필, 모든 사이트 회원 디렉토리 보이기."
+
+#: bp-core/admin/bp-core-update.php:340 bp-core/admin/bp-core-update.php:358
+#: bp-core/admin/bp-core-update.php:377 bp-core/admin/bp-core-update.php:395
+#: bp-core/admin/bp-core-update.php:413 bp-core/admin/bp-core-update.php:429
+#: bp-core/admin/bp-core-update.php:443
+msgid "Automatically create a page at:"
+msgstr "자동으로 페이지 생성하기:"
+
+#: bp-core/admin/bp-core-update.php:342 bp-core/admin/bp-core-update.php:360
+#: bp-core/admin/bp-core-update.php:379 bp-core/admin/bp-core-update.php:397
+#: bp-core/admin/bp-core-update.php:415 bp-core/admin/bp-core-update.php:431
+#: bp-core/admin/bp-core-update.php:445
+msgid "- Select -"
+msgstr "- 선택 -"
+
+#: bp-core/admin/bp-core-update.php:344 bp-core/admin/bp-core-update.php:361
+#: bp-core/admin/bp-core-update.php:380 bp-core/admin/bp-core-update.php:398
+#: bp-core/admin/bp-core-update.php:416 bp-core/admin/bp-core-update.php:432
+#: bp-core/admin/bp-core-update.php:446
+msgid "Use an existing page:"
+msgstr "기존 페이지 사용하기:"
+
+#: bp-core/admin/bp-core-update.php:355
+msgid "Displays individual groups as well as a directory of groups."
+msgstr "개별 그룹, 그룹 디렉토리 보이기."
+
+#: bp-core/admin/bp-core-update.php:373 bp-core/bp-core-template.php:263
+msgid "Blogs"
+msgstr "블로그"
+
+#: bp-core/admin/bp-core-update.php:374
+msgid "Displays a directory of the blogs in your network."
+msgstr "네트워크에서 블로그 디렉토리 보이기."
+
+#: bp-core/admin/bp-core-update.php:392
+msgid "Displays the activity for the entire site, a member's friends, groups and @mentions."
+msgstr "전체 사이트 활동, 회원의 친구, 그룹, @멘션 보이기."
+
+#: bp-core/admin/bp-core-update.php:410
+msgid "Displays a directory of public forum topics."
+msgstr "공개 포럼 토픽 디렉토리 보이기."
+
+#: bp-core/admin/bp-core-update.php:426
+msgid "Displays a site registration page where users can create new accounts."
+msgstr "사용자가 새 계정을 생성할 수 있는 사이트 등록 페이지 보이기"
+
+#: bp-core/admin/bp-core-update.php:440
+msgid "The page users will visit to activate their account once they have registered."
+msgstr "사용자가 등록 후에 자신의 계정을 활성화하도록 방문하는 페이지."
+
+#: bp-core/admin/bp-core-update.php:473
+msgid "Your permalink settings are compatible with BuddyPress."
+msgstr "고유주소 설정이 버디프레스와 호환됩니다."
+
+#: bp-core/admin/bp-core-update.php:475
+msgid "Pretty permalinks must be active on your site."
+msgstr "Pretty 고유주소가 사이트에서 활성화 돼있어야 합니다."
+
+#: bp-core/admin/bp-core-update.php:481
+msgid "For more advanced options please visit the <a href=\"%s\">permalink settings page</a> now and come back here later."
+msgstr "고급 옵션은 <a href=\"%s\">고유주소 설정 페이지</a>를 지금 방문하고 나중에 이곳으로 다시 오세요."
+
+#: bp-core/admin/bp-core-update.php:485
+msgid "Day and name"
+msgstr "날짜와 이름"
+
+#: bp-core/admin/bp-core-update.php:489
+msgid "Month and name"
+msgstr "월과 이름"
+
+#: bp-core/admin/bp-core-update.php:493
+msgid "Numeric"
+msgstr "숫자"
+
+#: bp-core/admin/bp-core-update.php:559
+msgid "Use BuddyPress Default"
+msgstr "버디프레스 기본 사용하기"
+
+#: bp-core/admin/bp-core-update.php:560
+msgid "BuddyPress Default"
+msgstr "버디프레스 기본"
+
+#: bp-core/admin/bp-core-update.php:563
+msgid "The default BuddyPress theme comes with the basics, to get up and running out of the box. It supports all features and is highly customizable."
+msgstr "버디프레스 기본 테마는 기본적으로 포함돼 있으며, 바로 사용할 수 있습니다. 모든 기능을 지원하고 사용자 정의도 가능합니다."
+
+#: bp-core/admin/bp-core-update.php:564
+msgid "This is the best choice if you want to start using BuddyPress immediately."
+msgstr "버디프레스를 바로 사용하려면 이것이 최선의 선택입니다."
+
+#: bp-core/admin/bp-core-update.php:565
+msgid "Yes, please!"
+msgstr "네, 그렇게 해주세요!"
+
+#: bp-core/admin/bp-core-update.php:573
+msgid "Other themes"
+msgstr "다른 테마"
+
+#: bp-core/admin/bp-core-update.php:574
+msgid "A BuddyPress theme"
+msgstr "버디프레스 테마"
+
+#: bp-core/admin/bp-core-update.php:577
+msgid "You have some other BuddyPress compatible themes available. Pick one of them from this list to use it."
+msgstr "몇개의 다른 버디프레스 호환 테마가 가능합니다. 사용하려면 이 목록에서 하나를 선택하세요."
+
+#: bp-core/admin/bp-core-update.php:580
+msgid "Use this theme"
+msgstr "이 테마 사용하기"
+
+#: bp-core/admin/bp-core-update.php:601
+msgid "Manually update current theme"
+msgstr "현재 테마 수동으로 업데이트"
+
+#: bp-core/admin/bp-core-update.php:605
+msgid "Your existing theme"
+msgstr "당신의 기존의 테마"
+
+#: bp-core/admin/bp-core-update.php:611
+msgid "The BuddyPress Template Pack will guide you through the process of manually editing your existing theme. It comes with a step-by-step guide and involves copying the BuddyPress template files into your theme. <strong>This option requires knowledge of CSS and HTML.</strong> You will need to tweak the new templates to match your existing theme."
+msgstr "버디프레스 템플릿 팩은 기존의 테마를 수동으로 편집하는 과정을 안내할 것입니다. 단계별로 진행하며 버디프레스 템플릿 파일을 사용중인 테마에 복사하는 것을 포함합니다. <strong>이 옵션은 CSS와 HTML 지식이 필요합니다.</strong> 사용중인 테마에 어울리도록 새 템플릿을 조작해야합니다."
+
+#: bp-core/admin/bp-core-update.php:615
+msgid "Install BuddyPress Template Pack"
+msgstr "버디프레스 템플릿 팩 설치하기"
+
+#: bp-core/admin/bp-core-update.php:619
+msgid "Choose this option (go to Appearance &rarr; BP Compatibility after setup is complete)"
+msgstr "이 옵션 선택(설정 완료후에 외모 &rarr; BP 호환으로 가세요)"
+
+#: bp-core/admin/bp-core-update.php:620
+msgid "Plugin Installed"
+msgstr "플러그인 설치됨"
+
+#: bp-core/admin/bp-core-update.php:631
+msgid "Do not change theme"
+msgstr "테마를 변경하지 마세요"
+
+#: bp-core/admin/bp-core-update.php:634
+msgid "You are happy with your current theme and plan on changing it later."
+msgstr "현재의 테마에 만족하며 나중에 변경할 계획임."
+
+#: bp-core/admin/bp-core-update.php:635
+msgid "This is the best choice if you have a custom theme already and want to manually integrate BuddyPress later."
+msgstr "이미 사용자 정의한 테마가 있고 나중에 버디프레스와 수동으로 연계하기를 원하면 이것이 최선의 선택입니다."
+
+#: bp-core/admin/bp-core-update.php:637
+msgid "Don't change my current theme"
+msgstr "내 현재 테마를 변경하지 마세요"
+
+#: bp-core/admin/bp-core-update.php:662
+msgid "BuddyPress now uses the WordPress Toolbar; we've turbo-charged it by adding social items to help your users explore your site and manage their content."
+msgstr "버디프레스는 이제 워드프레스 툴바를 사용합니다; 사용자가 사이트를 둘러보거나 자신의 컨텐트를 관리하는데 도움이 되는 소셜 아이템을 추가해서 터보 충전 했습니다."
+
+#: bp-core/admin/bp-core-update.php:664
+msgid "We've noticed that your site uses the old bar from earlier versions of BuddyPress."
+msgstr "사이트가 버디프레스의 이전 버전에서 사용한 구형 바를 사용하는 것을 감지했습니다."
+
+#: bp-core/admin/bp-core-update.php:669
+msgid "If you'd prefer to not switch to the WordPress Toolbar just yet, check this box. Don't worry, you can change your mind later."
+msgstr "아직 워드프레스 툴바로 변경하기를 원하지 않으면 이 박스에 체크하세요. 나중에 마음이 바뀌면 변경할 수 있습니다."
+
+#: bp-core/admin/bp-core-update.php:687
+msgid "setup"
+msgstr "설정"
+
+#: bp-core/admin/bp-core-update.php:687
+msgid "update"
+msgstr "업데이트"
+
+#: bp-core/admin/bp-core-update.php:689
+msgid "The BuddyPress %1$s is complete, and your site is ready to go!"
+msgstr "버디프레스 %1$s가 완료됐으며 사이트를 시작할 준비가 됐습니다!"
+
+#: bp-core/admin/bp-core-update.php:826
+msgid "Oops, there was a problem creating a configuration file. "
+msgstr "이런, 환경 설정 파일을 생성하는데 문제가 발생했습니다."
+
+#: bp-core/admin/bp-core-update.php:832
+msgid "If your <code>web.config</code> file were <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">writable</a>, we could do this automatically, but it isn&#8217;t so this is the url rewrite rule you should have in your <code>web.config</code> file. Click in the field and press <kbd>CTRL + a</kbd> to select all. Then insert this rule inside of the <code>/&lt;configuration&gt;/&lt;system.webServer&gt;/&lt;rewrite&gt;/&lt;rules&gt;</code> element in <code>web.config</code> file."
+msgstr "<code>web.config</code>이 <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">쓰기 가능</a>하다면, 이것을 자동으로 할 수 있습니다. 하지만 그렇지 않으며 이것은 url rewrite 규칙으로 <code>web.config</code>파일에 있어야합니다. 필드를 클릭하고 전체를 선택하기 위해 <kbd>CTRL + a</kbd>를 누르세요. 그런다음 이 규칙을 <code>web.config</code>파일 안에 있는 <code>/&lt;configuration&gt;/&lt;system.webServer&gt;/&lt;rewrite&gt;/&lt;rules&gt;</code> 요소 안에 삽입하세요"
+
+#: bp-core/admin/bp-core-update.php:841
+msgid "Permalink structure updated. Remove write access on web.config file now!"
+msgstr "고유주소 구조가 업데이트됐습니다. 이제 web.config 파일에 쓰기 접근을 제거하세요!"
+
+#: bp-core/admin/bp-core-update.php:846
+msgid "If your <code>.htaccess</code> file were <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">writable</a>, we could do this automatically, but it isn&#8217;t so these are the mod_rewrite rules you should have in your <code>.htaccess</code> file. Click in the field and press <kbd>CTRL + a</kbd> to select all."
+msgstr "<code>.htaccess</code>파일이 <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">쓰기 가능</a>하다면, 이것을 자동으로 할 수 있습니다. 하지만 그렇지 않으며 이것은 <code>.htaccess</code>파일에 있어야할 mod_rewrite 규칙입니다. 입력란에 클릭하고 모두를 선택하기 위해 <kbd>CTRL + a</kbd>키를 누르세요."
+
+#: bp-core/admin/bp-core-update.php:858
+msgid "Paste all these rules into a new <code>.htaccess</code> file in the root of your WordPress installation and save the file. Once you're done, please hit the \"Save and Next\" button to continue."
+msgstr "모든 규칙을 워드프레스 설치 루트에 있는 <code>.htaccess</code>파일에 붙여넣고 저장하세요. 그런 다음 계속 진행하기 위해 \"저장 & 다음\" 버튼을 클릭하세요."
+
+#: bp-core/bp-core-admin.php:192
+msgid "BuddyPress Setup"
+msgstr "버디프레스 설정"
+
+#: bp-core/bp-core-admin.php:194
+msgid "Update BuddyPress"
+msgstr "버디프레스 업데이트"
+
+#: bp-core/bp-core-admin.php:216 bp-core/bp-core-admin.php:217
+#: bp-core/bp-core-admin.php:237 bp-members/bp-members-functions.php:1310
+msgid "BuddyPress"
+msgstr "버디프레스"
+
+#: bp-core/bp-core-admin.php:226
+msgid "BuddyPress Help"
+msgstr "버디프레스 도움말"
+
+#: bp-core/bp-core-admin.php:227
+msgid "Help"
+msgstr "도움말"
+
+#: bp-core/bp-core-admin.php:236
+msgid "BuddyPress Components"
+msgstr "버디프레스 구성요소"
+
+#: bp-core/bp-core-admin.php:245 bp-core/bp-core-admin.php:246
+msgid "BuddyPress Pages"
+msgstr "버디프레스 페이지"
+
+#: bp-core/bp-core-admin.php:254 bp-core/bp-core-admin.php:255
+msgid "BuddyPress Settings"
+msgstr "버디프레스 설정"
+
+#: bp-core/bp-core-admin.php:283
+msgid "Main Settings"
+msgstr "메인 설정"
+
+#: bp-core/bp-core-admin.php:296
+msgid "Account Deletion"
+msgstr "계정 삭제"
+
+#: bp-core/bp-core-admin.php:304
+msgid "Profile Settings"
+msgstr "프로필 설정"
+
+#: bp-core/bp-core-admin.php:307
+msgid "Avatar Uploads"
+msgstr "아바타 업로드"
+
+#: bp-core/bp-core-admin.php:311
+msgid "Profile Syncing"
+msgstr "프로필 싱크"
+
+#: bp-core/bp-core-admin.php:320
+msgid "Groups Settings"
+msgstr "그룹 설정"
+
+#: bp-core/bp-core-admin.php:323
+msgid "Group Creation"
+msgstr "그룹 생성"
+
+#: bp-core/bp-core-admin.php:332
+msgid "Forums Settings"
+msgstr "포럼 설정"
+
+#: bp-core/bp-core-admin.php:335
+msgid "bbPress Configuration"
+msgstr "비비프레스 환경설정"
+
+#: bp-core/bp-core-admin.php:344
+msgid "Activity Settings"
+msgstr "활동 설정"
+
+#: bp-core/bp-core-admin.php:347
+msgid "Blog &amp; Forum Comments"
+msgstr "블로그와 포럼 구성요소"
+
+#: bp-core/bp-core-admin.php:352
+msgid "Akismet"
+msgstr "아키스밋"
+
+#: bp-core/bp-core-admin.php:482
+msgid "BuddyPress has been updated! Please run the <a href=\"%s\">update wizard</a>."
+msgstr "버디프레스가 업데이트 됐습니다! <a href=\"%s\">업데이트 마법사</a>를 실행하세요."
+
+#: bp-core/bp-core-admin.php:487
+msgid "BuddyPress was successfully activated! Please run the <a href=\"%s\">installation wizard</a>."
+msgstr "버디프레스가 성공적으로 활성화됐습니다! <a href=\"%s\">설치 마법사</a>를 시작하세요."
+
+#: bp-core/bp-core-adminbar.php:36 bp-core/bp-core-buddybar.php:495
+msgid "My Account"
+msgstr "내 계정"
+
+#: bp-core/bp-core-avatars.php:221
+msgid "Avatar Image"
+msgstr "아바타 이미지"
+
+#: bp-core/bp-core-avatars.php:482
+msgid "There is no error, the file uploaded with success"
+msgstr "에러가 없습니다. 파일이 성공적으로 업로드 됐습니다."
+
+#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+msgid "Your image was bigger than the maximum allowed file size of: "
+msgstr "당신의 이미지는 허용된 최대 크기보다 큽니다:"
+
+#: bp-core/bp-core-avatars.php:485
+msgid "The uploaded file was only partially uploaded"
+msgstr "업로드된 파일은 일부만 업로드 됐습니다"
+
+#: bp-core/bp-core-avatars.php:486
+msgid "No file was uploaded"
+msgstr "파일이 업로드되지 않았습니다"
+
+#: bp-core/bp-core-avatars.php:487
+msgid "Missing a temporary folder"
+msgstr "임시 폴더가 없습니다"
+
+#: bp-core/bp-core-avatars.php:491
+msgid "Your upload failed, please try again. Error was: %s"
+msgstr "업로드가 실패했습니다. 다시 해주세요. 에러:%s"
+
+#: bp-core/bp-core-avatars.php:496
+msgid "The file you uploaded is too big. Please upload a file under %s"
+msgstr "업로드한 파일이 너무 큽니다. %s 이하의 파일을 업로드 해주세요"
+
+#: bp-core/bp-core-avatars.php:501
+msgid "Please upload only JPG, GIF or PNG photos."
+msgstr "JPG, GIF 또는 PNG 사진만 업로드 해주세요."
+
+#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+msgid "Upload Failed! Error was: %s"
+msgstr "업로드가 실패했습니다! 에러: %s"
+
+#: bp-core/bp-core-avatars.php:543
+msgid "Upload failed! Error was: %s"
+msgstr "업로드가 실패했습니다! 에러: %s"
+
+#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
+#: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
+msgid "Avatar of %s"
+msgstr "%s의 아바타"
+
+#: bp-core/bp-core-buddybar.php:303
+msgid "You do not have access to this page."
+msgstr "이 페이지에 접근할 권한이 없습니다."
+
+#: bp-core/bp-core-buddybar.php:479 bp-themes/bp-default/sidebar.php:53
+msgid "Log In"
+msgstr "로그인"
+
+#: bp-core/bp-core-buddybar.php:483
+msgid "Sign Up"
+msgstr "회원가입"
+
+#: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
+#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+msgid "Log Out"
+msgstr "로그아웃"
+
+#: bp-core/bp-core-buddybar.php:566
+msgid "Visit"
+msgstr "방문하기"
+
+#: bp-core/bp-core-buddybar.php:568
+msgid "Random Member"
+msgstr "랜덤 회원"
+
+#: bp-core/bp-core-buddybar.php:572
+msgid "Random Group"
+msgstr "랜덤 그룹"
+
+#: bp-core/bp-core-buddybar.php:578
+msgid "Random Site"
+msgstr "랜덤 사이트"
+
+#: bp-core/bp-core-catchuri.php:278
+msgid "This user has been marked as a spammer. Only site admins can view this profile."
+msgstr "이 사용자는 스패머로 처리됐습니다. 사이트 관리자만 이 프로필을 볼 수 있습니다."
+
+#: bp-core/bp-core-catchuri.php:452 bp-core/bp-core-catchuri.php:511
+msgid "You must log in to access the page you requested."
+msgstr "요청한 페이지에 접근하려면 로그인 해야합니다."
+
+#: bp-core/bp-core-classes.php:191
+msgid "%d group"
+msgid_plural "%d groups"
+msgstr[0] "%d 그룹"
+
+#: bp-core/bp-core-filters.php:178 bp-core/bp-core-filters.php:203
+msgid "[User Set]"
+msgstr "[사용자 설정]"
+
+#: bp-core/bp-core-filters.php:222
+msgid ""
+"Thanks for registering! To complete the activation of your account and blog, please click the following link:\n"
+"\n"
+"%1$s\n"
+"\n"
+"\n"
+"\n"
+"After you activate, you can visit your blog here:\n"
+"\n"
+"%2$s"
+msgstr ""
+"등록해 주셔서 감사합니다! 계정과 블로그 활성화를 완료하려면 다음 링크를 클릭하세요:\n"
+"\n"
+"%1$s\n"
+"\n"
+"\n"
+"\n"
+"활성화한 다음에 다음의 블로그를 방문할 수 있습니다:\n"
+"\n"
+"%2$s"
+
+#: bp-core/bp-core-filters.php:223
+msgid "Activate %s"
+msgstr "활성화 %s"
+
+#: bp-core/bp-core-filters.php:255 bp-members/bp-members-functions.php:1312
+msgid ""
+"Thanks for registering! To complete the activation of your account please click the following link:\n"
+"\n"
+"%1$s\n"
+"\n"
+msgstr ""
+"등록해 주셔서 감사합니다! 계정 활성화를 완료하려면 다음 링크를 클릭하세요:\n"
+"\n"
+"%1$s\n"
+"\n"
+
+#: bp-core/bp-core-filters.php:256 bp-members/bp-members-functions.php:1313
+msgid "Activate Your Account"
+msgstr "계정을 활성화하세요"
+
+#: bp-core/bp-core-filters.php:313 bp-core/bp-core-filters.php:319
+msgid "%1$s | %2$s"
+msgstr "%1$s | %2$s"
+
+#: bp-core/bp-core-filters.php:324
+msgid "%1$s | %2$s | %3$s"
+msgstr "%1$s | %2$s | %3$s"
+
+#: bp-core/bp-core-filters.php:329 bp-core/bp-core-filters.php:331
+msgid "%s Directory"
+msgstr "%s 디렉토리"
+
+#: bp-core/bp-core-filters.php:336
+#: bp-themes/bp-default/registration/register.php:23
+msgid "Create an Account"
+msgstr "계정 생성하기"
+
+#: bp-core/bp-core-filters.php:340
+#: bp-themes/bp-default/registration/activate.php:24
+msgid "Activate your Account"
+msgstr "계정을 활성화하세요"
+
+#: bp-core/bp-core-filters.php:344 bp-themes/bp-default/groups/create.php:18
+#: bp-themes/bp-default/groups/index.php:21
+msgid "Create a Group"
+msgstr "그룹 생성하기"
+
+#: bp-core/bp-core-functions.php:384
+msgid "sometime"
+msgstr "언젠가"
+
+#: bp-core/bp-core-functions.php:385
+msgid "right now"
+msgstr "지금 바로"
+
+#: bp-core/bp-core-functions.php:386
+msgid "%s ago"
+msgstr "%s 전에"
+
+#: bp-core/bp-core-functions.php:390
+msgid "year"
+msgstr "년"
+
+#: bp-core/bp-core-functions.php:390
+msgid "years"
+msgstr "년"
+
+#: bp-core/bp-core-functions.php:391
+msgid "month"
+msgstr "월"
+
+#: bp-core/bp-core-functions.php:391
+msgid "months"
+msgstr "월"
+
+#: bp-core/bp-core-functions.php:392
+msgid "week"
+msgstr "주"
+
+#: bp-core/bp-core-functions.php:392
+msgid "weeks"
+msgstr "주"
+
+#: bp-core/bp-core-functions.php:393
+msgid "day"
+msgstr "일"
+
+#: bp-core/bp-core-functions.php:393
+msgid "days"
+msgstr "일"
+
+#: bp-core/bp-core-functions.php:394
+msgid "hour"
+msgstr "시간"
+
+#: bp-core/bp-core-functions.php:394
+msgid "hours"
+msgstr "시간"
+
+#: bp-core/bp-core-functions.php:395
+msgid "minute"
+msgstr "분"
+
+#: bp-core/bp-core-functions.php:395
+msgid "minutes"
+msgstr "분"
+
+#: bp-core/bp-core-functions.php:396
+msgid "second"
+msgstr "초"
+
+#: bp-core/bp-core-functions.php:396
+msgid "seconds"
+msgstr "초"
+
+#: bp-core/bp-core-functions.php:455
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: bp-core/bp-core-functions.php:523
+msgid "Not recently active"
+msgstr "최근에 활성상태 아님"
+
+#: bp-core/bp-core-loader.php:211 bp-members/bp-members-loader.php:157
+#: bp-xprofile/bp-xprofile-loader.php:150
+#: bp-xprofile/bp-xprofile-loader.php:214
+msgid "Profile"
+msgstr "프로필"
+
+#: bp-core/bp-core-loader.php:222 bp-groups/bp-groups-template.php:522
+#: bp-members/bp-members-loader.php:171 bp-xprofile/bp-xprofile-loader.php:162
+msgid "Public"
+msgstr "공개"
+
+#: bp-core/bp-core-template.php:65
+msgid "Options"
+msgstr "옵션"
+
+#: bp-core/bp-core-template.php:202
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: bp-core/bp-core-template.php:268 bp-themes/bp-default/activity/index.php:99
+#: bp-themes/bp-default/forums/forums-loop.php:40
+#: bp-themes/bp-default/members/single/activity.php:27
+msgid "Posts"
+msgstr "글"
+
+#: bp-core/bp-core-template.php:271
+msgid "Search these:"
+msgstr "이것을 검색:"
+
+#: bp-core/bp-core-template.php:299
+msgid "Search anything..."
+msgstr "아무거나 검색..."
+
+#: bp-core/bp-core-template.php:393
+msgid " [&hellip;]"
+msgstr " [&hellip;]"
+
+#: bp-core/bp-core-widgets.php:18
+msgid "A dynamic list of recently active, popular, and newest members"
+msgstr "최근 활성, 인기있는, 최신 회원의 동적 목록"
+
+#: bp-core/bp-core-widgets.php:47 bp-core/bp-core-widgets.php:133
+#: bp-core/deprecated/1.6.php:111 bp-core/deprecated/1.6.php:134
+#: bp-groups/bp-groups-widgets.php:60 bp-groups/bp-groups-widgets.php:141
+#: bp-themes/bp-default/blogs/index.php:56
+#: bp-themes/bp-default/members/single/blogs.php:22
+msgid "Newest"
+msgstr "최신"
+
+#: bp-core/bp-core-widgets.php:48 bp-core/bp-core-widgets.php:134
+#: bp-groups/bp-groups-widgets.php:61 bp-groups/bp-groups-widgets.php:142
+msgid "Active"
+msgstr "활성"
+
+#: bp-core/bp-core-widgets.php:52 bp-core/bp-core-widgets.php:135
+#: bp-groups/bp-groups-widgets.php:62 bp-groups/bp-groups-widgets.php:143
+msgid "Popular"
+msgstr "인기있는"
+
+#: bp-core/bp-core-widgets.php:89
+msgid "No one has signed up yet!"
+msgstr "아무도 회원가입하지 않았습니다!"
+
+#: bp-core/bp-core-widgets.php:124 bp-core/bp-core-widgets.php:201
+#: bp-core/bp-core-widgets.php:265 bp-groups/bp-groups-widgets.php:132
+#: bp-themes/bp-default/forums/index.php:104
+#: bp-themes/bp-default/groups/single/forum/edit.php:47
+#: bp-themes/bp-default/groups/single/forum.php:75
+msgid "Title:"
+msgstr "제목:"
+
+#: bp-core/bp-core-widgets.php:126
+msgid "Link widget title to Members directory"
+msgstr "회원 디렉토리의 링크 위젯 제목"
+
+#: bp-core/bp-core-widgets.php:128
+msgid "Max members to show:"
+msgstr "보여줄 최대 회원:"
+
+#: bp-core/bp-core-widgets.php:131
+msgid "Default members to show:"
+msgstr "보여줄 기본 회원:"
+
+#: bp-core/bp-core-widgets.php:149
+msgid "Avatars of users who are currently online"
+msgstr "현재 온라인에 있는 사용자 아바타"
+
+#: bp-core/bp-core-widgets.php:150
+msgid "Who's Online Avatars"
+msgstr "온라인에 있는 아바타"
+
+#: bp-core/bp-core-widgets.php:173
+msgid "There are no users currently online"
+msgstr "현재 온라인에 사용자가 없습니다"
+
+#: bp-core/bp-core-widgets.php:192
+msgid "Who's Online"
+msgstr "온라인에 있는 사람"
+
+#: bp-core/bp-core-widgets.php:203 bp-core/bp-core-widgets.php:267
+msgid "Max Members to show:"
+msgstr "보여줄 최대 회원:"
+
+#: bp-core/bp-core-widgets.php:213
+msgid "Avatars of recently active members"
+msgstr "최근 활동 중인 회원 아바타"
+
+#: bp-core/bp-core-widgets.php:214
+msgid "Recently Active Member Avatars"
+msgstr "최근 활동 중인 회원 아바타"
+
+#: bp-core/bp-core-widgets.php:237
+msgid "There are no recently active members"
+msgstr "최근 활동 중인 회원이 없습니다"
+
+#: bp-core/bp-core-widgets.php:322
+msgid "There were no members found, please try another filter."
+msgstr "회원을 찾을 수 없습니다. 다른 필터를 해보세요."
+
+#: bp-core/deprecated/1.5.php:135
+#: bp-themes/bp-default/activity/post-form.php:45
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:8
+#: bp-xprofile/bp-xprofile-loader.php:257
+msgid "My Profile"
+msgstr "내 프로필"
+
+#: bp-core/deprecated/1.5.php:142 bp-themes/bp-default/functions.php:641
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr "이름"
+
+#: bp-core/deprecated/1.5.php:151
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "나에 관하여"
+
+#: bp-core/deprecated/1.5.php:160 bp-themes/bp-default/functions.php:645
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "웹사이트"
+
+#: bp-core/deprecated/1.5.php:169
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: bp-core/deprecated/1.5.php:178
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: bp-core/deprecated/1.5.php:187
+#: bp-themes/bp-default/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: bp-core/deprecated/1.5.php:335
+msgid "%1$s mentioned you in the group \"%2$s\""
+msgstr "%1$s가 그룹 \"%2$s\"에서 멘션 했습니다"
+
+#: bp-core/deprecated/1.6.php:110 bp-core/deprecated/1.6.php:131
+#: bp-groups/bp-groups-template.php:2307 bp-groups/bp-groups-template.php:2329
+msgid "Recently Active"
+msgstr "최근 활성"
+
+#: bp-core/deprecated/1.6.php:112 bp-core/deprecated/1.6.php:137
+#: bp-groups/bp-groups-template.php:2312 bp-groups/bp-groups-template.php:2344
+msgid "Alphabetically"
+msgstr "알파벳 순으로"
+
+#: bp-forums/bp-forums-admin.php:36 bp-forums/bp-forums-admin.php:128
+msgid "Configure Site Wide Forums"
+msgstr "전체 사이트 포럼 환경설정"
+
+#: bp-forums/bp-forums-admin.php:39 bp-forums/bp-forums-admin.php:131
+#: bp-forums/deprecated/1.6.php:76 bp-forums/deprecated/1.6.php:194
+msgid "Install Site Wide Forums"
+msgstr "전체 사이트 포럼 설치"
+
+#: bp-forums/bp-forums-admin.php:52 bp-forums/deprecated/1.6.php:29
+msgid "Settings Saved."
+msgstr "설정이 저장됐습니다."
+
+#: bp-forums/bp-forums-admin.php:68
+msgid "(Installed)"
+msgstr "(설치됨)"
+
+#: bp-forums/bp-forums-admin.php:68 bp-forums/bp-forums-admin.php:205
+#: bp-forums/deprecated/1.6.php:45 bp-forums/deprecated/1.6.php:162
+msgid "Forums for Groups"
+msgstr "그룹 포럼"
+
+#: bp-forums/bp-forums-admin.php:70 bp-forums/bp-forums-admin.php:207
+#: bp-forums/deprecated/1.6.php:47 bp-forums/deprecated/1.6.php:164
+msgid "Give each individual group its own discussion forum. Choose this if you'd like to keep your members' conversations separated into distinct areas."
+msgstr "각 개별 그룹에 고유의 토론 포럼을 추가하세요. 사용자의 대화를 구별된 영역으로 분리하려면 이것을 선택하세요."
+
+#: bp-forums/bp-forums-admin.php:71 bp-forums/bp-forums-admin.php:208
+#: bp-forums/deprecated/1.6.php:48 bp-forums/deprecated/1.6.php:165
+msgid "You may use an existing bbPress installation if you have one."
+msgstr "비비프레스가 이미 설치돼 있으면 사용할 수 있습니다."
+
+#: bp-forums/bp-forums-admin.php:73 bp-forums/bp-forums-admin.php:91
+#: bp-forums/bp-forums-admin.php:210 bp-forums/bp-forums-admin.php:229
+#: bp-forums/deprecated/1.6.php:50 bp-forums/deprecated/1.6.php:68
+#: bp-forums/deprecated/1.6.php:167 bp-forums/deprecated/1.6.php:186
+msgid "Features"
+msgstr "특징"
+
+#: bp-forums/bp-forums-admin.php:75 bp-forums/bp-forums-admin.php:212
+#: bp-forums/deprecated/1.6.php:52 bp-forums/deprecated/1.6.php:169
+msgid "Group Integration"
+msgstr "그룹 연계"
+
+#: bp-forums/bp-forums-admin.php:76 bp-forums/bp-forums-admin.php:213
+#: bp-forums/deprecated/1.6.php:53 bp-forums/deprecated/1.6.php:170
+msgid "Member Profile Integration"
+msgstr "회원 프로필 연계"
+
+#: bp-forums/bp-forums-admin.php:77 bp-forums/bp-forums-admin.php:95
+#: bp-forums/bp-forums-admin.php:214 bp-forums/bp-forums-admin.php:233
+#: bp-forums/deprecated/1.6.php:54 bp-forums/deprecated/1.6.php:72
+#: bp-forums/deprecated/1.6.php:171 bp-forums/deprecated/1.6.php:190
+msgid "Activity Stream Integration"
+msgstr "활동 흐름 연계"
+
+#: bp-forums/bp-forums-admin.php:78 bp-forums/bp-forums-admin.php:96
+#: bp-forums/bp-forums-admin.php:215 bp-forums/bp-forums-admin.php:234
+#: bp-forums/deprecated/1.6.php:55 bp-forums/deprecated/1.6.php:73
+#: bp-forums/deprecated/1.6.php:172 bp-forums/deprecated/1.6.php:191
+msgid "@ Mention Integration"
+msgstr "@ 회원 연계"
+
+#: bp-forums/bp-forums-admin.php:82
+msgid "Uninstall Group Forums"
+msgstr "그룹 포럼 설치 제거"
+
+#: bp-forums/bp-forums-admin.php:87 bp-forums/bp-forums-admin.php:225
+#: bp-forums/deprecated/1.6.php:64 bp-forums/deprecated/1.6.php:182
+msgid "New! Site Wide Forums"
+msgstr "New! 전체 사이트 포럼"
+
+#: bp-forums/bp-forums-admin.php:88 bp-forums/bp-forums-admin.php:226
+#: bp-forums/deprecated/1.6.php:65 bp-forums/deprecated/1.6.php:183
+msgid "Your site will have central forums that are not isolated to any specific group. Choose this if you'd like to have a central forum area for your members."
+msgstr "사이트는 특정 그룹과 분리되지 않는 중앙 포럼이 있습니다. 회원을 위해 중앙 포럼 영역을 제공하려면 이것을 선택하세요."
+
+#: bp-forums/bp-forums-admin.php:89 bp-forums/bp-forums-admin.php:227
+#: bp-forums/deprecated/1.6.php:66 bp-forums/deprecated/1.6.php:184
+msgid "You may activate both Group and Site Wide forums, but this may create a poor experience for your members."
+msgstr "그룹과 사이트 전체 포럼을 활성화할 수 있습니다. 하지만 이것은 회원에게 좋은 경험을 제공하지 않을 수도 있습니다."
+
+#: bp-forums/bp-forums-admin.php:93 bp-forums/bp-forums-admin.php:231
+#: bp-forums/deprecated/1.6.php:70 bp-forums/deprecated/1.6.php:188
+msgid "Central Discussion Area"
+msgstr "중앙 토론 영역"
+
+#: bp-forums/bp-forums-admin.php:94 bp-forums/bp-forums-admin.php:232
+#: bp-forums/deprecated/1.6.php:71 bp-forums/deprecated/1.6.php:189
+msgid "Forum Plugins Available"
+msgstr "포럼 플러그인 사용가능"
+
+#: bp-forums/bp-forums-admin.php:106
+msgid "Need help deciding between Group Forums and Site Wide Forums? Visit <a href=\"%s\">the BuddyPress codex</a> for more information."
+msgstr "그룹 포럼과 사이트 전체 포럼을 결정하는데 도움이 필요하신가요? 상세 정보는 <a href=\"%s\">버디프레스 코덱스</a>를 방문하세요."
+
+#: bp-forums/bp-forums-admin.php:138 bp-forums/deprecated/1.6.php:95
+msgid "The bb-config.php file was not found at that location, please try again."
+msgstr "bb-config.php 파일을 해당 장소에서 찾을 수 없습니다. 다시 해보세요."
+
+#: bp-forums/bp-forums-admin.php:141 bp-forums/deprecated/1.6.php:98
+msgid "Forums were set up correctly using your existing bbPress install!"
+msgstr "기존의 bbPress 설치를 사용하여 포럼을 올바르게 설정했습니다!"
+
+#: bp-forums/bp-forums-admin.php:142 bp-forums/deprecated/1.6.php:99
+msgid "BuddyPress will now use its internal copy of bbPress to run the forums on your site. If you wish, you can remove your old bbPress installation files, as long as you keep the bb-config.php file in the same location."
+msgstr "버디스프레는 이제 사이트에서 포럼을 운영하기 위해 bbPress의 내부 파일 복사를 이용할 것입니다. 원한다면, bb-config.php 파일이 같은 장소에 있는한 이전의 bbPress 설치 파일을 제거할 수 있습니다."
+
+#: bp-forums/bp-forums-admin.php:147 bp-forums/deprecated/1.6.php:104
+msgid "Existing bbPress Installation"
+msgstr "기존 비비프레스 설치"
+
+#: bp-forums/bp-forums-admin.php:148 bp-forums/deprecated/1.6.php:105
+msgid "BuddyPress can make use of your existing bbPress install. Just provide the location of your <code>bb-config.php</code> file, and BuddyPress will do the rest."
+msgstr "버디프레스는 기존에 설치한 bbPress를 사용할 수 있습니다. <code>bb-config.php</code>파일의 위치만 제공하면 나머지는 버디프레스가 알아서 할것입니다."
+
+#: bp-forums/bp-forums-admin.php:150 bp-forums/bp-forums-admin.php:182
+#: bp-forums/deprecated/1.6.php:107 bp-forums/deprecated/1.6.php:139
+msgid "Complete Installation"
+msgstr "설치 완료"
+
+#: bp-forums/bp-forums-admin.php:166 bp-forums/deprecated/1.6.php:123
+msgid "<p>All done! Configuration settings have been saved to the file <code>bb-config.php</code> in the root of your WordPress install.</p>"
+msgstr "<p>모두 완료됐습니다! 환경 설정이 워드프레스 설치 루트의  <code>bb-config.php</code> 파일에 저장됐습니다.</p>"
+
+#: bp-forums/bp-forums-admin.php:170 bp-forums/deprecated/1.6.php:127
+msgid "<p>A configuration file could not be created. No problem, but you will need to save the text shown below into a file named <code>bb-config.php</code> in the root directory of your WordPress installation before you can start using the forum functionality.</p>"
+msgstr "<p>환경설정 파일을 생성할 수 없습니다. 문제는 없지만 포럼 기능을 사용하려면, 워드프레스 설치 루트 디렉토리에 있는 <code>bb-config.php</code>의 이름의 파일에 아래에 보이는 텍스트를 저장하세요.</p>"
+
+#: bp-forums/bp-forums-admin.php:179 bp-forums/deprecated/1.6.php:136
+msgid "New bbPress Installation"
+msgstr "새 비비프레스 설치"
+
+#: bp-forums/bp-forums-admin.php:180 bp-forums/deprecated/1.6.php:137
+msgid ""
+"You've decided to set up a new installation of bbPress for forum management in BuddyPress. This is very simple and is usually just a one click\n"
+"\t\t\t\tprocess. When you're ready, hit the link below."
+msgstr ""
+"버디프레스에서 포럼 관리를 위해 새로운 bbPress를 설정하기로 결정했습니다. 이것은 아주 간단하며 보통 한번의 클릭이면 충분합니다\n"
+"\t\t\t\t. 준비됐으면 아래의 링크를 클릭하세요."
+
+#: bp-forums/bp-forums-admin.php:192 bp-forums/deprecated/1.6.php:149
+msgid "bbPress files were not found. To install the forums component you must download a copy of bbPress and make sure it is in the folder: \"%s\""
+msgstr "bbPress 파일을 찾을 수 없습니다. 포럼 구성요소를 설치하려면 bbPress 파일을 내려받아야 하고 다음 폴더에 확실히 넣어야합니다: \"%s\""
+
+#: bp-forums/bp-forums-admin.php:219 bp-forums/deprecated/1.6.php:176
+msgid "Install Group Forums"
+msgstr "그룹 포럼 설치"
+
+#: bp-forums/bp-forums-admin.php:220 bp-forums/deprecated/1.6.php:177
+msgid "Use Existing Installation"
+msgstr "기존 설치 사용하기"
+
+#: bp-forums/bp-forums-loader.php:61
+msgid "Search Forums..."
+msgstr "포럼 검색..."
+
+#: bp-forums/bp-forums-loader.php:133 bp-forums/bp-forums-loader.php:198
+msgid "Topics Started"
+msgstr "토픽 시작됨"
+
+#: bp-forums/bp-forums-loader.php:144
+msgid "Replied To"
+msgstr "다음에 응답"
+
+#: bp-forums/bp-forums-loader.php:206
+msgid "Replies"
+msgstr "응답"
+
+#: bp-forums/bp-forums-loader.php:214
+msgid "Favorite Topics"
+msgstr "즐겨찾기 토픽"
+
+#: bp-forums/bp-forums-screens.php:13
+msgid "The forums component has not been set up yet."
+msgstr "포럼 구성요소가 이직 설정되지 않았습니다."
+
+#: bp-forums/bp-forums-screens.php:36 bp-groups/bp-groups-screens.php:360
+msgid "Please provide a title for your forum topic."
+msgstr "포럼 토픽의 제목을 제공해주세요."
+
+#: bp-forums/bp-forums-screens.php:38 bp-groups/bp-groups-screens.php:362
+msgid "Forum posts cannot be empty. Please enter some text."
+msgstr "포럼 글은 비워둘 수 없습니다. 글자를 몇개 입력하세요."
+
+#: bp-forums/bp-forums-screens.php:45 bp-groups/bp-groups-screens.php:372
+msgid "There was an error when creating the topic"
+msgstr "토픽을 생성하는데 에러가 발생했습니다"
+
+#: bp-forums/bp-forums-screens.php:48 bp-groups/bp-groups-screens.php:375
+msgid "The topic was created successfully"
+msgstr "토픽이 성공적으로 생성됐습니다"
+
+#: bp-forums/bp-forums-screens.php:56 bp-forums/bp-forums-screens.php:61
+msgid "Please pick the group forum where you would like to post this topic."
+msgstr "이 토픽을 게시할 그룹 포럼을 선택해주세요."
+
+#: bp-forums/bp-forums-template.php:188 bp-forums/bp-forums-template.php:404
+msgctxt "Forum topic pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-forums/bp-forums-template.php:189 bp-forums/bp-forums-template.php:405
+msgctxt "Forum topic pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-forums/bp-forums-template.php:505 bp-forums/bp-forums-template.php:567
+#: bp-forums/bp-forums-template.php:1216
+#: bp-messages/bp-messages-classes.php:269
+#: bp-messages/bp-messages-template.php:847
+msgid "Deleted User"
+msgstr "삭제된 사용자"
+
+#: bp-forums/bp-forums-template.php:585
+msgid "Group logo for %s"
+msgstr "%s의 그룹 로고"
+
+#: bp-forums/bp-forums-template.php:683 bp-groups/bp-groups-template.php:835
+msgid "%d post"
+msgstr "%d 글"
+
+#: bp-forums/bp-forums-template.php:685 bp-groups/bp-groups-template.php:837
+msgid "%d posts"
+msgstr "%d 글"
+
+#: bp-forums/bp-forums-template.php:791
+msgid "Edit Topic"
+msgstr "토픽 편집"
+
+#: bp-forums/bp-forums-template.php:795
+msgid "Sticky Topic"
+msgstr "붙박이 토픽"
+
+#: bp-forums/bp-forums-template.php:797
+msgid "Un-stick Topic"
+msgstr "토픽 붙박이 해제"
+
+#: bp-forums/bp-forums-template.php:800
+msgid "Open Topic"
+msgstr "토픽 열기"
+
+#: bp-forums/bp-forums-template.php:802
+msgid "Close Topic"
+msgstr "토픽 닫기"
+
+#: bp-forums/bp-forums-template.php:804
+msgid "Delete Topic"
+msgstr "토픽 삭제"
+
+#: bp-forums/bp-forums-template.php:959
+msgid " matching tag \"%s\""
+msgstr "일치하는 태그 \"%s\""
+
+#: bp-forums/bp-forums-template.php:961
+msgid "Viewing topic %s to %s (of %s total topics%s)"
+msgstr "토픽 보임 %s 에서 %s (%s 중에서 총 토픽 %s)"
+
+#: bp-forums/bp-forums-template.php:1052
+msgctxt "Forum thread pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: bp-forums/bp-forums-template.php:1053
+msgctxt "Forum thread pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: bp-forums/bp-forums-template.php:1301
+msgid "Viewing post %1$s to %2$s (%3$s total posts)"
+msgstr "글 보임 %1$s에서 %2$s (%3$s 총 글)"
+
+#: bp-forums/deprecated/1.6.php:59
+msgid "Reinstall Group Forums"
+msgstr "그룹 포럼 재설치"
+
+#: bp-friends/bp-friends-actions.php:35
+msgid "Friendship could not be requested."
+msgstr "친구 관계를 요청할 수 없습니다."
+
+#: bp-friends/bp-friends-actions.php:37
+msgid "Friendship requested"
+msgstr "친구 관계가 요청됐습니다"
+
+#: bp-friends/bp-friends-actions.php:41
+msgid "You are already friends with this user"
+msgstr "이 사용자와 이미 친구입니다"
+
+#: bp-friends/bp-friends-actions.php:43
+msgid "You already have a pending friendship request with this user"
+msgstr "이 사용자와 이미 친구 관계 요청을 했습니다"
+
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+msgid "Friendship could not be canceled."
+msgstr "친구 관계를 취소할 수 없습니다."
+
+#: bp-friends/bp-friends-actions.php:72
+msgid "Friendship canceled"
+msgstr "친구 관계가 취소 됐습니다"
+
+#: bp-friends/bp-friends-actions.php:76
+msgid "You are not yet friends with this user"
+msgstr "이 사용자와 아직 친구가 아닙니다"
+
+#: bp-friends/bp-friends-actions.php:78
+msgid "You have a pending friendship request with this user"
+msgstr "이 사용자와 친구 관계 요청이 대기 중입니다"
+
+#: bp-friends/bp-friends-activity.php:57
+msgid "Friendships accepted"
+msgstr "친구 관계가 수락됐습니다"
+
+#: bp-friends/bp-friends-activity.php:58
+msgid "New friendships"
+msgstr "새로운 친구 관계"
+
+#: bp-friends/bp-friends-activity.php:61
+msgid "New friendship created"
+msgstr "새 친구 관계가 생성됐습니다"
+
+#: bp-friends/bp-friends-activity.php:86
+msgid "%d friends accepted your friendship requests"
+msgstr "%d 친구가 친구 관계 요청을 수락했습니다"
+
+#: bp-friends/bp-friends-activity.php:89
+#: bp-friends/bp-friends-notifications.php:71
+msgid "%s accepted your friendship request"
+msgstr "%s가 친구 관계 요청을 수락 했습니다"
+
+#: bp-friends/bp-friends-activity.php:100
+msgid "You have %d pending friendship requests"
+msgstr "%d 친구 관계 요청이 대기 중입니다"
+
+#: bp-friends/bp-friends-activity.php:103
+msgid "You have a friendship request from %s"
+msgstr "%s로부터 친구 관계 요청이 있습니다"
+
+#: bp-friends/bp-friends-functions.php:100
+#: bp-friends/bp-friends-functions.php:109
+msgid "%1$s and %2$s are now friends"
+msgstr "%1$s와 %2$s가 이제 친구입니다"
+
+#: bp-friends/bp-friends-loader.php:77
+msgid "Search Friends..."
+msgstr "친구 검색..."
+
+#: bp-friends/bp-friends-loader.php:97
+msgid "Friends <span>%d</span>"
+msgstr "친구 <span>%d</span>"
+
+#: bp-friends/bp-friends-loader.php:109 bp-friends/bp-friends-loader.php:171
+#: bp-friends/bp-friends-loader.php:198
+#: bp-themes/bp-default/activity/index.php:120
+#: bp-themes/bp-default/members/single/activity.php:35
+msgid "Friendships"
+msgstr "친구 관계"
+
+#: bp-friends/bp-friends-loader.php:119 bp-groups/bp-groups-template.php:1288
+msgid "Requests"
+msgstr "요청"
+
+#: bp-friends/bp-friends-loader.php:152
+msgid "Friends <span class=\"count\">%s</span>"
+msgstr "친구 <span class=\"count\">%s</span>"
+
+#: bp-friends/bp-friends-loader.php:153
+msgid "Pending Requests <span class=\"count\">%s</span>"
+msgstr "요청 대기중 <span class=\"count\">%s</span>"
+
+#: bp-friends/bp-friends-loader.php:156
+msgid "No Pending Requests"
+msgstr "요청 대기중 없음"
+
+#: bp-friends/bp-friends-notifications.php:32
+msgid "New friendship request from %s"
+msgstr "%s로부터 새 친구 관계 요청"
+
+#: bp-friends/bp-friends-notifications.php:34
+msgid ""
+"%1$s wants to add you as a friend.\n"
+"\n"
+"To view all of your pending friendship requests: %2$s\n"
+"\n"
+"To view %3$s's profile: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 당신을 친구로 추가하기를 원합니다.\n"
+"\n"
+"대기중인 모든 친구 관계 요청 보기: %2$s\n"
+"\n"
+"%3$s의 프로필 보기: %4$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-friends/bp-friends-notifications.php:73
+msgid ""
+"%1$s accepted your friend request.\n"
+"\n"
+"To view %2$s's profile: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 당신의 친구 요청을 수락했습니다.\n"
+"\n"
+"%2$s의 프로필 보기: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-friends/bp-friends-screens.php:34
+msgid "Friendship accepted"
+msgstr "친구 관계 수락됨"
+
+#: bp-friends/bp-friends-screens.php:36
+msgid "Friendship could not be accepted"
+msgstr "친구 관계가 수락되지 않았습니다"
+
+#: bp-friends/bp-friends-screens.php:45
+msgid "Friendship rejected"
+msgstr "친구 관계가 거절됐습니다"
+
+#: bp-friends/bp-friends-screens.php:47
+msgid "Friendship could not be rejected"
+msgstr "친구 관계가 거절될 수 없습니다"
+
+#: bp-friends/bp-friends-screens.php:56
+msgid "Friendship request withdrawn"
+msgstr "친구 관계 요청이 철회됐습니다"
+
+#: bp-friends/bp-friends-screens.php:58
+msgid "Friendship request could not be withdrawn"
+msgstr "친구 관계 요청이 철회될 수 없습니다"
+
+#: bp-friends/bp-friends-screens.php:92
+msgid "A member sends you a friendship request"
+msgstr "회원이 친구 관계 요청을 보냈습니다"
+
+#: bp-friends/bp-friends-screens.php:98
+msgid "A member accepts your friendship request"
+msgstr "회원이 친구 관계 요청을 수락했습니다"
+
+#: bp-friends/bp-friends-template.php:69 bp-xprofile/bp-xprofile-loader.php:117
+msgid "My Friends"
+msgstr "내 친구"
+
+#: bp-friends/bp-friends-template.php:69
+msgid "%s's Friends"
+msgstr "%s의 친구"
+
+#: bp-friends/bp-friends-template.php:69
+msgid "See All"
+msgstr "모두 보기"
+
+#: bp-friends/bp-friends-template.php:89
+msgid "You haven't added any friend connections yet."
+msgstr "아직 친구 연결을 추가하지 않았습니다."
+
+#: bp-friends/bp-friends-template.php:89
+msgid "%s hasn't created any friend connections yet."
+msgstr "%s가 아직 친구 연결을 생성하지 않았습니다."
+
+#: bp-friends/bp-friends-template.php:159
+msgid "There aren't enough site members to show a random sample just yet."
+msgstr "아직 임의의 샘플을 보여줄 충분한 사이트 회원이 없습니다."
+
+#: bp-friends/bp-friends-template.php:169
+msgid "Filter Friends"
+msgstr "친구 필터"
+
+#: bp-friends/bp-friends-template.php:204
+msgid "%d friend"
+msgstr "%d 친구"
+
+#: bp-friends/bp-friends-template.php:206
+msgid "%d friends"
+msgstr "%d 친구"
+
+#: bp-friends/bp-friends-template.php:285
+#: bp-themes/bp-default/_inc/ajax.php:610
+msgid "Cancel Friendship Request"
+msgstr "친구 관계 요청 취소"
+
+#: bp-friends/bp-friends-template.php:286
+msgid "Cancel Friendship Requested"
+msgstr "요청된 친구 관계 취소"
+
+#: bp-friends/bp-friends-template.php:302
+#: bp-friends/bp-friends-template.php:303
+msgid "Cancel Friendship"
+msgstr "친구 관계 취소"
+
+#: bp-friends/bp-friends-template.php:319
+#: bp-friends/bp-friends-template.php:320
+#: bp-themes/bp-default/_inc/ajax.php:602
+#: bp-themes/bp-default/_inc/ajax.php:616
+msgid "Add Friend"
+msgstr "친구 추가"
+
+#: bp-groups/bp-groups-actions.php:28
+msgid "Sorry, you are not allowed to create groups."
+msgstr "최송합니다. 그룹을 생성할 권한이 없습니다."
+
+#: bp-groups/bp-groups-actions.php:50
+msgid "There was an error saving group details. Please try again."
+msgstr "그룹 상세롤 저장 중 에러가 발생했습니다. 다시 해보세요."
+
+#: bp-groups/bp-groups-actions.php:72
+msgid "Please fill in all of the required fields"
+msgstr "필수 항목 모두를 채우세요"
+
+#: bp-groups/bp-groups-actions.php:79 bp-groups/bp-groups-actions.php:106
+msgid "There was an error saving group details, please try again."
+msgstr "그룹 상세를 저장하는 중 에러가 발생했습니다. 다시 하세요."
+
+#: bp-groups/bp-groups-actions.php:145
+msgid "%1$s created the group %2$s"
+msgstr "%1$s가 그룹 %2$s를 생성했습니다"
+
+#: bp-groups/bp-groups-actions.php:193
+msgid "There was an error saving the group avatar, please try uploading again."
+msgstr "그룹 아바타를 저장 중 에러가 발생했습니다. 다시 업로드를 하세요."
+
+#: bp-groups/bp-groups-actions.php:195
+msgid "The group avatar was uploaded successfully!"
+msgstr "그룹 아바타가 성공적으로 업로드 됐습니다!"
+
+#: bp-groups/bp-groups-actions.php:219 bp-groups/bp-groups-actions.php:226
+msgid "There was an error joining the group."
+msgstr "그룹에 참가하는데 에러가 발생했습니다."
+
+#: bp-groups/bp-groups-actions.php:228
+msgid "You joined the group!"
+msgstr "그룹에 참가했습니다!"
+
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+msgid "This group must have at least one admin"
+msgstr "이 그룹은 최소한 하나의 관리자가 있어야합니다"
+
+#: bp-groups/bp-groups-actions.php:257
+msgid "There was an error leaving the group."
+msgstr "그룹에서 나오는 중 에러가 발생했습니다."
+
+#: bp-groups/bp-groups-actions.php:259 bp-groups/bp-groups-functions.php:313
+msgid "You successfully left the group."
+msgstr "성공적으로 그룹에서 나왔습니다."
+
+#: bp-groups/bp-groups-activity.php:22
+msgid "Created a group"
+msgstr "그룹 생성됨"
+
+#: bp-groups/bp-groups-activity.php:23
+msgid "Joined a group"
+msgstr "그룹 참가됨"
+
+#: bp-groups/bp-groups-activity.php:24
+msgid "New group forum topic"
+msgstr "새 그룹 포럼 토픽"
+
+#: bp-groups/bp-groups-loader.php:507
+msgid "Pending Invites <span class=\"count\">%s</span>"
+msgstr "대기중 초청장 <span class=\"count\">%s</span>"
+
+#: bp-groups/bp-groups-loader.php:506
+msgid "Groups <span class=\"count\">%s</span>"
+msgstr "그룹 <span class=\"count\">%s</span>"
+
+#: bp-groups/bp-groups-loader.php:503
+msgid "No Pending Invites"
+msgstr "대기중 초청장 없음"
+
+#: bp-groups/bp-groups-screens.php:181
+msgid "The topic was made sticky successfully"
+msgstr "토픽이 성공적으로 붙박이로 됐습니다"
+
+#: bp-groups/bp-groups-notifications.php:129
+msgid ""
+"Your membership request for the group \"%1$s\" has been accepted.\n"
+"\n"
+"To view the group please login and visit: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"그룹 \"%1$s\"의 회원 가입 요청이 수락됐습니다.\n"
+"\n"
+"그룹을 보려면 로그인하고 방문하세요: %2$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:128
+msgid "Membership request for group \"%s\" accepted"
+msgstr "그룹 \"%s\"의 회원 가입 요청이 수락됐습니다"
+
+#: bp-groups/bp-groups-notifications.php:79
+msgid ""
+"%1$s wants to join the group \"%2$s\".\n"
+"\n"
+"Because you are the administrator of this group, you must either accept or reject the membership request.\n"
+"\n"
+"To view all pending membership requests for this group, please visit:\n"
+"%3$s\n"
+"\n"
+"To view %4$s's profile: %5$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s가 그룹 \"%2$s\"에 참여하기를 원합니다.\n"
+"\n"
+"당신은 이 그룹의 관리자이므로 회원 가입 요청을 수락하거나 거절해야합니다.\n"
+"\n"
+"이 그룹의 모든 대기중인 회원 가입 요청을 보려면 다음을 방문하세요:\n"
+"%3$s\n"
+"\n"
+"%4$s의 프로필 보기: %5$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-screens.php:193
+msgid "There was an error when unsticking that topic"
+msgstr "해당 토픽을 붙박이 해제하는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:246
+msgid "The topic was deleted successfully"
+msgstr "토픽이 성공적으로 삭제됐습니다"
+
+#: bp-groups/bp-groups-screens.php:244
+msgid "There was an error deleting the topic"
+msgstr "토픽을 삭제하는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:209
+msgid "The topic was closed successfully"
+msgstr "토픽이 성공적으로 닫혔습니다"
+
+#: bp-groups/bp-groups-screens.php:207
+msgid "There was an error when closing that topic"
+msgstr "해당 토픽을 닫는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:195
+msgid "The topic was unstuck successfully"
+msgstr "토픽이 성공적으로 붙박이 해제됐습니다"
+
+#: bp-groups/bp-groups-screens.php:223
+msgid "The topic was opened successfully"
+msgstr "토픽이 성공적으로 열렸습니다"
+
+#: bp-groups/bp-groups-screens.php:221
+msgid "There was an error when opening that topic"
+msgstr "해당토픽을 여는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-notifications.php:166
+msgid "a moderator"
+msgstr "조정자"
+
+#: bp-groups/bp-groups-notifications.php:163
+msgid "an administrator"
+msgstr "관리자"
+
+#: bp-groups/bp-groups-notifications.php:237
+msgid ""
+"One of your friends %1$s has invited you to the group: \"%2$s\".\n"
+"\n"
+"To view your group invites visit: %3$s\n"
+"\n"
+"To view the group visit: %4$s\n"
+"\n"
+"To view %5$s's profile visit: %6$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"친구중 하나인 %1$s가 당신을 그룹에 초대했습니다: \"%2$s\".\n"
+"\n"
+"그룹 초대를 보려면 방문하세요: %3$s\n"
+"\n"
+"그룹을 보려면 방문하세요: %4$s\n"
+"\n"
+"%5$s의 프로필을 보려면 방문하세요: %6$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-screens.php:53
+msgid "Group invite could not be accepted"
+msgstr "그룹 초청이 수락되지 않았습니다"
+
+#: bp-groups/bp-groups-notifications.php:235
+msgid "You have an invitation to the group: \"%s\""
+msgstr "당신은 그룹에 초대됐습니다: \"%s\""
+
+#: bp-groups/bp-groups-notifications.php:138
+msgid "Membership request for group \"%s\" rejected"
+msgstr "그룹 \"%s\"의 회원 가입 요청이 거절됐습니다"
+
+#: bp-groups/bp-groups-notifications.php:139
+msgid ""
+"Your membership request for the group \"%1$s\" has been rejected.\n"
+"\n"
+"To submit another request please log in and visit: %2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"그룹 \"%1$s\"의 회원 가입 요청이 거절됐습니다.\n"
+"\n"
+"다른 요청을 제출하려면 로그인하고 방문하세요: %2$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:187
+msgid ""
+"You have been promoted to %1$s for the group: \"%2$s\".\n"
+"\n"
+"To view the group please visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"그룹에서 %1$s로 승격됐습니다: \"%2$s\".\n"
+"\n"
+"그룹을 보려면 방문하세요: %3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-groups/bp-groups-notifications.php:185
+msgid "You have been promoted in the group: \"%s\""
+msgstr "그룹에서 승격됐습니다: \"%s\""
+
+#: bp-groups/bp-groups-screens.php:159
+msgid "Your reply was posted successfully"
+msgstr "응답이 성공적으로 게시됐습니다"
+
+#: bp-groups/bp-groups-screens.php:157
+msgid "There was an error when replying to that topic"
+msgstr "그 토픽에 응답 중 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-screens.php:154
+msgid "It looks like you've already said that!"
+msgstr "이미 말한 것 같습니다!"
+
+#: bp-groups/bp-groups-screens.php:77
+msgid "Group invite rejected"
+msgstr "그룹 초청이 거절됐습니다"
+
+#: bp-groups/bp-groups-screens.php:75
+msgid "Group invite could not be rejected"
+msgstr "그룹 초청이 거절될 수 없습니다"
+
+#: bp-groups/bp-groups-screens.php:55
+msgid "Group invite accepted"
+msgstr "그룹 초청이 수락됐습니다"
+
+#: bp-groups/bp-groups-screens.php:179
+msgid "There was an error when making that topic a sticky"
+msgstr "해당 토픽을 붙박이로 만드는데 에러가 발생했습니다"
+
+#: bp-groups/bp-groups-loader.php:462
+msgid "Admin"
+msgstr "관리자"
+
+#: bp-groups/bp-groups-loader.php:448
+#: bp-themes/bp-default/groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr "초청장 보내기"
+
+#: bp-groups/bp-groups-loader.php:436
+msgid "Members <span>%s</span>"
+msgstr "회원 <span>%s</span>"
+
+#: bp-groups/bp-groups-loader.php:424
+msgid "Forum"
+msgstr "포럼"
+
+#: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+msgid "Request Membership"
+msgstr "회원 가입 요청"
+
+#: bp-groups/bp-groups-loader.php:395
+msgctxt "Group home navigation title"
+msgid "Home"
+msgstr "홈"

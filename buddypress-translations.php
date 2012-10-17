@@ -1,16 +1,15 @@
 <?php
 /*
 Plugin Name: BuddyPress Translations
-Plugin URI: http://wordpress.org/extendp/plugins/buddypress-translations
-Description: Translate your BuddyPress-powered site into one of the available languages from http://translate.wordpress.org/projects/buddypress.
+Plugin URI: http://wordpress.org/extend/plugins/buddypress-translations
+Description: Load your BuddyPress with translations provided by translate.wordpress.org
 Version: 1.6a
 Author: The BuddyPress Community
 Author URI: http://buddypress.org/community/members/
-Domain Path: /languages/ 
 Text Domain: bpt
 
 "BuddyPress Translations" - http://translate.wordpress.org/projects/buddypress
-Copyright (C) 2012 The BuddyPress Community
+Copyright (C) 2012 Paul Gibbs, and each individual languages' contributors from http://translate.wordpress.org/projects/buddypress
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -19,7 +18,7 @@ the Free Software Foundation; either version 2 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
@@ -36,11 +35,13 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * @since 1.6a
  */
 function bpt_load_textdomain() {
-	$locale        = apply_filters( 'buddypress_locale', get_locale() );
-	$mofile        = sprintf( 'buddypress-%s.mo', $locale );
-	$mofile_local  = WP_PLUGIN_DIR . '/buddypress-translations/' . $mofile;
+	// If a translation has already been loaded, bail out
+	if ( is_textdomain_loaded( 'buddypress' ) )
+		return;
 
-	if ( file_exists( $mofile_local ) )
-		return load_textdomain( 'buddypress', $mofile_local );
+	$mofile = WP_PLUGIN_DIR . '/buddypress-translations/pomo/' . apply_filters( 'buddypress_locale', get_locale() );
+
+	if ( file_exists( $mofile ) )
+		return load_textdomain( 'buddypress', $mofile );
 }
 add_action( 'bp_loaded', 'bpt_load_textdomain' );

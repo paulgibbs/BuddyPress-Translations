@@ -1,25 +1,32 @@
-=== BuddyPrss Translations ===
+=== BuddyPress Translations ===
 Contributors: DJPaul
 Tags: buddypress, translations
 Requires at least: BuddyPress 1.6
 Tested up to: BuddyPress 1.6.20
-Stable tag: 1.7
+Stable tag: 1.6a
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Translate your BuddyPress-powered site into one of the available languages from http://translate.wordpress.org/projects/buddypress.
+Load your BuddyPress with translations provided by translate.wordpress.org
 
 == Description ==
 
-Translate your BuddyPress-powered site into one of the available languages from http://translate.wordpress.org/projects/buddypress.
+Load your BuddyPress with translations provided by translate.wordpress.org
 
-Currently the following translations are available for BuddyPress 1.6.x:
+Currently the following translations are available for BuddyPress:
 
-* Italian - it_IT 
-* Norwegian (Bokmål) - nb_NO
-* Portuguese - pt_PT
-* Portuguese-Brazilian - pt_BR 
-* Russian - ru_RU
+* Dutch
+* Croatian
+* Korean
+* Russian
+* Portuguese (Brazil)
+* Portuguese (Portugal)
+* Norwegian (Bokmål)
+* Italian
+* Japanese
+* Spanish (Spain)
+
+Big thanks to everyone who contributes to these translations on http://translate.wordpress.org/projects/buddypress. Without them, this plugin wouldn't exist.
 
 == Installation ==
 
@@ -30,7 +37,7 @@ Currently the following translations are available for BuddyPress 1.6.x:
 
 = How can I get my language added to this plugin? =
 
-To contribute a translation to BuddyPress, [subscribe to the polyglots' blog](http://make.wordpress.org/polyglots/), introduce yourself, and ask if there's anyone translating into your language.
+To contribute a translation to BuddyPress, [subscribe to the polyglots' blog](http://make.wordpress.org/polyglots/), introduce yourself, and ask if there's anyone translating into your language. Once your language has been fully translated, I'll add it to this plugin.
 
 == Changelog ==
 
