@@ -3,7 +3,7 @@ Contributors: DJPaul
 Tags: buddypress, translations
 Requires at least: BuddyPress 1.6
 Tested up to: BuddyPress 1.6.20
-Stable tag: 1.6a
+Stable tag: 1.6b
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,16 +15,17 @@ Load your BuddyPress with translations provided by translate.wordpress.org
 
 Currently the following translations are available for BuddyPress:
 
-* Dutch
 * Croatian
-* Korean
-* Russian
-* Portuguese (Brazil)
-* Portuguese (Portugal)
-* Norwegian (Bokmål)
+* Dutch
 * Italian
 * Japanese
+* Korean
+* Norwegian (Bokmål)
+* Portuguese (Brazil)
+* Portuguese (Portugal)
+* Russian
 * Spanish (Spain)
+* Thai
 
 Big thanks to everyone who contributes to these translations on http://translate.wordpress.org/projects/buddypress. Without them, this plugin wouldn't exist.
 
@@ -41,6 +42,8 @@ To contribute a translation to BuddyPress, [subscribe to the polyglots' blog](ht
 
 == Changelog ==
 
-= 1.6a = 
+= 1.6b =
+Updated all translations; added Thai.
 
+= 1.6a = 
 First version for BuddyPress 1.6+.
