@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-10-26 20:47:43+0000\n"
+"PO-Revision-Date: 2012-11-04 11:13:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4514,11 +4514,11 @@ msgstr "랜덤 그룹"
 msgid "Random Site"
 msgstr "랜덤 사이트"
 
-#: bp-core/bp-core-catchuri.php:278
+#: bp-core/bp-core-catchuri.php:281
 msgid "This user has been marked as a spammer. Only site admins can view this profile."
 msgstr "이 사용자는 스패머로 처리됐습니다. 사이트 관리자만 이 프로필을 볼 수 있습니다."
 
-#: bp-core/bp-core-catchuri.php:452 bp-core/bp-core-catchuri.php:511
+#: bp-core/bp-core-catchuri.php:455 bp-core/bp-core-catchuri.php:514
 msgid "You must log in to access the page you requested."
 msgstr "요청한 페이지에 접근하려면 로그인 해야합니다."
 

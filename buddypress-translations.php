@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress Translations
 Plugin URI: http://wordpress.org/extend/plugins/buddypress-translations
 Description: Load your BuddyPress with translations provided by translate.wordpress.org
-Version: 1.6b
+Version: 1.6c
 Author: The BuddyPress Community
 Author URI: http://buddypress.org/community/members/
 Text Domain: bpt

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-10-26 20:47:28+0000\n"
+"PO-Revision-Date: 2012-11-04 11:13:49+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4534,11 +4534,11 @@ msgstr "Nasumičnu grupu"
 msgid "Random Site"
 msgstr "Nasumična stranica."
 
-#: bp-core/bp-core-catchuri.php:278
+#: bp-core/bp-core-catchuri.php:281
 msgid "This user has been marked as a spammer. Only site admins can view this profile."
 msgstr "Ovaj korisnik je označen kao spamer. Jedino admini stranice mogu vidjeti ovaj profil."
 
-#: bp-core/bp-core-catchuri.php:452 bp-core/bp-core-catchuri.php:511
+#: bp-core/bp-core-catchuri.php:455 bp-core/bp-core-catchuri.php:514
 msgid "You must log in to access the page you requested."
 msgstr "Morate se prijaviti da biste pristupili traženoj stranici."
 
