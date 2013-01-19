@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:04:05+0000\n"
+"PO-Revision-Date: 2013-01-19 14:23:13+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "グループのメンバーシップ"
 msgid "New Groups"
 msgstr "新規グループ"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "友達申請をキャンセルできませんでした。"
 
@@ -325,11 +325,11 @@ msgstr "アバターのアップロードはできません。代わりに<a hre
 msgid "Logged In Users"
 msgstr "ログイン中のユーザー"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "%s を登録しました。"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "あなたのアバター"
 
@@ -407,7 +407,7 @@ msgstr "プロフィール情報を更新する際にエラーが発生しまし
 msgid "Changes saved."
 msgstr "変更を保存しました。"
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "アバターを切り取る際に問題が起きました。もう一度アップロードしてみてください。"
 
@@ -423,7 +423,7 @@ msgstr "活発ではありません"
 msgid "No Mods"
 msgstr "モデレーター不在"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "あなたのアバターは正常にアップロードされました"
 
@@ -705,7 +705,7 @@ msgstr "欄グループを追加"
 msgid "No posts found. Try a different search?"
 msgstr "投稿は見つかりませんでした。新しい検索を試してみませんか ?"
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "活動 RSS フィード"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "メッセージを削除しました。"
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "メッセージを削除しました。"
 
@@ -870,7 +870,7 @@ msgstr "はい、新しいサイトを作りたいです。"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "パスワード変更 <span>(変更しないなら空白のまま)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "有効化されていません"
 
@@ -970,7 +970,7 @@ msgstr "あなた"
 msgid "Please make sure you enter your password twice"
 msgstr "パスワードを2回入力しているかご確認ください。"
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "- &quot;%s &quot;"
@@ -1584,7 +1584,7 @@ msgstr "フォーラムディレクトリ"
 msgid "Group"
 msgstr "グループ"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "ユーザーのブロックを解除しました"
 
@@ -1602,7 +1602,7 @@ msgstr "&rarr;"
 msgid "Public Group"
 msgstr "公開グループ"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "グループからユーザーを削除する際にエラーが発生しました。もう一度お試しください。"
 
@@ -1610,47 +1610,47 @@ msgstr "グループからユーザーを削除する際にエラーが発生し
 msgid "Private Group"
 msgstr "非公開グループ"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "ユーザーを削除しました"
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "グループ参加申請を承認する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "グループ参加申請を承認しました"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "グループ参加申請を拒否する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "グループ参加申請を拒否しました"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "グループを削除する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "グループを削除しました。"
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "メンバーがあなたをグループに招待したとき"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "グループ情報が更新されたとき"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "グループ管理者またはモデレーターに昇格したとき"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "メンバーからあなたが管理している非公開グループへの参加申請が届いたとき"
 
@@ -1671,7 +1671,7 @@ msgstr "アバターを切り抜き"
 msgid "Delete Avatar"
 msgstr "アバターを削除"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "通知を閉じるとき問題が起きました。"
 
@@ -1835,12 +1835,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "ユーザー名には '_' (アンダーバー) を含めることはできません。"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "グループに参加"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "グループを脱退"
 
@@ -2044,8 +2044,8 @@ msgstr "スレッドを表示 / パーマリンク"
 msgid "In reply to: "
 msgstr "返信元:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2068,19 +2068,19 @@ msgstr "%1$s個目から%2$s個目のグループを表示中 (グループ%3$s�
 msgid "No Admins"
 msgstr "管理者不在"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "ユーザーのブロックを解除する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "ユーザーをブロックしました"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "ユーザーを降格しました"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "ユーザーをブロックする際にエラーが発生しました。もう一度お試しください。"
 
@@ -2088,11 +2088,11 @@ msgstr "ユーザーをブロックする際にエラーが発生しました。
 msgid "Moderators"
 msgstr "モデレーター"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr "友達申請は送信されませんでした。"
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2106,19 +2106,19 @@ msgstr "設定を保存しました。"
 msgid "One of the password fields was empty."
 msgstr "パスワード欄のいずれかが記入されていません。"
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "グループ参加エラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "メッセージを既読にするとき問題が起きました。"
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "メッセージを未読にするとき問題が起きました。"
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "返信を送信する際にエラーが発生しました。もう一度お試しください。"
 
@@ -2126,11 +2126,11 @@ msgstr "返信を送信する際にエラーが発生しました。もう一度
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> の返信 (<a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>)"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "申請を拒否する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "申請を承認する際にエラーが発生しました。もう一度お試しください。"
 
@@ -2143,7 +2143,7 @@ msgid "That email address is already taken."
 msgstr "このメールアドレスはすでに使用されています。"
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "%s を送信"
 
@@ -2168,11 +2168,11 @@ msgstr "既読にする"
 msgid "My Friends <span>%s</span>"
 msgstr "自分の友達 <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "グループ脱退のエラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "メッセージを削除するとき問題が起きました。"
 
@@ -2227,8 +2227,8 @@ msgstr "アカウントは変更されませんでした。"
 msgid "The activity I've marked as a favorite."
 msgstr "お気に入りの活動"
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2256,12 +2256,12 @@ msgstr "権限"
 msgid "There was a problem posting your update, please try again."
 msgstr "近況を投稿する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "申請保留中"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "削除する際にエラーが発生しました。もう一度お試しください。"
 
@@ -2273,11 +2273,11 @@ msgstr "メールアドレスは必ず入力してください。"
 msgid "Send a private message to this user."
 msgstr "このユーザーにプライベートメッセージを送る。"
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "グループ参加申請エラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "参加申請中"
 
@@ -2470,11 +2470,11 @@ msgstr ""
 "\n"
 "---------------------\n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "ユーザーを昇格させました"
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "新しいグループ画像をアップロードしました !"
 
@@ -2482,7 +2482,7 @@ msgstr "新しいグループ画像をアップロードしました !"
 msgid "Edit Group"
 msgstr "グループを編集"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "アバターを切り取る際に問題が発生しました。もう一度アップロードしてみてください。"
 
@@ -2645,7 +2645,7 @@ msgstr "このグループにアクセスする権限がありません。"
 msgid "You are not an admin of this group."
 msgstr "このグループの管理者ではありません。"
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "ユーザー昇格の際にエラーが発生しました。もう一度お試しください。"
 
@@ -2657,7 +2657,7 @@ msgstr "アバターを削除する際にエラーが発生しました。もう
 msgid "Your avatar was deleted successfully!"
 msgstr "あなたのアバターを削除しました !"
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "ユーザー降格の際にエラーが発生しました。もう一度お試しください。"
 
@@ -3153,7 +3153,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "%1$s に通る変数は連想配列でなければなりません。詳しくは %2$s のインラインの解説を参照してください。"
@@ -3235,7 +3235,7 @@ msgstr "友達"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "グループ"
@@ -3262,8 +3262,8 @@ msgstr "わたしの活動"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3375,7 +3375,7 @@ msgid "You do not have access to this activity."
 msgstr "この活動を見ることはできません。"
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3383,7 +3383,7 @@ msgid "Yes"
 msgstr "はい"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3444,7 +3444,7 @@ msgstr "削除"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3629,8 +3629,8 @@ msgstr "サイト投稿者 %s のプロフィール画像"
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3721,7 +3721,7 @@ msgstr "%s の最新コメント"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4435,47 +4435,47 @@ msgstr "アカウント"
 msgid "Avatar Image"
 msgstr "アバター画像"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "エラーはありません。ファイルアップロードは成功しました。"
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "あなたの画像は大きすぎます。最大サイズは次の通りです:"
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "アップロードしたファイルは一部分のみアップロードされました。"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "ファイルはアップロードされませんでした"
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "一時フォルダーがありません"
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "アップロードに失敗しました。もう一度お試しください。エラー内容: %s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "アップロードしたファイルは大きすぎます。%s 以下のサイズでアップロードしてください"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "アップロードは JPG, GIF, または PNG 写真で行なってください。"
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "アップロード失敗! エラー内容: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "アップロードに失敗しました。エラー: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4494,7 +4494,7 @@ msgid "Sign Up"
 msgstr "アカウント登録"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "ログアウト"
 
@@ -5136,7 +5136,7 @@ msgstr "あなたはこのユーザーとすでに友達です。"
 msgid "You already have a pending friendship request with this user"
 msgstr "このユーザーからの保留中の友達申請がすでにあります"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "交友関係をキャンセルできませんでした。"
 
@@ -5322,7 +5322,7 @@ msgid "%d friends"
 msgstr "友達%d人"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "友達申請をキャンセル"
 
@@ -5337,8 +5337,8 @@ msgstr "交友関係を解消"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "友達に追加"
 
@@ -5378,7 +5378,7 @@ msgstr "グループ参加の際にエラーが起きました。"
 msgid "You joined the group!"
 msgstr "グループに加わりました !"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "このグループには最低一名の管理者が必要です"
 
@@ -5612,7 +5612,7 @@ msgid "Forum"
 msgstr "フォーラム"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "参加申請する"
 

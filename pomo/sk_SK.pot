@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:03:59+0000\n"
+"PO-Revision-Date: 2013-01-19 14:23:10+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Členstvo v skupine"
 msgid "New Groups"
 msgstr "Nové skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "Žiadosť o priateľstvo nemôže byť zrušená."
 
@@ -325,11 +325,11 @@ msgstr "Nahrávanie profilového obrázku je momentálne neaktívne. Prečo nami
 msgid "Logged In Users"
 msgstr "Prihlásení používatelia"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "zaregistrovaný %s"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "Váš obrázok profilu"
 
@@ -407,7 +407,7 @@ msgstr "Vyskytol sa problém pri aktualizácii niektorých z vašich profilovýc
 msgid "Changes saved."
 msgstr "Zmeny uložené."
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "Vyskytol sa problém pri orezávaní vášho obrázku profilu, prosím, skúste ho nahrať znovu."
 
@@ -423,7 +423,7 @@ msgstr "ešte neaktívny"
 msgid "No Mods"
 msgstr "Žiadny administrátori"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "Váš nový obrázok profilu bol úspešne nahraný!"
 
@@ -705,7 +705,7 @@ msgstr "Pridať novú skupinu polí"
 msgid "No posts found. Try a different search?"
 msgstr "Neboli nájdené žiadne príspevky. Skúsiť iné vyhľadávanie?"
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "RSS informačný kanál aktivity"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Správa bola odstránená."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "Správy zmazané."
 
@@ -860,7 +860,7 @@ msgstr "Registrácia používateľov momentálne nie je povolená."
 
 #: bp-themes/bp-default/registration/register.php:27
 msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
-msgstr "Registrácia na tejto stránke je jednoduchá, iba vyplnte polia nižšie a my vám vytvoríme nový účet za zlomok času. "
+msgstr "Registrácia na tejto stránke je jednoduchá. Vyplňte prosím polia nižšie a váš nový účet bude vytvorený za chvíľu."
 
 #: bp-themes/bp-default/registration/register.php:207
 msgid "Yes, I'd like to create a new site"
@@ -870,7 +870,7 @@ msgstr "Áno, chcem vytvoriť novú stránku"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "Zmeniť heslo <span>(nechajte prázdne ak nechcete meniť heslo)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "Nikdy aktívny"
 
@@ -970,7 +970,7 @@ msgstr "Vy"
 msgid "Please make sure you enter your password twice"
 msgstr "Prosím, uistite sa, že ste zadali vaše heslo dvakrát"
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "- &quot;%s &quot;"
@@ -1588,7 +1588,7 @@ msgstr "Adresár fór"
 msgid "Group"
 msgstr "Skupina"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "Zákaz pre používateľa bol úspešne odstránený"
 
@@ -1606,7 +1606,7 @@ msgstr "&rarr;"
 msgid "Public Group"
 msgstr "Verejná skupina"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "Vyskytla sa chyba pri odstraňovaní tohto používateľa zo skupiny, prosím, skúste znova"
 
@@ -1614,47 +1614,47 @@ msgstr "Vyskytla sa chyba pri odstraňovaní tohto používateľa zo skupiny, pr
 msgid "Private Group"
 msgstr "Súkromná skupina"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "Používateľ úspešne odstránený"
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "Vyskytla sa chyba pri prijímaní žiadosti o členstvo, prosím, skúste znova."
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "Žiadosť o členstvo v skupine bola prijatá"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "Vyskytla sa chyba pri odmietaní žiadosti o členstvo, prosím, skúste znova."
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "Žiadosť o členstvo v skupine bolo úspešne odmietnuté"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "Vyskytla sa chyba pri odstraňovaní skupiny, prosím, skúste znova. "
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "Skupina bola úspešne zmazaná"
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "Člen vás pozval pripojiť sa k skupine"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "Aktualizovali sa informácie o skupine"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "Stali ste sa administrátorom alebo moderátorom skupiny"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "Bola podaná žiadosť o členstvo v súkromenj skupine, ktorej ste administrátor"
 
@@ -1675,7 +1675,7 @@ msgstr "Orezať obrázok profilu"
 msgid "Delete Avatar"
 msgstr "Zmazať obrázok profilu"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "Vyskytla sa chyba pri zatváraní poznámky."
 
@@ -1839,12 +1839,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Prepáčte, používateľské mená nemôžu obsahovať znak \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "Pridať sa do skupiny"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "Opustiť skupinu"
 
@@ -2048,8 +2048,8 @@ msgstr "Zobraziť vlákno / Trvalý odkaz"
 msgid "In reply to: "
 msgstr "Odpoveď na:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2072,19 +2072,19 @@ msgstr "Zobrazujú sa skupiny %1$s až %2$s (z %3$s skupín) "
 msgid "No Admins"
 msgstr "Žiadny administrátori"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "Vyskytla sa chyba pri odstraňovaní zákazu pre používateľa, prosím, skúste znova"
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "Používateľovi bola úspešne zakázaná účasť"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "Používateľ bol úspešne degradovaný"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "Vyskytla sa chyba pri zakazovaní účasti používateľovi, prosím, skúste znovu."
 
@@ -2092,11 +2092,11 @@ msgstr "Vyskytla sa chyba pri zakazovaní účasti používateľovi, prosím, sk
 msgid "Moderators"
 msgstr "Moderátori"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr "Nemôžete požiadať o priateľstvo."
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2110,19 +2110,19 @@ msgstr "Vaše nastavenia boli uložené."
 msgid "One of the password fields was empty."
 msgstr "Jeden zo vstupov pre nové heslo bol prázdny."
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "Chyba pri vstupe do skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "Vyskytla sa chyba pri označovaní správ ako prečítaných. "
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "Vyskytla sa chyba pri označovaní správ ako neprečítaných."
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Vyskytla sa chyba pri odosielaní odpovede. Prosím, skúste znovu."
 
@@ -2130,11 +2130,11 @@ msgstr "Vyskytla sa chyba pri odosielaní odpovede. Prosím, skúste znovu."
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> odpovedal/-a <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Vyskytol sa problém pri odmietaní žiadosti. Prosím, skúste znovu."
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Vyskytol sa problém pri prijímaní žiadosti. Prosím, skúste znovu."
 
@@ -2147,7 +2147,7 @@ msgid "That email address is already taken."
 msgstr "Túto emailovú adresu už používa niekto iný."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "Odoslané %s"
 
@@ -2172,11 +2172,11 @@ msgstr "Označiť ako prečítané"
 msgid "My Friends <span>%s</span>"
 msgstr "Moji priatelia <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "Chyba pri odchádzaní zo skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "Vyskytla sa chyba pri odstraňovaní správ."
 
@@ -2231,8 +2231,8 @@ msgstr "V tomto účte neboli vykonané žiadne zmeny."
 msgid "The activity I've marked as a favorite."
 msgstr "Aktivita, ktorú som označil ako obľúbenú. "
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2260,12 +2260,12 @@ msgstr "Možnosti"
 msgid "There was a problem posting your update, please try again."
 msgstr "Vyskytol sa problém pri zverejňovaní vašej aktuality, prosím, skúste znovu. "
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "Žiadosť čaká na vybavenie"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "Vyskytol sa problém pri mazaní. Prosím, skúste znovu."
 
@@ -2277,11 +2277,11 @@ msgstr "Emailová adresa nemôže byť prázdna."
 msgid "Send a private message to this user."
 msgstr "Zaslať súkromnú správu tomuto používateľovi"
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "Chyba pri žiadosti o členstvo"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "Členstvo vyžiadané"
 
@@ -2415,7 +2415,7 @@ msgstr "Nie ste členom žiadnej skupiny, takže nemáte žiadne fórum, do ktor
 #: bp-themes/bp-default/forums/index.php:133
 #: bp-themes/bp-default/groups/single/forum.php:87
 msgid "Post Topic"
-msgstr "Pridať tému:"
+msgstr "Vytvoriť tému"
 
 #: bp-themes/bp-default/forums/index.php:113
 msgid "Post In Group Forum:"
@@ -2474,11 +2474,11 @@ msgstr ""
 "\n"
 "---------------------\n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "Používateľ bol úspešne povýšený"
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "Nový obrázok profilu skupiny bol úspešne nahratý!"
 
@@ -2486,7 +2486,7 @@ msgstr "Nový obrázok profilu skupiny bol úspešne nahratý!"
 msgid "Edit Group"
 msgstr "Upraviť skupinu"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "Vyskytla sa chyba pri orezávaní obrázku, prosím, skúste ho nahrať znovu."
 
@@ -2649,7 +2649,7 @@ msgstr "Nemáte prístup do tejto skupiny."
 msgid "You are not an admin of this group."
 msgstr "Nie ste administrátorom tejto skupiny."
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "Vyskytla sa chyba pri povyšovaní používateľa, prosím, skúste znovu"
 
@@ -2661,7 +2661,7 @@ msgstr "Vyskytol sa problém pri odstraňovaní profilového obrázku, prosím, 
 msgid "Your avatar was deleted successfully!"
 msgstr "Váš profilový obrázok bol úspešne odstránený!"
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "Vyskytla sa chyba pri degradovaní používateľa, prosím, skúste znovu"
 
@@ -3165,7 +3165,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "Argumenty, ktoré boli odovzdané do %1$s, by nemali byť typu asociatívne pole. Pre viac informácií prosím pozrite do vnorenej dokumentácie %2$s."
@@ -3247,7 +3247,7 @@ msgstr "Priatelia"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "Skupiny"
@@ -3274,8 +3274,8 @@ msgstr "Moja aktivita"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3387,7 +3387,7 @@ msgid "You do not have access to this activity."
 msgstr "K tejto aktivte nemáte prístup."
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3395,7 +3395,7 @@ msgid "Yes"
 msgstr "Áno"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3456,7 +3456,7 @@ msgstr "Zmazať"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3641,8 +3641,8 @@ msgstr "Profilový obrázok autora tejto stránky %s "
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3733,7 +3733,7 @@ msgstr "%s nedávne komentáre"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4455,47 +4455,47 @@ msgstr "Môj účet"
 msgid "Avatar Image"
 msgstr "Obrázok profilu"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "Pri nahrávaní sa nevyskytla žiadna chyba, súbor bol úspešne nahratý"
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "Váš obrázok bol väčší ako je maxmálna povolená veľkosť:"
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "Nahrávaný súbor bol nahratý iba čiastočne"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "Nebol nahratý žiaden súbor"
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "Chýba dočasný priečinok"
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "Váš upload zlyhal, skúste neskôr. Chyba: %s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "Súbor, ktorý ste sa pokúsili nahrať, je príliš veľký. Prosím, nahrajte súbor menší ako %s"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "Prosím nahrávajte iba JPG, GIF alebo PNG fotografie."
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "Upload zlyhal! Chyba: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "Aktualizácia zlyhala! Chyba nastala v: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4514,7 +4514,7 @@ msgid "Sign Up"
 msgstr "Zaregistrovať sa"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "Odhlásiť sa"
 
@@ -4644,15 +4644,15 @@ msgstr "rokmi"
 
 #: bp-core/bp-core-functions.php:391
 msgid "month"
-msgstr "mesiac"
+msgstr "mesiacom"
 
 #: bp-core/bp-core-functions.php:391
 msgid "months"
-msgstr "mesiacov"
+msgstr "mesiacmi"
 
 #: bp-core/bp-core-functions.php:392
 msgid "week"
-msgstr "týždeň"
+msgstr "týždňami"
 
 #: bp-core/bp-core-functions.php:392
 msgid "weeks"
@@ -4684,7 +4684,7 @@ msgstr "minútami"
 
 #: bp-core/bp-core-functions.php:396
 msgid "second"
-msgstr "sekundu"
+msgstr "sekundou"
 
 #: bp-core/bp-core-functions.php:396
 msgid "seconds"
@@ -5161,7 +5161,7 @@ msgstr "S týmto používateľom už ste priatelia"
 msgid "You already have a pending friendship request with this user"
 msgstr "S týmto používateľom už máte žiadosť o priateľstvo čakajúcu na prijatie"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "Priateľstvo nemohlo byť zrušené."
 
@@ -5347,7 +5347,7 @@ msgid "%d friends"
 msgstr "%d priatelia/-ov"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "Vziať späť žiadosť o priateľstvo "
 
@@ -5362,8 +5362,8 @@ msgstr "Zrušiť priateľstvo"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "Pridať priateľa"
 
@@ -5403,7 +5403,7 @@ msgstr "Vyskytla sa chyba pri pridávaní do skupiny."
 msgid "You joined the group!"
 msgstr "Boli ste pridaní do skupiny!"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "Táto skupina musí mať aspoň jedného správcu"
 
@@ -5638,7 +5638,7 @@ msgid "Forum"
 msgstr "Fórum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "Požiadať o členstvo"
 

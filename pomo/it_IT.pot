@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:03:53+0000\n"
+"PO-Revision-Date: 2013-01-19 14:22:44+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Membri gruppo"
 msgid "New Groups"
 msgstr "Nuovi gruppi"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "La richiesta d'amicizia non può essere annullata."
 
@@ -325,11 +325,11 @@ msgstr "Il caricamento degli avatar è al momento disattivato. Perchè invece no
 msgid "Logged In Users"
 msgstr "Utenti loggati"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "registrato %s"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "Tuo Avatar"
 
@@ -407,7 +407,7 @@ msgstr "Si &egrave; verificato un errore aggiornando alcune informazioni del tuo
 msgid "Changes saved."
 msgstr "Cambiamenti salvati."
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "Si &egrave; verificato un errore tagliando il tuo avatar, riprova a caricarlo di nuovo"
 
@@ -423,7 +423,7 @@ msgstr "non ancora attivo"
 msgid "No Mods"
 msgstr "Nessun Mod"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "Il tuo nuovo avatar &egrave; stato caricato con successo!"
 
@@ -705,7 +705,7 @@ msgstr "Aggiungi Nuovo Campo Gruppo"
 msgid "No posts found. Try a different search?"
 msgstr "Nessun articolo trovato. Provare una ricerca differente?"
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "Feed RSS Attività"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Messaggio cancellato."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "Messaggi cancellati."
 
@@ -870,7 +870,7 @@ msgstr "Sì, mi piacerebbe creare un nuovo sito"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "Cambia Password <span>(lascia vuoto per non cambiare)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "Mai attivo"
 
@@ -970,7 +970,7 @@ msgstr "Tu"
 msgid "Please make sure you enter your password twice"
 msgstr "Assicurati di inserire la tua password due volte"
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "- &quot;%s &quot;"
@@ -1586,7 +1586,7 @@ msgstr "Directory Forum"
 msgid "Group"
 msgstr "Gruppo"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "Ban all&#8217;utente eliminato con successo"
 
@@ -1604,7 +1604,7 @@ msgstr "&rarr;"
 msgid "Public Group"
 msgstr "Gruppo Pubblico"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "Si &egrave; verificato un errore rimuovendo l'utente dal gruppo, per favore riprova"
 
@@ -1612,47 +1612,47 @@ msgstr "Si &egrave; verificato un errore rimuovendo l'utente dal gruppo, per fav
 msgid "Private Group"
 msgstr "Gruppo Privato"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "Utente rimosso con successo"
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "Si &egrave; verificato un errore accettando la richiesta d'adesione, per favore riprova."
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "Richiesta di adesione al Gruppo accettata"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "Si &egrave; verificato un errore rifiutando la richiesta d'adesione, per favore riprova."
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "Richiesta di adesione al Gruppo rifiutata"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "Si &egrave; verificato un errore cancellando il gruppo, per favore riprova."
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "Il gruppo &egrave; stato cancellato con successo"
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "Un membro ti ha invitato ad entrare in un gruppo"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "Informazioni Gruppo aggiornate"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "Sei stato promosso ad amministratore o moderatore del gruppo"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "Un membro ha richiesto di entrare nel gruppo privato per il quale tu sei amministratore"
 
@@ -1673,7 +1673,7 @@ msgstr "Taglia Avatar"
 msgid "Delete Avatar"
 msgstr "Cancella Avatar"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "Si &egrave; verificato un problema chiudendo l&#8217;avviso."
 
@@ -1837,12 +1837,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Spiacente, lo username non può contenere il carattere '_'!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "Entra nel Gruppo"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "Lascia Gruppo"
 
@@ -2046,8 +2046,8 @@ msgstr "Vedi Discussione / Permalink"
 msgid "In reply to: "
 msgstr "In risposta a:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2070,19 +2070,19 @@ msgstr "Stai vedendo %1$s gruppi di %2$s (su %3$s gruppi)"
 msgid "No Admins"
 msgstr "Nessun Admin"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "Si &egrave; verificato un errore sbannando questo utente, per favore riprova"
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "Utente bannato con successo"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "Utente degradato con successo"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "Si &egrave; verificato un errore bannando questo utente, per favore riprova"
 
@@ -2090,11 +2090,11 @@ msgstr "Si &egrave; verificato un errore bannando questo utente, per favore ripr
 msgid "Moderators"
 msgstr "Moderatori"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr "L'amicizia non può essere richiesta."
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2108,19 +2108,19 @@ msgstr "Le impostazioni sono state salvate."
 msgid "One of the password fields was empty."
 msgstr "Uno dei campi password è vuoto."
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "Errore entrando nel gruppo"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "Si &egrave; verificato un errore segnando i messaggi come letti."
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "Si &egrave; verificato un errore segnando i messaggi come non letti."
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Si &egrave; verificato un errore inviando questa risposta. Per favore riprova."
 
@@ -2128,11 +2128,11 @@ msgstr "Si &egrave; verificato un errore inviando questa risposta. Per favore ri
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> ha risposto <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Si è verificato un problema rifiutando questa richiesta. Per favore riprova."
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Si &egrave; verificato un problema accettando questa richiesta. Per favore riprova."
 
@@ -2145,7 +2145,7 @@ msgid "That email address is already taken."
 msgstr "Questo indirizzo email è già utilizzato."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "Inviato %s"
 
@@ -2170,11 +2170,11 @@ msgstr "Segna come Letto"
 msgid "My Friends <span>%s</span>"
 msgstr "Miei Amici <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "Errore uscendo dal gruppo"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "Si &egrave; verificato un problema cancellando i messaggi."
 
@@ -2229,8 +2229,8 @@ msgstr "Nessun cambiamento è stato fatto su questo account."
 msgid "The activity I've marked as a favorite."
 msgstr "Le attività che ho segnato come preferite."
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2258,12 +2258,12 @@ msgstr "Capacità"
 msgid "There was a problem posting your update, please try again."
 msgstr "C'è stato un problema nell'inserimento del tuo aggiornamento, per favore riprova."
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "Richieste in Attesa"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "Si è verificato un problema nella cancellazione. Per favore riprova."
 
@@ -2275,11 +2275,11 @@ msgstr "L'indirizzo email non può essere vuoto."
 msgid "Send a private message to this user."
 msgstr "Invia un messaggio privato a questo utente."
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "Errore richiedendo l&#8217;adesione"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "Richieste di Adesione"
 
@@ -2472,11 +2472,11 @@ msgstr ""
 "\n"
 "---------------------\n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "Utente promosso con successo"
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "Il nuovo avatar del gruppo &egrave; stato caricato con successo!"
 
@@ -2484,7 +2484,7 @@ msgstr "Il nuovo avatar del gruppo &egrave; stato caricato con successo!"
 msgid "Edit Group"
 msgstr "Modifica Gruppo"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "Si &egrave; verificato un errore tagliando l&#8217;avatar, per favore caricalo di nuovo"
 
@@ -2647,7 +2647,7 @@ msgstr "Non hai accesso a questo gruppo."
 msgid "You are not an admin of this group."
 msgstr "Non sei l'amministratore di questo gruppo."
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "Si &egrave; verificato un errore promuovendo questo utente, per favore riprova"
 
@@ -2659,7 +2659,7 @@ msgstr "Si &egrave; verificato un errore cancellando questo avatar, per favore r
 msgid "Your avatar was deleted successfully!"
 msgstr "Il tuo avatar &egrave; stato cancellato con successo!"
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "Si &egrave; verificato un errore abbassando il grado a questo utente, per favore riprova"
 
@@ -3159,7 +3159,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "Gli argomenti passati a %1$s dovrebbero essere in un array associativo. Vedere la documentazione in linea a %2$s per maggiori dettagli."
@@ -3241,7 +3241,7 @@ msgstr "Amici"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "Gruppi"
@@ -3268,8 +3268,8 @@ msgstr "Mie Attività"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3381,7 +3381,7 @@ msgid "You do not have access to this activity."
 msgstr "Non hai accesso a questa attività."
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3389,7 +3389,7 @@ msgid "Yes"
 msgstr "Si"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3450,7 +3450,7 @@ msgstr "Cancella"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3635,8 +3635,8 @@ msgstr "Immagine profilo dell'autore %s"
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3727,7 +3727,7 @@ msgstr "Commenti Recenti di %s"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4445,47 +4445,47 @@ msgstr "Mio Account"
 msgid "Avatar Image"
 msgstr "Immagine Avatar"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "Non ci sono errori, il file &egrave; stato caricato correttamente"
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "La tua immagine &egrave; pi&ugrave; grande della dimensione massima dei file permessa di:"
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "Il file caricato &egrave; stato solo parzialmente caricato"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "Nessun file &egrave; stato caricato"
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "Manca una cartella temporanea"
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "Il caricamento è fallito, per favore riprova. L'errore è stato: %s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "Il file che hai caricato &egrave; troppo grande. Per favore carica un file sotto %s"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "Per favore carica solo foto JPG, GIF o PNG."
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "Caricamento Fallito! L'errore è: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "Caricamento non riuscito! L'errore è stato: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4504,7 +4504,7 @@ msgid "Sign Up"
 msgstr "Registrati"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "Logout"
 
@@ -5150,7 +5150,7 @@ msgstr "Sei gi&agrave; amico con questo utente"
 msgid "You already have a pending friendship request with this user"
 msgstr "Hai gi&agrave; una richiesta d'amicizia in sospeso con questo utente"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "L&#8217;Amicizia non pu&ograve; essere cancellata."
 
@@ -5336,7 +5336,7 @@ msgid "%d friends"
 msgstr "%d amici"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "Annulla richiesta d'amicizia"
 
@@ -5351,8 +5351,8 @@ msgstr "Cancella Amicizia"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "Aggiungi Amico"
 
@@ -5392,7 +5392,7 @@ msgstr "Si &egrave; verificato un errore entrando nel gruppo."
 msgid "You joined the group!"
 msgstr "Sei entrato nel gruppo!"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "Questo gruppo deve avere almeno un amministratore"
 
@@ -5626,7 +5626,7 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "Richiesta di Adesione"
 

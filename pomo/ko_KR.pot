@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:03:48+0000\n"
+"PO-Revision-Date: 2013-01-19 14:22:41+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "그룹 회원"
 msgid "New Groups"
 msgstr "새 그룹"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "친구 관계 요청을 취소할 수 없습니다."
 
@@ -325,11 +325,11 @@ msgstr "아바타 업로드가 현재 불가능합니다. 대신에 <a href=\"ht
 msgid "Logged In Users"
 msgstr "로그인 사용자"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "등록된 %s"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "당신의 아바타"
 
@@ -407,7 +407,7 @@ msgstr "프로필 정보를 업데이트하는데 문제가 발생했습니다. 
 msgid "Changes saved."
 msgstr "변경사항이 저장됐습니다."
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "아바타를 자르는데 문제가 발생했습니다. 다시 업로드 해보세요"
 
@@ -423,7 +423,7 @@ msgstr "아직 비활성"
 msgid "No Mods"
 msgstr "조정자 없음"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "새 아바타가 성공적으로 업로드 됐습니다!"
 
@@ -705,7 +705,7 @@ msgstr "새 필드 그룹 추가"
 msgid "No posts found. Try a different search?"
 msgstr "글을 찾을 수 없습니다. 다른 검색을 해보세요."
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "활동 RSS 피드"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "메시지 삭제됨."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "메시지 삭제됨"
 
@@ -870,7 +870,7 @@ msgstr "네, 새 사이트를 생성하고 싶습니다"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "비밀번호 변경 <span>(변경이 없으면 비워두세요)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "활성된 적 없음"
 
@@ -970,7 +970,7 @@ msgstr "회원"
 msgid "Please make sure you enter your password twice"
 msgstr "반드시 비밀번호를 두번 입력하세요"
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "- &quot;%s &quot;"
@@ -1584,7 +1584,7 @@ msgstr "포럼 디렉토리"
 msgid "Group"
 msgstr "그룹"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "사용자 차단이 성공적으로 제거됐습니다"
 
@@ -1602,7 +1602,7 @@ msgstr "&rarr;"
 msgid "Public Group"
 msgstr "공개 그룹"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "해당 사용자를 그룹에서 제거하는데 에러가 발생했습니다. 다시 해보세요"
 
@@ -1610,47 +1610,47 @@ msgstr "해당 사용자를 그룹에서 제거하는데 에러가 발생했습�
 msgid "Private Group"
 msgstr "개인 그룹"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "사용자가 성공적으로 제거됐습니다"
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "회원 가입 요청을 수락하는데 에러가 발생했습니다. 다시 해보세요."
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "그룹 회원 가입 요청이 수락 됐습니다"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "회원 가입 요청을 거절하는데 에러가 발생했습니다. 다시 해보세요."
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "그룹 회원 가입 요청이 거절됐습니다"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "그룹을 삭제하는데 에러가 발생했습니다. 다시 해보세요."
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "그룹이 성공적으로 삭제됐습니다."
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "회원이 그룹에 당신을 참여하도록 초대했습니다"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "그룹 정보가 업데이트 됐습니다"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "그룹 관리자 또는 조정자로 승격됐습니다"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "회원이 당신이 관리자인 개인 그룹에 참여하기를 요청했습니다."
 
@@ -1671,7 +1671,7 @@ msgstr "아바타 자르기"
 msgid "Delete Avatar"
 msgstr "아바타 삭제"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "해당 공지를 닫는데 문제가 발생했습니다."
 
@@ -1835,12 +1835,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "죄송합니다. 사용자명은 \"_\" 글자를 포함할 수 없습니다!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "그룹 참가"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "그룹 탈퇴"
 
@@ -2044,8 +2044,8 @@ msgstr "쓰레드 / 고유주소 보기"
 msgid "In reply to: "
 msgstr "응답:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2068,19 +2068,19 @@ msgstr "%1$s에서 %2$s까지 그룹 보임 (%3$s 그룹 중에서)"
 msgid "No Admins"
 msgstr "관리자 없음"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "해당 사용자를 차단에서 해제하는데 에러가 발생했습니다. 다시 해보세요"
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "사용자가 성공적으로 차단됐습니다"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "사용자가 성공적으로 등급 하락됐습니다"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "해당 사용자를 차단하는데 에러가 발생했습니다. 다시 해보세요"
 
@@ -2088,11 +2088,11 @@ msgstr "해당 사용자를 차단하는데 에러가 발생했습니다. 다시
 msgid "Moderators"
 msgstr "조정자"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr "친구 관계를 요청할 수 없습니다."
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2106,19 +2106,19 @@ msgstr "설정이 저장됐습니다."
 msgid "One of the password fields was empty."
 msgstr "비밀번호 란 중 하나가 비어있습니다."
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "그룹 참가에 에러 발생"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "메시지를 읽음으로 표시하는데 문제가 발생했습니다."
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "메시지를 읽지 않음으로 표시하는데 문제가 발생했습니다."
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "해당 응답을 보내는데 문제가 발생했습니다. 다시 해보세요."
 
@@ -2126,11 +2126,11 @@ msgstr "해당 응답을 보내는데 문제가 발생했습니다. 다시 해�
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> 응답됨 <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "해당 요청을 거절하는데 문제가 발생했습니다. 다시 해보세요."
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "해당 요청을 수락하는데 문제가 발생했습니다. 다시 해보세요."
 
@@ -2143,7 +2143,7 @@ msgid "That email address is already taken."
 msgstr "해당 이메일 주소는 이미 다른 사람이 사용하고 있습니다."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "%s 발송"
 
@@ -2168,11 +2168,11 @@ msgstr "읽음으로 표시"
 msgid "My Friends <span>%s</span>"
 msgstr "내 친구들 <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "그룹 탈퇴 중 에러"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "메시지를 삭제하는데 문제가 발생했습니다."
 
@@ -2227,8 +2227,8 @@ msgstr "이 계정에 변경이 없습니다."
 msgid "The activity I've marked as a favorite."
 msgstr "내가 즐겨찾기로 처리한 활동"
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2256,12 +2256,12 @@ msgstr "권한"
 msgid "There was a problem posting your update, please try again."
 msgstr "업데이트를 게시하는데 문제가 발생했습니다. 다시 해보세요."
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "요청이 대기중입니다"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "삭제하는데 문제가 발생했습니다. 다시 해보세요."
 
@@ -2273,11 +2273,11 @@ msgstr "이메일 주소는 있어야합니다."
 msgid "Send a private message to this user."
 msgstr "해당 사용자에게 개인 메시지 보내기"
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "회원 요청중 에러 발생"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "회원 가입 요청됨"
 
@@ -2470,11 +2470,11 @@ msgstr ""
 "\n"
 "---------------------\n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "사용자가 성공적으로 승격됐습니다"
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "새 그룹 아바타가 성공적으로 업로드 됐습니다."
 
@@ -2482,7 +2482,7 @@ msgstr "새 그룹 아바타가 성공적으로 업로드 됐습니다."
 msgid "Edit Group"
 msgstr "그룹 편집"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "아바타를 자르는데 문제가 발생했습니다. 다시 업로드해보세요"
 
@@ -2645,7 +2645,7 @@ msgstr "이 그룹에 접근할 수 없습니다."
 msgid "You are not an admin of this group."
 msgstr "이 그룹의 관리자가 아닙니다."
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "해당 사용자를 승격하는데 에러가 발생했습니다. 다시 해보세요"
 
@@ -2657,7 +2657,7 @@ msgstr "해당 아바타늘 삭제하는데 문제가 발생했습니다. 다시
 msgid "Your avatar was deleted successfully!"
 msgstr "아바타가 성공적으로 삭제 됐습니다!"
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "해당 사용자를 등급하락하는데 에러가 발생했습니다. 다시 해보세요"
 
@@ -3153,7 +3153,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "%1$s의 매개변수는 연상 배열(associative array)에 있어야합니다. 상세 정보는 %2$s의 내부 문서 도움말을 참고하세요."
@@ -3235,7 +3235,7 @@ msgstr "친구"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "그룹"
@@ -3262,8 +3262,8 @@ msgstr "내 활동"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3375,7 +3375,7 @@ msgid "You do not have access to this activity."
 msgstr "이 활동에 접근할 수 없습니다."
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3383,7 +3383,7 @@ msgid "Yes"
 msgstr "네"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3444,7 +3444,7 @@ msgstr "삭제"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3629,8 +3629,8 @@ msgstr "사이트 글쓴이 %s의 프로필 사진"
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3721,7 +3721,7 @@ msgstr "%s의 최근 댓글"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4435,47 +4435,47 @@ msgstr "내 계정"
 msgid "Avatar Image"
 msgstr "아바타 이미지"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "에러가 없습니다. 파일이 성공적으로 업로드 됐습니다."
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "당신의 이미지는 허용된 최대 크기보다 큽니다:"
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "업로드된 파일은 일부만 업로드 됐습니다"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "파일이 업로드되지 않았습니다"
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "임시 폴더가 없습니다"
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "업로드가 실패했습니다. 다시 해주세요. 에러:%s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "업로드한 파일이 너무 큽니다. %s 이하의 파일을 업로드 해주세요"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "JPG, GIF 또는 PNG 사진만 업로드 해주세요."
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "업로드가 실패했습니다! 에러: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "업로드가 실패했습니다! 에러: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4494,7 +4494,7 @@ msgid "Sign Up"
 msgstr "회원가입"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "로그아웃"
 
@@ -5139,7 +5139,7 @@ msgstr "이 사용자와 이미 친구입니다"
 msgid "You already have a pending friendship request with this user"
 msgstr "이 사용자와 이미 친구 관계 요청을 했습니다"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "친구 관계를 취소할 수 없습니다."
 
@@ -5325,7 +5325,7 @@ msgid "%d friends"
 msgstr "%d 친구"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "친구 관계 요청 취소"
 
@@ -5340,8 +5340,8 @@ msgstr "친구 관계 취소"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "친구 추가"
 
@@ -5381,7 +5381,7 @@ msgstr "그룹에 참가하는데 에러가 발생했습니다."
 msgid "You joined the group!"
 msgstr "그룹에 참가했습니다!"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "이 그룹은 최소한 하나의 관리자가 있어야합니다"
 
@@ -5615,7 +5615,7 @@ msgid "Forum"
 msgstr "포럼"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "회원 가입 요청"
 

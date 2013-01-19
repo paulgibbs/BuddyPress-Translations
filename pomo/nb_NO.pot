@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:03:51+0000\n"
+"PO-Revision-Date: 2013-01-19 14:22:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Gruppemedlemskap"
 msgid "New Groups"
 msgstr "Nye grupper"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "Vennskapsforespørsel kunne ikke kanselleres."
 
@@ -325,11 +325,11 @@ msgstr "Avatar-opplasting er deaktivert. Hvorfor ikke bruke en <a href=\"http://
 msgid "Logged In Users"
 msgstr "Innloggede brukere"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "registrerte %s"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "Din avatar"
 
@@ -407,7 +407,7 @@ msgstr "Det oppstod en feil ved oppdatering av profil-informasjonen din. Prøv i
 msgid "Changes saved."
 msgstr "Endringer ble lagret."
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "Det oppstod en feil ved beskjæring av avatar. Vennligst prøv å laste opp igjen."
 
@@ -423,7 +423,7 @@ msgstr "Ikke aktiv ennå"
 msgid "No Mods"
 msgstr "Ingen moderatorer"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "Dine nye avatar ble lastet opp!"
 
@@ -705,7 +705,7 @@ msgstr "Legg til ny feltgruppe"
 msgid "No posts found. Try a different search?"
 msgstr "Ingen poster funnet. Prøv et annet søk?"
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "Aktivitet RSS Strøm"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Melding slettet."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "Meldinger slettet."
 
@@ -870,7 +870,7 @@ msgstr "Ja, jeg vil lage et nytt nettsted"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "Endre passord <span>(la dette være blankt for å ikke endre)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "Aldri aktiv"
 
@@ -970,7 +970,7 @@ msgstr "Du"
 msgid "Please make sure you enter your password twice"
 msgstr "Vennligst påse at du taster inn passord to ganger."
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "-&quot;%s &quot;"
@@ -1586,7 +1586,7 @@ msgstr "Forumkatalog"
 msgid "Group"
 msgstr "Gruppe"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "Utestengelse av bruker ble opphevet."
 
@@ -1604,7 +1604,7 @@ msgstr "&rarr;"
 msgid "Public Group"
 msgstr "Offentlig gruppe"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "Det oppsto en feil ved fjerning av bruker fra gruppen, vennligst prøv igjen"
 
@@ -1612,47 +1612,47 @@ msgstr "Det oppsto en feil ved fjerning av bruker fra gruppen, vennligst prøv i
 msgid "Private Group"
 msgstr "Privat gruppe"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "Utestengelse av bruker ble opphevet."
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "Det oppsto en feil ved akseptering av medlemskap-forespørsel, vennligst prøv igjen."
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "Gruppemedlemskap-forespørsel akseptert"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "Det oppsto en fel ved avslåing av gruppemedlemskap-forespørsel, vennligst prøv igjen."
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "Gruppemedlemskap-forespørsel avslått"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "Det oppsto en feil ved sletting av gruppe, vennligst prøv igjen."
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "Gruppen ble slettet"
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "Et medlem inviterer deg til å bli medlem av en gruppe"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "Gruppeinformasjon oppdatert"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "Du er oppgradert til gruppe-administrator eller moderator"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "Et medlem forespør medlemskap i en privat gruppe som du er admin for"
 
@@ -1673,7 +1673,7 @@ msgstr "Beskjær avatar"
 msgid "Delete Avatar"
 msgstr "Slett avatar"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "Det oppsto en feil når varslingen skulle lukkes."
 
@@ -1837,12 +1837,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Beklager, brukernavn kan ikke inneholde tegnet \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "Bli medlem av gruppe"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "Forlat gruppe"
 
@@ -2046,8 +2046,8 @@ msgstr "Vis tråd / permalenke"
 msgid "In reply to: "
 msgstr "Som svar til:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2070,19 +2070,19 @@ msgstr "Viser gruppe %1$s til %2$s (av %3$s grupper)"
 msgid "No Admins"
 msgstr "Ingen administratorer"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "Det oppsto en fel ved avbrytelse av utesteningen av brukeren, vennligst prøv igjen."
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "Bruker ble utestengt"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "Bruker ble nedgradert"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "Det oppsto en feil ved utestenging av brukeren, vennligst prøv igjen."
 
@@ -2090,11 +2090,11 @@ msgstr "Det oppsto en feil ved utestenging av brukeren, vennligst prøv igjen."
 msgid "Moderators"
 msgstr "Moderatorer"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr " Vennskapsforespørsel kunne ikke sendes"
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2108,19 +2108,19 @@ msgstr "Dine innstillinger har blitt lagret."
 msgid "One of the password fields was empty."
 msgstr "Et av passordfeltene var tomt."
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "Feil ved innmelding i gruppe"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "Det oppsto en feil ved markering av melding som lest."
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "Det oppsto en fel ved markering av melding som ulest."
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Det oppsto en feil ved sending av svar, vennligst prøv igjen."
 
@@ -2128,11 +2128,11 @@ msgstr "Det oppsto en feil ved sending av svar, vennligst prøv igjen."
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> svarte <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Det oppsto en feil ved avslåing av forespørsel, vennligst prøv igjen."
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Det oppsto en feil ved akseptering av forespørsel, vennligst prøv igjen."
 
@@ -2145,7 +2145,7 @@ msgid "That email address is already taken."
 msgstr "Den e-postadressen er allerede i bruk."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "Sendt %s"
 
@@ -2170,11 +2170,11 @@ msgstr "Marker som lest"
 msgid "My Friends <span>%s</span>"
 msgstr "Mine venner <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "Feil ved utmelding fra gruppe"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "Det oppsto en feil ved sletting av melding."
 
@@ -2229,8 +2229,8 @@ msgstr "Ingen endringer ble gjort i denne kontoen."
 msgid "The activity I've marked as a favorite."
 msgstr "Aktivitet jeg har markert som favoritt."
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2258,12 +2258,12 @@ msgstr "Brukermandater"
 msgid "There was a problem posting your update, please try again."
 msgstr "Det oppsto en feil ved posting av din oppdatering, vennligst prøv igjen."
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "Forespørsel venter"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "Det oppsto en feil ved sletting, vennligst prøv igjen."
 
@@ -2275,11 +2275,11 @@ msgstr "E-postadressen kan ikke være tom."
 msgid "Send a private message to this user."
 msgstr "Send en privat melding til denne brukeren."
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "Feil ved medlemskap-forespørsel"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "Medlemskap forespurt"
 
@@ -2472,11 +2472,11 @@ msgstr ""
 "\n"
 "---------------------\n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "Bruker ble oppgradert."
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "Den nye gruppe-avataren ble lastet opp!"
 
@@ -2484,7 +2484,7 @@ msgstr "Den nye gruppe-avataren ble lastet opp!"
 msgid "Edit Group"
 msgstr "Rediger gruppe"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "Det skjedde en feil ved beskjæring av avatar, vennligst prøv å laste opp igjen"
 
@@ -2647,7 +2647,7 @@ msgstr "Du har ikke tilgang til denne gruppen."
 msgid "You are not an admin of this group."
 msgstr "Du er ikke admin i denne gruppen."
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "Det oppsto en feil ved oppgradering av brukeren, vennligst prøv igjen."
 
@@ -2659,7 +2659,7 @@ msgstr "Det oppsto en feil ved sletting av avatar, vennligst prøv igjen."
 msgid "Your avatar was deleted successfully!"
 msgstr "Din avatar ble slettet."
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "Det oppsto en feil ved nedgradering av brukeren, vennligst prøv igjen"
 
@@ -3159,7 +3159,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "Argumenter gått til %1$ bør være i en assosiativ liste. Se innebygd dokumentasjon på %2$ for flere detaljer."
@@ -3241,7 +3241,7 @@ msgstr "Venner"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "Grupper"
@@ -3268,8 +3268,8 @@ msgstr "Min Aktivitet"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3381,7 +3381,7 @@ msgid "You do not have access to this activity."
 msgstr "Du har ikke nok rettigheter til denne aktiviteten."
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3389,7 +3389,7 @@ msgid "Yes"
 msgstr "Ja"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3450,7 +3450,7 @@ msgstr "Slett"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3635,8 +3635,8 @@ msgstr "Profilbilde til nettstedsforfatter %s"
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3727,7 +3727,7 @@ msgstr "De siste kommentarene til %s"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4445,47 +4445,47 @@ msgstr "Min konto"
 msgid "Avatar Image"
 msgstr "Avatar-bilde"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "Det er ingen feil, filen ble lastet opp med suksess"
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "Ditt bilde var større en maksimum tillatt størrelse som er: "
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "Filen ble bare delvis lastet opp"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "Ingen fil ble lastet opp."
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "Mangler en midlertidig mappe."
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "Opplasting feilet, vennligst prøv igjen. Feilmelding var: %s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "Filen du lastet opp er for stor. Vennligst last opp en fil under %s"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "Vennligst kun last opp JPG, GIF eller PNG bilder."
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "Opplasting feilet! Feilen var: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "Opplastingen mislyktes! Feilen var: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4504,7 +4504,7 @@ msgid "Sign Up"
 msgstr "Registrer"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "Logg ut"
 
@@ -5150,7 +5150,7 @@ msgstr "Du er allerede venn med denne brukeren"
 msgid "You already have a pending friendship request with this user"
 msgstr "Du har allerede en ventende vennskapsforespørsel til denne brukeren"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "Vennskap kunne ikke bli kansellert."
 
@@ -5336,7 +5336,7 @@ msgid "%d friends"
 msgstr "%d venner"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "Kanseller vennskapsforespørsel"
 
@@ -5351,8 +5351,8 @@ msgstr "Avbryt vennskap"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "Legg til venn"
 
@@ -5392,7 +5392,7 @@ msgstr "Det oppsto en feil ved tilslutting av gruppe."
 msgid "You joined the group!"
 msgstr "Du meldte deg inn i gruppen!"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "Denne gruppen trenger minst én administrator"
 
@@ -5626,7 +5626,7 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "Forespør medlemskap"
 

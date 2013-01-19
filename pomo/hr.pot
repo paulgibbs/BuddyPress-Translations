@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-11-19 10:03:33+0000\n"
+"PO-Revision-Date: 2013-01-19 14:23:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +35,7 @@ msgstr "Registracija web stranice je trenutno onesposobljena"
 
 #: bp-themes/bp-default/blogs/blogs-loop.php:90
 msgid "Sorry, there were no sites found."
-msgstr "Izvinjavamo se, nismo pronašli web stranice."
+msgstr "Ispričavamo se, nismo pronašli tražene stranice."
 
 #: bp-themes/bp-default/comments.php:3
 msgid "Password Protected"
@@ -149,7 +149,7 @@ msgstr "Učlanjen u grupe"
 msgid "New Groups"
 msgstr "Nove Grupe"
 
-#: bp-themes/bp-default/_inc/ajax.php:618
+#: bp-themes/bp-default/_inc/ajax.php:619
 msgid "Friendship request could not be cancelled."
 msgstr "Zahtjev za prijateljstvom ne može biti otkazan."
 
@@ -325,11 +325,11 @@ msgstr "Avatar slike trenutno onemogućen. Zašto ne koristite <a href=\"http://
 msgid "Logged In Users"
 msgstr "Prijavljeni korisnici"
 
-#: bp-members/bp-members-template.php:634
+#: bp-members/bp-members-template.php:635
 msgid "registered %s"
 msgstr "registrirano %s"
 
-#: bp-members/bp-members-template.php:1076
+#: bp-members/bp-members-template.php:1077
 msgid "Your Avatar"
 msgstr "Vaš Avatar"
 
@@ -407,7 +407,7 @@ msgstr "Došlo je do problema prilikom ažuriranja podataka na vašem profilu, m
 msgid "Changes saved."
 msgstr "Promjene snimljene."
 
-#: bp-xprofile/bp-xprofile-screens.php:180
+#: bp-xprofile/bp-xprofile-screens.php:183
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "Došlo je do problema izrezivanja Vašeg ​​avatara, pokušajte ga ponovo prenijeti"
 
@@ -423,7 +423,7 @@ msgstr "još nije aktivan"
 msgid "No Mods"
 msgstr "Bez Moderatora"
 
-#: bp-xprofile/bp-xprofile-screens.php:182
+#: bp-xprofile/bp-xprofile-screens.php:185
 msgid "Your new avatar was uploaded successfully!"
 msgstr "Vaš novi avatar je uspješno postavljen!"
 
@@ -705,7 +705,7 @@ msgstr "Dodaj Novu Grupu Polja"
 msgid "No posts found. Try a different search?"
 msgstr "Nema pronađenih postova. Pokušajte drugu pretragu?"
 
-#: bp-members/bp-members-template.php:1146
+#: bp-members/bp-members-template.php:1147
 msgid "Activity RSS Feed"
 msgstr "RSS Izvještaj Aktivnosti"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Poruka obrisana."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:853
+#: bp-themes/bp-default/_inc/ajax.php:854
 msgid "Messages deleted."
 msgstr "Poruka obrisana."
 
@@ -870,7 +870,7 @@ msgstr "Da, želim kreirati novu web stranicu"
 msgid "Change Password <span>(leave blank for no change)</span>"
 msgstr "Promjeni Lozinku <span>(ostavite prazno ako ne želite promjenu)</span>"
 
-#: bp-members/bp-members-template.php:555
+#: bp-members/bp-members-template.php:556
 msgid "Never active"
 msgstr "Nikad aktivno"
 
@@ -970,7 +970,7 @@ msgstr "Ti"
 msgid "Please make sure you enter your password twice"
 msgstr "Molimo osigurajte da ste unijeli lozinku dva puta."
 
-#: bp-members/bp-members-template.php:577
+#: bp-members/bp-members-template.php:578
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
 msgstr "- &quot;%s &quot;"
@@ -1588,7 +1588,7 @@ msgstr "Direktorij foruma"
 msgid "Group"
 msgstr "Grupa"
 
-#: bp-groups/bp-groups-screens.php:702
+#: bp-groups/bp-groups-screens.php:705
 msgid "User ban removed successfully"
 msgstr "Uspješno poništavanje zabrane korisnika"
 
@@ -1606,7 +1606,7 @@ msgstr "&larr;"
 msgid "Public Group"
 msgstr "Javna Grupa"
 
-#: bp-groups/bp-groups-screens.php:718
+#: bp-groups/bp-groups-screens.php:721
 msgid "There was an error removing that user from the group, please try again"
 msgstr "Došlo je do pogreške prilikom uklanjanja korisnika iz grupe, molimo pokušajte ponovno"
 
@@ -1614,47 +1614,47 @@ msgstr "Došlo je do pogreške prilikom uklanjanja korisnika iz grupe, molimo po
 msgid "Private Group"
 msgstr "Privatna Grupa"
 
-#: bp-groups/bp-groups-screens.php:720
+#: bp-groups/bp-groups-screens.php:723
 msgid "User removed successfully"
 msgstr "Korisnik uspješno uklonjen"
 
-#: bp-groups/bp-groups-screens.php:758
+#: bp-groups/bp-groups-screens.php:761
 msgid "There was an error accepting the membership request, please try again."
 msgstr "Došlo je do pogreške prihvaćanja zahtjeva za članstvo, molimo pokušajte ponovno."
 
-#: bp-groups/bp-groups-screens.php:760
+#: bp-groups/bp-groups-screens.php:763
 msgid "Group membership request accepted"
 msgstr "Grupni zahtjev za članstvo prihvaćen"
 
-#: bp-groups/bp-groups-screens.php:769
+#: bp-groups/bp-groups-screens.php:772
 msgid "There was an error rejecting the membership request, please try again."
 msgstr "Došlo je do pogreške odbijanja zahtjeva za članstvo, molimo pokušajte ponovno."
 
-#: bp-groups/bp-groups-screens.php:771
+#: bp-groups/bp-groups-screens.php:774
 msgid "Group membership request rejected"
 msgstr "Grupni zahtjev za članstvo odbačen"
 
-#: bp-groups/bp-groups-screens.php:801
+#: bp-groups/bp-groups-screens.php:804
 msgid "There was an error deleting the group, please try again."
 msgstr "Došlo je do pogreške prilikom brisanja grupe, molimo pokušajte ponovno."
 
-#: bp-groups/bp-groups-screens.php:803
+#: bp-groups/bp-groups-screens.php:806
 msgid "The group was deleted successfully"
 msgstr "Grupa je uspješno izbrisana"
 
-#: bp-groups/bp-groups-screens.php:853
+#: bp-groups/bp-groups-screens.php:856
 msgid "A member invites you to join a group"
 msgstr "Član te pozove da se pridružiš grupi"
 
-#: bp-groups/bp-groups-screens.php:859
+#: bp-groups/bp-groups-screens.php:862
 msgid "Group information is updated"
 msgstr "Informacije o grupi promjene"
 
-#: bp-groups/bp-groups-screens.php:865
+#: bp-groups/bp-groups-screens.php:868
 msgid "You are promoted to a group administrator or moderator"
 msgstr "Kada si promoviran u administratora grupe ili moderatora"
 
-#: bp-groups/bp-groups-screens.php:871
+#: bp-groups/bp-groups-screens.php:874
 msgid "A member requests to join a private group for which you are an admin"
 msgstr "Član zatraži pridruživanje privatnoj grupi u kojoj si admin"
 
@@ -1675,7 +1675,7 @@ msgstr "Izrežite Avatar"
 msgid "Delete Avatar"
 msgstr "Izbriši Avatar"
 
-#: bp-themes/bp-default/_inc/ajax.php:726
+#: bp-themes/bp-default/_inc/ajax.php:727
 msgid "There was a problem closing the notice."
 msgstr "Postoji problem zatvaranja obavijesti."
 
@@ -1839,12 +1839,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Nažalost, korisničko ime ne smije sadržavati znak \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:706
+#: bp-themes/bp-default/_inc/ajax.php:707
 msgid "Join Group"
 msgstr "Pridruži se Grupi"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:689
+#: bp-themes/bp-default/_inc/ajax.php:690
 msgid "Leave Group"
 msgstr "Napusti Grupu"
 
@@ -2048,8 +2048,8 @@ msgstr "Pogledaj poruku / trajni link"
 msgid "In reply to: "
 msgstr "Odgovor na:"
 
-#: bp-themes/bp-default/_inc/ajax.php:478
-#: bp-themes/bp-default/_inc/ajax.php:499
+#: bp-themes/bp-default/_inc/ajax.php:479
+#: bp-themes/bp-default/_inc/ajax.php:500
 #: bp-themes/bp-default/activity/entry.php:72
 #: bp-themes/bp-default/functions.php:167
 msgid "Remove Favorite"
@@ -2072,19 +2072,19 @@ msgstr "Prikazujem grupu %1$s do %2$s (od %3$s grupa)"
 msgid "No Admins"
 msgstr "Nema Admina"
 
-#: bp-groups/bp-groups-screens.php:700
+#: bp-groups/bp-groups-screens.php:703
 msgid "There was an error when unbanning that user, please try again"
 msgstr "Došlo je do pogreške prilikom poništavanje zabrane korisnika, molimo pokušajte ponovo"
 
-#: bp-groups/bp-groups-screens.php:684
+#: bp-groups/bp-groups-screens.php:687
 msgid "User banned successfully"
 msgstr "Korisnik uspješno zabranjen"
 
-#: bp-groups/bp-groups-screens.php:666
+#: bp-groups/bp-groups-screens.php:669
 msgid "User demoted successfully"
 msgstr "Korisniku uspješno snižen rank"
 
-#: bp-groups/bp-groups-screens.php:682
+#: bp-groups/bp-groups-screens.php:685
 msgid "There was an error when banning that user, please try again"
 msgstr "Došlo je do pogreške prilikom zabranjivanja korisnika, molimo pokušajte ponovno"
 
@@ -2092,11 +2092,11 @@ msgstr "Došlo je do pogreške prilikom zabranjivanja korisnika, molimo pokušaj
 msgid "Moderators"
 msgstr "Moderatori"
 
-#: bp-themes/bp-default/_inc/ajax.php:608
+#: bp-themes/bp-default/_inc/ajax.php:609
 msgid " Friendship could not be requested."
 msgstr "Prijateljstvo ne može biti zatraženo."
 
-#: bp-themes/bp-default/_inc/ajax.php:569
+#: bp-themes/bp-default/_inc/ajax.php:570
 #: bp-themes/bp-default/groups/create.php:229
 #: bp-themes/bp-default/groups/single/send-invites.php:42
 msgid "Remove Invite"
@@ -2110,19 +2110,19 @@ msgstr "Vaše postavke su spremljene"
 msgid "One of the password fields was empty."
 msgstr "Jedno od polja lozinke je prazano."
 
-#: bp-themes/bp-default/_inc/ajax.php:687
+#: bp-themes/bp-default/_inc/ajax.php:688
 msgid "Error joining group"
 msgstr "Pogreška prilikom učlanjivanja u grupu"
 
-#: bp-themes/bp-default/_inc/ajax.php:820
+#: bp-themes/bp-default/_inc/ajax.php:821
 msgid "There was a problem marking messages as read."
 msgstr "Došlo je do problema obilježavanja poruke kao pročitane."
 
-#: bp-themes/bp-default/_inc/ajax.php:795
+#: bp-themes/bp-default/_inc/ajax.php:796
 msgid "There was a problem marking messages as unread."
 msgstr "Došlo je do problema obilježavanja poruke kao nepročitane."
 
-#: bp-themes/bp-default/_inc/ajax.php:777
+#: bp-themes/bp-default/_inc/ajax.php:778
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Došlo je do problema prilikom slanja tog odgovora. Molimo pokušajte ponovno."
 
@@ -2130,11 +2130,11 @@ msgstr "Došlo je do problema prilikom slanja tog odgovora. Molimo pokušajte po
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> je odgovorio <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:660
+#: bp-themes/bp-default/_inc/ajax.php:661
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Došlo je do pproblema prilikom odbijanja zahtjeva. Molimo pokušajte ponovo."
 
-#: bp-themes/bp-default/_inc/ajax.php:641
+#: bp-themes/bp-default/_inc/ajax.php:642
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Došlo je do pproblema prilikom prihvaćanja zahtjeva. Molimo pokušajte ponovo."
 
@@ -2147,7 +2147,7 @@ msgid "That email address is already taken."
 msgstr "Ova email adresa je već zauzeta."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:760
+#: bp-themes/bp-default/_inc/ajax.php:761
 msgid "Sent %s"
 msgstr "Poslano %s"
 
@@ -2172,11 +2172,11 @@ msgstr "Označi kao Pročitano"
 msgid "My Friends <span>%s</span>"
 msgstr "Moji prijatelji <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:704
+#: bp-themes/bp-default/_inc/ajax.php:705
 msgid "Error leaving group"
 msgstr "Pogreška prilikom napuštanja grupe"
 
-#: bp-themes/bp-default/_inc/ajax.php:845
+#: bp-themes/bp-default/_inc/ajax.php:846
 msgid "There was a problem deleting messages."
 msgstr "Došlo je do problema u brisanju poruke."
 
@@ -2231,8 +2231,8 @@ msgstr "Nije bilo promjena na Vašem računu."
 msgid "The activity I've marked as a favorite."
 msgstr "Aktivnost označena kao favorit."
 
-#: bp-themes/bp-default/_inc/ajax.php:480
-#: bp-themes/bp-default/_inc/ajax.php:497
+#: bp-themes/bp-default/_inc/ajax.php:481
+#: bp-themes/bp-default/_inc/ajax.php:498
 #: bp-themes/bp-default/activity/entry.php:68
 #: bp-themes/bp-default/functions.php:166
 msgid "Favorite"
@@ -2260,12 +2260,12 @@ msgstr "Mogućnosti"
 msgid "There was a problem posting your update, please try again."
 msgstr "Došlo je do problema prilikom objavljivanja vaših novosti, molimo pokušjte ponovo."
 
-#: bp-themes/bp-default/_inc/ajax.php:621
+#: bp-themes/bp-default/_inc/ajax.php:622
 msgid "Request Pending"
 msgstr "Zahtjev u toku"
 
-#: bp-themes/bp-default/_inc/ajax.php:379
-#: bp-themes/bp-default/_inc/ajax.php:415
+#: bp-themes/bp-default/_inc/ajax.php:380
+#: bp-themes/bp-default/_inc/ajax.php:416
 msgid "There was a problem when deleting. Please try again."
 msgstr "Došlo je do problema prilikom brisanja. Molimo pokušajte ponovno."
 
@@ -2277,11 +2277,11 @@ msgstr "E-mail adresa ne može biti prazna."
 msgid "Send a private message to this user."
 msgstr "Pošalji privatnu poruku ovom korisniku."
 
-#: bp-themes/bp-default/_inc/ajax.php:695
+#: bp-themes/bp-default/_inc/ajax.php:696
 msgid "Error requesting membership"
 msgstr "Pogreška prilikom zahtjevanja članstva"
 
-#: bp-themes/bp-default/_inc/ajax.php:697
+#: bp-themes/bp-default/_inc/ajax.php:698
 msgid "Membership Requested"
 msgstr "Članstvo Zahtjevano"
 
@@ -2474,11 +2474,11 @@ msgstr ""
 "\n"
 "--------------------- \n"
 
-#: bp-groups/bp-groups-screens.php:641
+#: bp-groups/bp-groups-screens.php:644
 msgid "User promoted successfully"
 msgstr "Korisnik je unaprijeđen uspješno"
 
-#: bp-groups/bp-groups-screens.php:604
+#: bp-groups/bp-groups-screens.php:607
 msgid "The new group avatar was uploaded successfully!"
 msgstr "Novi avatar grupe je uspješno prenešen!"
 
@@ -2486,7 +2486,7 @@ msgstr "Novi avatar grupe je uspješno prenešen!"
 msgid "Edit Group"
 msgstr "Uredi Grupu"
 
-#: bp-groups/bp-groups-screens.php:602
+#: bp-groups/bp-groups-screens.php:605
 msgid "There was a problem cropping the avatar, please try uploading it again"
 msgstr "Došlo je do problema prilikom izrezivanja vašeg avatra, molimo pokušajte ga učitati ponovo"
 
@@ -2649,7 +2649,7 @@ msgstr "Nemate pristup ovoj grupi."
 msgid "You are not an admin of this group."
 msgstr "Niste admin ove grupe."
 
-#: bp-groups/bp-groups-screens.php:639
+#: bp-groups/bp-groups-screens.php:642
 msgid "There was an error when promoting that user, please try again"
 msgstr "Došlo je do pogreške prilikom promoviranja tog korisnika, molimo pokušajte ponovno"
 
@@ -2661,7 +2661,7 @@ msgstr "Došlo je do pogreške prilikom brisanja vašeg avatara, molimo pokušaj
 msgid "Your avatar was deleted successfully!"
 msgstr "Vaš avatar je uspješno obrisan!"
 
-#: bp-groups/bp-groups-screens.php:664
+#: bp-groups/bp-groups-screens.php:667
 msgid "There was an error when demoting that user, please try again"
 msgstr "Došlo je do pogreške prilikom snižavanja ranka korisnika, molimo pokušajte ponovno"
 
@@ -3165,7 +3165,7 @@ msgctxt "x hours ago - akismet cleared this item"
 msgid "<span>%1$s</span> &mdash; %2$s"
 msgstr "<span>%1$s</span> &mdash; %2$s"
 
-#: bp-activity/bp-activity-classes.php:120
+#: bp-activity/bp-activity-classes.php:122
 #: bp-activity/bp-activity-template.php:120
 msgid "Arguments passed to %1$s should be in an associative array. See the inline documentation at %2$s for more details."
 msgstr "Argumenti prošao %1$s bi trebao biti u asocijativnom nizu. Pogledajte umetnutu dokumentaciju na %2$s za više detalja."
@@ -3247,7 +3247,7 @@ msgstr "Prijatelji"
 #: bp-core/bp-core-template.php:260 bp-groups/bp-groups-activity.php:143
 #: bp-groups/bp-groups-activity.php:179 bp-groups/bp-groups-activity.php:215
 #: bp-groups/bp-groups-activity.php:251 bp-groups/bp-groups-loader.php:502
-#: bp-groups/bp-groups-screens.php:844 bp-groups/bp-groups-widgets.php:28
+#: bp-groups/bp-groups-screens.php:847 bp-groups/bp-groups-widgets.php:28
 #: bp-groups/bp-groups-widgets.php:48 bp-groups/bp-groups-widgets.php:119
 msgid "Groups"
 msgstr "Grupe"
@@ -3274,8 +3274,8 @@ msgstr "Moja Aktivnost"
 #: bp-groups/bp-groups-template.php:1819 bp-groups/bp-groups-template.php:2567
 #: bp-members/bp-members-buddybar.php:90 bp-members/bp-members-loader.php:197
 #: bp-members/bp-members-template.php:478
-#: bp-members/bp-members-template.php:777
-#: bp-members/bp-members-template.php:796
+#: bp-members/bp-members-template.php:778
+#: bp-members/bp-members-template.php:797
 #: bp-messages/bp-messages-loader.php:255
 #: bp-messages/bp-messages-template.php:326
 #: bp-themes/bp-default/groups/single/admin.php:185
@@ -3387,7 +3387,7 @@ msgid "You do not have access to this activity."
 msgstr "Nemate pristup ovoj aktivnosti."
 
 #: bp-activity/bp-activity-screens.php:279 bp-blogs/bp-blogs-template.php:499
-#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:845
+#: bp-friends/bp-friends-screens.php:84 bp-groups/bp-groups-screens.php:848
 #: bp-messages/bp-messages-screens.php:149
 #: bp-themes/bp-default/groups/single/admin.php:26
 #: bp-themes/bp-default/registration/register.php:227
@@ -3395,7 +3395,7 @@ msgid "Yes"
 msgstr "Da"
 
 #: bp-activity/bp-activity-screens.php:280 bp-blogs/bp-blogs-template.php:503
-#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:846
+#: bp-friends/bp-friends-screens.php:85 bp-groups/bp-groups-screens.php:849
 #: bp-messages/bp-messages-screens.php:150
 #: bp-themes/bp-default/groups/single/admin.php:27
 #: bp-themes/bp-default/registration/register.php:228
@@ -3456,7 +3456,7 @@ msgstr "Izbriši"
 
 #: bp-activity/bp-activity-template.php:2112
 #: bp-core/admin/bp-core-slugs.php:112 bp-core/admin/bp-core-slugs.php:173
-#: bp-members/bp-members-template.php:582
+#: bp-members/bp-members-template.php:583
 #: bp-themes/bp-default/activity/entry.php:37
 #: bp-themes/bp-default/functions.php:165
 #: bp-xprofile/bp-xprofile-loader.php:222
@@ -3641,8 +3641,8 @@ msgstr "Profilna slika autora stranice %s."
 
 #: bp-blogs/bp-blogs-template.php:350 bp-core/bp-core-classes.php:177
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:185
-#: bp-members/bp-members-template.php:553
-#: bp-members/bp-members-template.php:828
+#: bp-members/bp-members-template.php:554
+#: bp-members/bp-members-template.php:829
 #: bp-themes/bp-default/groups/groups-loop.php:47
 #: bp-themes/bp-default/groups/single/group-header.php:42
 msgid "active %s"
@@ -3733,7 +3733,7 @@ msgstr "%s Nedavni Komentari"
 
 #: bp-blogs/bp-blogs-template.php:617 bp-core/deprecated/1.5.php:397
 #: bp-forums/bp-forums-template.php:1321 bp-groups/bp-groups-template.php:2292
-#: bp-members/bp-members-template.php:667
+#: bp-members/bp-members-template.php:668
 #: bp-messages/bp-messages-template.php:373 bp-themes/bp-default/header.php:30
 #: bp-themes/bp-default/searchform.php:5
 msgid "Search"
@@ -4455,47 +4455,47 @@ msgstr "Moj račun"
 msgid "Avatar Image"
 msgstr "Avatar Slika"
 
-#: bp-core/bp-core-avatars.php:482
+#: bp-core/bp-core-avatars.php:481
 msgid "There is no error, the file uploaded with success"
 msgstr "Nema greške, dokument je prenešen uspješno."
 
-#: bp-core/bp-core-avatars.php:483 bp-core/bp-core-avatars.php:484
+#: bp-core/bp-core-avatars.php:482 bp-core/bp-core-avatars.php:483
 msgid "Your image was bigger than the maximum allowed file size of: "
 msgstr "Veličina Vaše slike je veća od maksimuma koji iznosi:"
 
-#: bp-core/bp-core-avatars.php:485
+#: bp-core/bp-core-avatars.php:484
 msgid "The uploaded file was only partially uploaded"
 msgstr "Odabrani dokument je samo djelimično prenešen"
 
-#: bp-core/bp-core-avatars.php:486
+#: bp-core/bp-core-avatars.php:485
 msgid "No file was uploaded"
 msgstr "Dokument nije prenešen"
 
-#: bp-core/bp-core-avatars.php:487
+#: bp-core/bp-core-avatars.php:486
 msgid "Missing a temporary folder"
 msgstr "Privremeni folder nedostaje"
 
-#: bp-core/bp-core-avatars.php:491
+#: bp-core/bp-core-avatars.php:490
 msgid "Your upload failed, please try again. Error was: %s"
 msgstr "Vaš prijenos nije uspio! Greška: %s"
 
-#: bp-core/bp-core-avatars.php:496
+#: bp-core/bp-core-avatars.php:495
 msgid "The file you uploaded is too big. Please upload a file under %s"
 msgstr "Dokument koji ste prenijeli je previše veliki. Molimo izvršite prijenos pod %s"
 
-#: bp-core/bp-core-avatars.php:501
+#: bp-core/bp-core-avatars.php:500
 msgid "Please upload only JPG, GIF or PNG photos."
 msgstr "Molimo prenesite samo JPG, GIF ili PNG slike."
 
-#: bp-core/bp-core-avatars.php:512 bp-core/bp-core-avatars.php:525
+#: bp-core/bp-core-avatars.php:511 bp-core/bp-core-avatars.php:546
 msgid "Upload Failed! Error was: %s"
 msgstr "Prijenos nije uspio! Greška: %s"
 
-#: bp-core/bp-core-avatars.php:543
+#: bp-core/bp-core-avatars.php:564
 msgid "Upload failed! Error was: %s"
 msgstr "Postavljanje nije uspjelo! Pogreška je: %s"
 
-#: bp-core/bp-core-avatars.php:678 bp-core/bp-core-classes.php:174
+#: bp-core/bp-core-avatars.php:699 bp-core/bp-core-classes.php:174
 #: bp-core/bp-core-classes.php:175 bp-core/bp-core-classes.php:176
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
@@ -4514,7 +4514,7 @@ msgid "Sign Up"
 msgstr "Registracija"
 
 #: bp-core/bp-core-buddybar.php:537 bp-core/deprecated/1.5.php:287
-#: bp-members/bp-members-template.php:731 bp-themes/bp-default/sidebar.php:18
+#: bp-members/bp-members-template.php:732 bp-themes/bp-default/sidebar.php:18
 msgid "Log Out"
 msgstr "Odjavi se"
 
@@ -5161,7 +5161,7 @@ msgstr "Već ste prijatelji sa ovim korisnikom."
 msgid "You already have a pending friendship request with this user"
 msgstr "Već ste poslali zahtjev za prijateljstvo ovome korisniku."
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:600
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
 msgid "Friendship could not be canceled."
 msgstr "Prijateljstvo nije moglo biti otkazano."
 
@@ -5347,7 +5347,7 @@ msgid "%d friends"
 msgstr "%d prijatelja"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:610
+#: bp-themes/bp-default/_inc/ajax.php:611
 msgid "Cancel Friendship Request"
 msgstr "Otkaži zahtjev za prijateljstvom"
 
@@ -5362,8 +5362,8 @@ msgstr "Otkaži Prijateljstvo"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:602
-#: bp-themes/bp-default/_inc/ajax.php:616
+#: bp-themes/bp-default/_inc/ajax.php:603
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Add Friend"
 msgstr "Dodaj prijatelja"
 
@@ -5403,7 +5403,7 @@ msgstr "Došlo je do pogreške prilikom priključenja grupi."
 msgid "You joined the group!"
 msgstr "Priključili ste se grupi!"
 
-#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:660
+#: bp-groups/bp-groups-actions.php:254 bp-groups/bp-groups-screens.php:663
 msgid "This group must have at least one admin"
 msgstr "Ova grupa mora imati bar jednog admina"
 
@@ -5638,7 +5638,7 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:708
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
 msgid "Request Membership"
 msgstr "Zahtjev za Članstvo"
 
