@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-19 14:23:00+0000\n"
+"PO-Revision-Date: 2013-02-11 13:41:44+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Učlanjen u grupe"
 msgid "New Groups"
 msgstr "Nove Grupe"
 
-#: bp-themes/bp-default/_inc/ajax.php:619
+#: bp-themes/bp-default/_inc/ajax.php:627
 msgid "Friendship request could not be cancelled."
 msgstr "Zahtjev za prijateljstvom ne može biti otkazan."
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Poruka obrisana."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:854
+#: bp-themes/bp-default/_inc/ajax.php:871
 msgid "Messages deleted."
 msgstr "Poruka obrisana."
 
@@ -1675,7 +1675,7 @@ msgstr "Izrežite Avatar"
 msgid "Delete Avatar"
 msgstr "Izbriši Avatar"
 
-#: bp-themes/bp-default/_inc/ajax.php:727
+#: bp-themes/bp-default/_inc/ajax.php:743
 msgid "There was a problem closing the notice."
 msgstr "Postoji problem zatvaranja obavijesti."
 
@@ -1839,12 +1839,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Nažalost, korisničko ime ne smije sadržavati znak \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:707
+#: bp-themes/bp-default/_inc/ajax.php:722
 msgid "Join Group"
 msgstr "Pridruži se Grupi"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:690
+#: bp-themes/bp-default/_inc/ajax.php:703
 msgid "Leave Group"
 msgstr "Napusti Grupu"
 
@@ -2092,7 +2092,7 @@ msgstr "Došlo je do pogreške prilikom zabranjivanja korisnika, molimo pokušaj
 msgid "Moderators"
 msgstr "Moderatori"
 
-#: bp-themes/bp-default/_inc/ajax.php:609
+#: bp-themes/bp-default/_inc/ajax.php:615
 msgid " Friendship could not be requested."
 msgstr "Prijateljstvo ne može biti zatraženo."
 
@@ -2110,19 +2110,19 @@ msgstr "Vaše postavke su spremljene"
 msgid "One of the password fields was empty."
 msgstr "Jedno od polja lozinke je prazano."
 
-#: bp-themes/bp-default/_inc/ajax.php:688
+#: bp-themes/bp-default/_inc/ajax.php:701
 msgid "Error joining group"
 msgstr "Pogreška prilikom učlanjivanja u grupu"
 
-#: bp-themes/bp-default/_inc/ajax.php:821
+#: bp-themes/bp-default/_inc/ajax.php:837
 msgid "There was a problem marking messages as read."
 msgstr "Došlo je do problema obilježavanja poruke kao pročitane."
 
-#: bp-themes/bp-default/_inc/ajax.php:796
+#: bp-themes/bp-default/_inc/ajax.php:812
 msgid "There was a problem marking messages as unread."
 msgstr "Došlo je do problema obilježavanja poruke kao nepročitane."
 
-#: bp-themes/bp-default/_inc/ajax.php:778
+#: bp-themes/bp-default/_inc/ajax.php:794
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Došlo je do problema prilikom slanja tog odgovora. Molimo pokušajte ponovno."
 
@@ -2130,11 +2130,11 @@ msgstr "Došlo je do problema prilikom slanja tog odgovora. Molimo pokušajte po
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> je odgovorio <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:661
+#: bp-themes/bp-default/_inc/ajax.php:671
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Došlo je do pproblema prilikom odbijanja zahtjeva. Molimo pokušajte ponovo."
 
-#: bp-themes/bp-default/_inc/ajax.php:642
+#: bp-themes/bp-default/_inc/ajax.php:652
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Došlo je do pproblema prilikom prihvaćanja zahtjeva. Molimo pokušajte ponovo."
 
@@ -2147,7 +2147,7 @@ msgid "That email address is already taken."
 msgstr "Ova email adresa je već zauzeta."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:761
+#: bp-themes/bp-default/_inc/ajax.php:777
 msgid "Sent %s"
 msgstr "Poslano %s"
 
@@ -2172,11 +2172,11 @@ msgstr "Označi kao Pročitano"
 msgid "My Friends <span>%s</span>"
 msgstr "Moji prijatelji <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:705
+#: bp-themes/bp-default/_inc/ajax.php:720
 msgid "Error leaving group"
 msgstr "Pogreška prilikom napuštanja grupe"
 
-#: bp-themes/bp-default/_inc/ajax.php:846
+#: bp-themes/bp-default/_inc/ajax.php:862
 msgid "There was a problem deleting messages."
 msgstr "Došlo je do problema u brisanju poruke."
 
@@ -2260,7 +2260,7 @@ msgstr "Mogućnosti"
 msgid "There was a problem posting your update, please try again."
 msgstr "Došlo je do problema prilikom objavljivanja vaših novosti, molimo pokušjte ponovo."
 
-#: bp-themes/bp-default/_inc/ajax.php:622
+#: bp-themes/bp-default/_inc/ajax.php:632
 msgid "Request Pending"
 msgstr "Zahtjev u toku"
 
@@ -2277,11 +2277,11 @@ msgstr "E-mail adresa ne može biti prazna."
 msgid "Send a private message to this user."
 msgstr "Pošalji privatnu poruku ovom korisniku."
 
-#: bp-themes/bp-default/_inc/ajax.php:696
+#: bp-themes/bp-default/_inc/ajax.php:710
 msgid "Error requesting membership"
 msgstr "Pogreška prilikom zahtjevanja članstva"
 
-#: bp-themes/bp-default/_inc/ajax.php:698
+#: bp-themes/bp-default/_inc/ajax.php:712
 msgid "Membership Requested"
 msgstr "Članstvo Zahtjevano"
 
@@ -5161,7 +5161,7 @@ msgstr "Već ste prijatelji sa ovim korisnikom."
 msgid "You already have a pending friendship request with this user"
 msgstr "Već ste poslali zahtjev za prijateljstvo ovome korisniku."
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:605
 msgid "Friendship could not be canceled."
 msgstr "Prijateljstvo nije moglo biti otkazano."
 
@@ -5347,7 +5347,7 @@ msgid "%d friends"
 msgstr "%d prijatelja"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:611
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Cancel Friendship Request"
 msgstr "Otkaži zahtjev za prijateljstvom"
 
@@ -5362,8 +5362,8 @@ msgstr "Otkaži Prijateljstvo"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:603
-#: bp-themes/bp-default/_inc/ajax.php:617
+#: bp-themes/bp-default/_inc/ajax.php:607
+#: bp-themes/bp-default/_inc/ajax.php:625
 msgid "Add Friend"
 msgstr "Dodaj prijatelja"
 
@@ -5638,7 +5638,7 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:724
 msgid "Request Membership"
 msgstr "Zahtjev za Članstvo"
 

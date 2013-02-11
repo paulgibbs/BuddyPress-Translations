@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-19 14:22:30+0000\n"
+"PO-Revision-Date: 2013-02-11 13:41:10+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Gruppemedlemskap"
 msgid "New Groups"
 msgstr "Nye grupper"
 
-#: bp-themes/bp-default/_inc/ajax.php:619
+#: bp-themes/bp-default/_inc/ajax.php:627
 msgid "Friendship request could not be cancelled."
 msgstr "Vennskapsforespørsel kunne ikke kanselleres."
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Melding slettet."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:854
+#: bp-themes/bp-default/_inc/ajax.php:871
 msgid "Messages deleted."
 msgstr "Meldinger slettet."
 
@@ -1673,7 +1673,7 @@ msgstr "Beskjær avatar"
 msgid "Delete Avatar"
 msgstr "Slett avatar"
 
-#: bp-themes/bp-default/_inc/ajax.php:727
+#: bp-themes/bp-default/_inc/ajax.php:743
 msgid "There was a problem closing the notice."
 msgstr "Det oppsto en feil når varslingen skulle lukkes."
 
@@ -1837,12 +1837,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Beklager, brukernavn kan ikke inneholde tegnet \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:707
+#: bp-themes/bp-default/_inc/ajax.php:722
 msgid "Join Group"
 msgstr "Bli medlem av gruppe"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:690
+#: bp-themes/bp-default/_inc/ajax.php:703
 msgid "Leave Group"
 msgstr "Forlat gruppe"
 
@@ -2090,7 +2090,7 @@ msgstr "Det oppsto en feil ved utestenging av brukeren, vennligst prøv igjen."
 msgid "Moderators"
 msgstr "Moderatorer"
 
-#: bp-themes/bp-default/_inc/ajax.php:609
+#: bp-themes/bp-default/_inc/ajax.php:615
 msgid " Friendship could not be requested."
 msgstr " Vennskapsforespørsel kunne ikke sendes"
 
@@ -2108,19 +2108,19 @@ msgstr "Dine innstillinger har blitt lagret."
 msgid "One of the password fields was empty."
 msgstr "Et av passordfeltene var tomt."
 
-#: bp-themes/bp-default/_inc/ajax.php:688
+#: bp-themes/bp-default/_inc/ajax.php:701
 msgid "Error joining group"
 msgstr "Feil ved innmelding i gruppe"
 
-#: bp-themes/bp-default/_inc/ajax.php:821
+#: bp-themes/bp-default/_inc/ajax.php:837
 msgid "There was a problem marking messages as read."
 msgstr "Det oppsto en feil ved markering av melding som lest."
 
-#: bp-themes/bp-default/_inc/ajax.php:796
+#: bp-themes/bp-default/_inc/ajax.php:812
 msgid "There was a problem marking messages as unread."
 msgstr "Det oppsto en fel ved markering av melding som ulest."
 
-#: bp-themes/bp-default/_inc/ajax.php:778
+#: bp-themes/bp-default/_inc/ajax.php:794
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Det oppsto en feil ved sending av svar, vennligst prøv igjen."
 
@@ -2128,11 +2128,11 @@ msgstr "Det oppsto en feil ved sending av svar, vennligst prøv igjen."
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> svarte <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:661
+#: bp-themes/bp-default/_inc/ajax.php:671
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Det oppsto en feil ved avslåing av forespørsel, vennligst prøv igjen."
 
-#: bp-themes/bp-default/_inc/ajax.php:642
+#: bp-themes/bp-default/_inc/ajax.php:652
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Det oppsto en feil ved akseptering av forespørsel, vennligst prøv igjen."
 
@@ -2145,7 +2145,7 @@ msgid "That email address is already taken."
 msgstr "Den e-postadressen er allerede i bruk."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:761
+#: bp-themes/bp-default/_inc/ajax.php:777
 msgid "Sent %s"
 msgstr "Sendt %s"
 
@@ -2170,11 +2170,11 @@ msgstr "Marker som lest"
 msgid "My Friends <span>%s</span>"
 msgstr "Mine venner <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:705
+#: bp-themes/bp-default/_inc/ajax.php:720
 msgid "Error leaving group"
 msgstr "Feil ved utmelding fra gruppe"
 
-#: bp-themes/bp-default/_inc/ajax.php:846
+#: bp-themes/bp-default/_inc/ajax.php:862
 msgid "There was a problem deleting messages."
 msgstr "Det oppsto en feil ved sletting av melding."
 
@@ -2258,7 +2258,7 @@ msgstr "Brukermandater"
 msgid "There was a problem posting your update, please try again."
 msgstr "Det oppsto en feil ved posting av din oppdatering, vennligst prøv igjen."
 
-#: bp-themes/bp-default/_inc/ajax.php:622
+#: bp-themes/bp-default/_inc/ajax.php:632
 msgid "Request Pending"
 msgstr "Forespørsel venter"
 
@@ -2275,11 +2275,11 @@ msgstr "E-postadressen kan ikke være tom."
 msgid "Send a private message to this user."
 msgstr "Send en privat melding til denne brukeren."
 
-#: bp-themes/bp-default/_inc/ajax.php:696
+#: bp-themes/bp-default/_inc/ajax.php:710
 msgid "Error requesting membership"
 msgstr "Feil ved medlemskap-forespørsel"
 
-#: bp-themes/bp-default/_inc/ajax.php:698
+#: bp-themes/bp-default/_inc/ajax.php:712
 msgid "Membership Requested"
 msgstr "Medlemskap forespurt"
 
@@ -5150,7 +5150,7 @@ msgstr "Du er allerede venn med denne brukeren"
 msgid "You already have a pending friendship request with this user"
 msgstr "Du har allerede en ventende vennskapsforespørsel til denne brukeren"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:605
 msgid "Friendship could not be canceled."
 msgstr "Vennskap kunne ikke bli kansellert."
 
@@ -5336,7 +5336,7 @@ msgid "%d friends"
 msgstr "%d venner"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:611
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Cancel Friendship Request"
 msgstr "Kanseller vennskapsforespørsel"
 
@@ -5351,8 +5351,8 @@ msgstr "Avbryt vennskap"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:603
-#: bp-themes/bp-default/_inc/ajax.php:617
+#: bp-themes/bp-default/_inc/ajax.php:607
+#: bp-themes/bp-default/_inc/ajax.php:625
 msgid "Add Friend"
 msgstr "Legg til venn"
 
@@ -5626,7 +5626,7 @@ msgid "Forum"
 msgstr "Forum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:724
 msgid "Request Membership"
 msgstr "Forespør medlemskap"
 

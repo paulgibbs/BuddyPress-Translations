@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-19 14:22:22+0000\n"
+"PO-Revision-Date: 2013-02-11 13:40:59+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Участие в группах"
 msgid "New Groups"
 msgstr "Новые группы"
 
-#: bp-themes/bp-default/_inc/ajax.php:619
+#: bp-themes/bp-default/_inc/ajax.php:627
 msgid "Friendship request could not be cancelled."
 msgstr "Запрос на добавление в друзья нельзя отменить."
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Сообщение удалено."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:854
+#: bp-themes/bp-default/_inc/ajax.php:871
 msgid "Messages deleted."
 msgstr "Сообщения удалены."
 
@@ -1675,7 +1675,7 @@ msgstr "Обрезать аватар"
 msgid "Delete Avatar"
 msgstr "Удалить аватар"
 
-#: bp-themes/bp-default/_inc/ajax.php:727
+#: bp-themes/bp-default/_inc/ajax.php:743
 msgid "There was a problem closing the notice."
 msgstr "Были проблемы с закрытием уведомлений."
 
@@ -1839,12 +1839,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Извините, логин не может содержать символ \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:707
+#: bp-themes/bp-default/_inc/ajax.php:722
 msgid "Join Group"
 msgstr "Вступить в группу"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:690
+#: bp-themes/bp-default/_inc/ajax.php:703
 msgid "Leave Group"
 msgstr "Покинуть"
 
@@ -2092,7 +2092,7 @@ msgstr "Произошла ошибка во время блокирования
 msgid "Moderators"
 msgstr "Модераторы"
 
-#: bp-themes/bp-default/_inc/ajax.php:609
+#: bp-themes/bp-default/_inc/ajax.php:615
 msgid " Friendship could not be requested."
 msgstr "Нельзя отправить запрос на добавление в друзья."
 
@@ -2110,19 +2110,19 @@ msgstr "Ваши настройки были сохранены."
 msgid "One of the password fields was empty."
 msgstr "Одно из полей пароле было пустым."
 
-#: bp-themes/bp-default/_inc/ajax.php:688
+#: bp-themes/bp-default/_inc/ajax.php:701
 msgid "Error joining group"
 msgstr "Ошибка при присоединении к группе"
 
-#: bp-themes/bp-default/_inc/ajax.php:821
+#: bp-themes/bp-default/_inc/ajax.php:837
 msgid "There was a problem marking messages as read."
 msgstr "Были проблемы с пометкой сообщений прочитанными."
 
-#: bp-themes/bp-default/_inc/ajax.php:796
+#: bp-themes/bp-default/_inc/ajax.php:812
 msgid "There was a problem marking messages as unread."
 msgstr "Были проблемы с пометкой сообщений непрочитанными."
 
-#: bp-themes/bp-default/_inc/ajax.php:778
+#: bp-themes/bp-default/_inc/ajax.php:794
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Во время отправки ответа произошла ошибка. Пожалуйста, попробуйте еще раз."
 
@@ -2130,11 +2130,11 @@ msgstr "Во время отправки ответа произошла оши�
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> - ответ <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:661
+#: bp-themes/bp-default/_inc/ajax.php:671
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Произошла ошибка во время отклонения этого запроса. Пожалуйста, попробуйте еще раз."
 
-#: bp-themes/bp-default/_inc/ajax.php:642
+#: bp-themes/bp-default/_inc/ajax.php:652
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Произошла ошибка во время принятия этого запроса. Пожалуйста, попробуйте еще раз."
 
@@ -2147,7 +2147,7 @@ msgid "That email address is already taken."
 msgstr "Этот e-mail адрес уже занят."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:761
+#: bp-themes/bp-default/_inc/ajax.php:777
 msgid "Sent %s"
 msgstr "Отправлено %s"
 
@@ -2172,11 +2172,11 @@ msgstr "Пометить прочитанным"
 msgid "My Friends <span>%s</span>"
 msgstr "Мои друзья <span>%d</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:705
+#: bp-themes/bp-default/_inc/ajax.php:720
 msgid "Error leaving group"
 msgstr "Ошибка при выходе из группы"
 
-#: bp-themes/bp-default/_inc/ajax.php:846
+#: bp-themes/bp-default/_inc/ajax.php:862
 msgid "There was a problem deleting messages."
 msgstr "Были проблемы с удалением сообщений."
 
@@ -2260,7 +2260,7 @@ msgstr "Возможности"
 msgid "There was a problem posting your update, please try again."
 msgstr "Произошла ошибка при публиковании вашего сообщения, пожалуйста, попробуйте еще раз."
 
-#: bp-themes/bp-default/_inc/ajax.php:622
+#: bp-themes/bp-default/_inc/ajax.php:632
 msgid "Request Pending"
 msgstr "Необработанные предложения"
 
@@ -2277,11 +2277,11 @@ msgstr "Email адрес не может быть пустым."
 msgid "Send a private message to this user."
 msgstr "Отправить личное сообщение этому пользователю."
 
-#: bp-themes/bp-default/_inc/ajax.php:696
+#: bp-themes/bp-default/_inc/ajax.php:710
 msgid "Error requesting membership"
 msgstr "Ошибка при запросе на вступление"
 
-#: bp-themes/bp-default/_inc/ajax.php:698
+#: bp-themes/bp-default/_inc/ajax.php:712
 msgid "Membership Requested"
 msgstr "Запрос на вступление"
 
@@ -5159,7 +5159,7 @@ msgstr "Вы уже дружите с этим пользователем"
 msgid "You already have a pending friendship request with this user"
 msgstr "Вас уже ожидает необработанный запрос дружбы от этого пользователя"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:605
 msgid "Friendship could not be canceled."
 msgstr "Дружбу нельзя отменить."
 
@@ -5345,7 +5345,7 @@ msgid "%d friends"
 msgstr "друзей: %d"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:611
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Cancel Friendship Request"
 msgstr "Запрос на отмену дружбы"
 
@@ -5360,8 +5360,8 @@ msgstr "Отменить дружбу"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:603
-#: bp-themes/bp-default/_inc/ajax.php:617
+#: bp-themes/bp-default/_inc/ajax.php:607
+#: bp-themes/bp-default/_inc/ajax.php:625
 msgid "Add Friend"
 msgstr "Добавить в друзья"
 
@@ -5635,7 +5635,7 @@ msgid "Forum"
 msgstr "Форум"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:724
 msgid "Request Membership"
 msgstr "Запрос на вступление"
 

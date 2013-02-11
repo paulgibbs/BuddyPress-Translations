@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-19 14:23:13+0000\n"
+"PO-Revision-Date: 2013-02-11 13:41:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "グループのメンバーシップ"
 msgid "New Groups"
 msgstr "新規グループ"
 
-#: bp-themes/bp-default/_inc/ajax.php:619
+#: bp-themes/bp-default/_inc/ajax.php:627
 msgid "Friendship request could not be cancelled."
 msgstr "友達申請をキャンセルできませんでした。"
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "メッセージを削除しました。"
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:854
+#: bp-themes/bp-default/_inc/ajax.php:871
 msgid "Messages deleted."
 msgstr "メッセージを削除しました。"
 
@@ -1671,7 +1671,7 @@ msgstr "アバターを切り抜き"
 msgid "Delete Avatar"
 msgstr "アバターを削除"
 
-#: bp-themes/bp-default/_inc/ajax.php:727
+#: bp-themes/bp-default/_inc/ajax.php:743
 msgid "There was a problem closing the notice."
 msgstr "通知を閉じるとき問題が起きました。"
 
@@ -1835,12 +1835,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "ユーザー名には '_' (アンダーバー) を含めることはできません。"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:707
+#: bp-themes/bp-default/_inc/ajax.php:722
 msgid "Join Group"
 msgstr "グループに参加"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:690
+#: bp-themes/bp-default/_inc/ajax.php:703
 msgid "Leave Group"
 msgstr "グループを脱退"
 
@@ -2088,7 +2088,7 @@ msgstr "ユーザーをブロックする際にエラーが発生しました。
 msgid "Moderators"
 msgstr "モデレーター"
 
-#: bp-themes/bp-default/_inc/ajax.php:609
+#: bp-themes/bp-default/_inc/ajax.php:615
 msgid " Friendship could not be requested."
 msgstr "友達申請は送信されませんでした。"
 
@@ -2106,19 +2106,19 @@ msgstr "設定を保存しました。"
 msgid "One of the password fields was empty."
 msgstr "パスワード欄のいずれかが記入されていません。"
 
-#: bp-themes/bp-default/_inc/ajax.php:688
+#: bp-themes/bp-default/_inc/ajax.php:701
 msgid "Error joining group"
 msgstr "グループ参加エラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:821
+#: bp-themes/bp-default/_inc/ajax.php:837
 msgid "There was a problem marking messages as read."
 msgstr "メッセージを既読にするとき問題が起きました。"
 
-#: bp-themes/bp-default/_inc/ajax.php:796
+#: bp-themes/bp-default/_inc/ajax.php:812
 msgid "There was a problem marking messages as unread."
 msgstr "メッセージを未読にするとき問題が起きました。"
 
-#: bp-themes/bp-default/_inc/ajax.php:778
+#: bp-themes/bp-default/_inc/ajax.php:794
 msgid "There was a problem sending that reply. Please try again."
 msgstr "返信を送信する際にエラーが発生しました。もう一度お試しください。"
 
@@ -2126,11 +2126,11 @@ msgstr "返信を送信する際にエラーが発生しました。もう一度
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> の返信 (<a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>)"
 
-#: bp-themes/bp-default/_inc/ajax.php:661
+#: bp-themes/bp-default/_inc/ajax.php:671
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "申請を拒否する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-themes/bp-default/_inc/ajax.php:642
+#: bp-themes/bp-default/_inc/ajax.php:652
 msgid "There was a problem accepting that request. Please try again."
 msgstr "申請を承認する際にエラーが発生しました。もう一度お試しください。"
 
@@ -2143,7 +2143,7 @@ msgid "That email address is already taken."
 msgstr "このメールアドレスはすでに使用されています。"
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:761
+#: bp-themes/bp-default/_inc/ajax.php:777
 msgid "Sent %s"
 msgstr "%s を送信"
 
@@ -2168,11 +2168,11 @@ msgstr "既読にする"
 msgid "My Friends <span>%s</span>"
 msgstr "自分の友達 <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:705
+#: bp-themes/bp-default/_inc/ajax.php:720
 msgid "Error leaving group"
 msgstr "グループ脱退のエラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:846
+#: bp-themes/bp-default/_inc/ajax.php:862
 msgid "There was a problem deleting messages."
 msgstr "メッセージを削除するとき問題が起きました。"
 
@@ -2256,7 +2256,7 @@ msgstr "権限"
 msgid "There was a problem posting your update, please try again."
 msgstr "近況を投稿する際にエラーが発生しました。もう一度お試しください。"
 
-#: bp-themes/bp-default/_inc/ajax.php:622
+#: bp-themes/bp-default/_inc/ajax.php:632
 msgid "Request Pending"
 msgstr "申請保留中"
 
@@ -2273,11 +2273,11 @@ msgstr "メールアドレスは必ず入力してください。"
 msgid "Send a private message to this user."
 msgstr "このユーザーにプライベートメッセージを送る。"
 
-#: bp-themes/bp-default/_inc/ajax.php:696
+#: bp-themes/bp-default/_inc/ajax.php:710
 msgid "Error requesting membership"
 msgstr "グループ参加申請エラー"
 
-#: bp-themes/bp-default/_inc/ajax.php:698
+#: bp-themes/bp-default/_inc/ajax.php:712
 msgid "Membership Requested"
 msgstr "参加申請中"
 
@@ -5136,7 +5136,7 @@ msgstr "あなたはこのユーザーとすでに友達です。"
 msgid "You already have a pending friendship request with this user"
 msgstr "このユーザーからの保留中の友達申請がすでにあります"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:605
 msgid "Friendship could not be canceled."
 msgstr "交友関係をキャンセルできませんでした。"
 
@@ -5322,7 +5322,7 @@ msgid "%d friends"
 msgstr "友達%d人"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:611
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Cancel Friendship Request"
 msgstr "友達申請をキャンセル"
 
@@ -5337,8 +5337,8 @@ msgstr "交友関係を解消"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:603
-#: bp-themes/bp-default/_inc/ajax.php:617
+#: bp-themes/bp-default/_inc/ajax.php:607
+#: bp-themes/bp-default/_inc/ajax.php:625
 msgid "Add Friend"
 msgstr "友達に追加"
 
@@ -5612,7 +5612,7 @@ msgid "Forum"
 msgstr "フォーラム"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:724
 msgid "Request Membership"
 msgstr "参加申請する"
 
