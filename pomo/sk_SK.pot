@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the 1.6.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-01-19 14:23:10+0000\n"
+"PO-Revision-Date: 2013-02-11 13:41:03+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Členstvo v skupine"
 msgid "New Groups"
 msgstr "Nové skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:619
+#: bp-themes/bp-default/_inc/ajax.php:627
 msgid "Friendship request could not be cancelled."
 msgstr "Žiadosť o priateľstvo nemôže byť zrušená."
 
@@ -809,7 +809,7 @@ msgid "Message deleted."
 msgstr "Správa bola odstránená."
 
 #: bp-messages/bp-messages-actions.php:110
-#: bp-themes/bp-default/_inc/ajax.php:854
+#: bp-themes/bp-default/_inc/ajax.php:871
 msgid "Messages deleted."
 msgstr "Správy zmazané."
 
@@ -892,7 +892,7 @@ msgstr "Účet aktivovaný"
 
 #: bp-members/bp-members-functions.php:1260
 msgid "%s became a registered member"
-msgstr "%s sa stal registrovaným členom"
+msgstr "%s sa stal/-a registrovaným členom"
 
 #: bp-themes/bp-default/onecolumn-page.php:29 bp-themes/bp-default/page.php:18
 msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
@@ -1101,7 +1101,7 @@ msgstr "Nemáte žiadne čakajúce žiadosti o priateľstvo."
 
 #: bp-themes/bp-default/members/members-loop.php:108
 msgid "Sorry, no members were found."
-msgstr "Prepáčte, žiadny členovia sa nenašli."
+msgstr "Prepáčte, žiadni členovia sa nenašli."
 
 #: bp-themes/bp-default/members/index.php:56
 #: bp-themes/bp-default/members/single/friends.php:23
@@ -1675,7 +1675,7 @@ msgstr "Orezať obrázok profilu"
 msgid "Delete Avatar"
 msgstr "Zmazať obrázok profilu"
 
-#: bp-themes/bp-default/_inc/ajax.php:727
+#: bp-themes/bp-default/_inc/ajax.php:743
 msgid "There was a problem closing the notice."
 msgstr "Vyskytla sa chyba pri zatváraní poznámky."
 
@@ -1686,12 +1686,12 @@ msgstr "Ak chcete odstrániť exitujúci obrázok, ale nechcete nahrať nový, p
 #: bp-themes/bp-default/groups/index.php:59
 #: bp-themes/bp-default/members/single/groups.php:24
 msgid "Newly Created"
-msgstr "Novo vytvorené"
+msgstr "Najnovšie"
 
 #: bp-themes/bp-default/groups/index.php:58
 #: bp-themes/bp-default/members/single/groups.php:23
 msgid "Most Members"
-msgstr "Väčšina členov"
+msgstr "Počtu členov"
 
 #: bp-themes/bp-default/groups/index.php:35
 msgid "All Groups <span>%s</span>"
@@ -1839,12 +1839,12 @@ msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Prepáčte, používateľské mená nemôžu obsahovať znak \"_\"!"
 
 #: bp-groups/bp-groups-template.php:1562 bp-groups/bp-groups-template.php:1563
-#: bp-themes/bp-default/_inc/ajax.php:707
+#: bp-themes/bp-default/_inc/ajax.php:722
 msgid "Join Group"
 msgstr "Pridať sa do skupiny"
 
 #: bp-groups/bp-groups-template.php:1539 bp-groups/bp-groups-template.php:1540
-#: bp-themes/bp-default/_inc/ajax.php:690
+#: bp-themes/bp-default/_inc/ajax.php:703
 msgid "Leave Group"
 msgstr "Opustiť skupinu"
 
@@ -2092,7 +2092,7 @@ msgstr "Vyskytla sa chyba pri zakazovaní účasti používateľovi, prosím, sk
 msgid "Moderators"
 msgstr "Moderátori"
 
-#: bp-themes/bp-default/_inc/ajax.php:609
+#: bp-themes/bp-default/_inc/ajax.php:615
 msgid " Friendship could not be requested."
 msgstr "Nemôžete požiadať o priateľstvo."
 
@@ -2110,19 +2110,19 @@ msgstr "Vaše nastavenia boli uložené."
 msgid "One of the password fields was empty."
 msgstr "Jeden zo vstupov pre nové heslo bol prázdny."
 
-#: bp-themes/bp-default/_inc/ajax.php:688
+#: bp-themes/bp-default/_inc/ajax.php:701
 msgid "Error joining group"
 msgstr "Chyba pri vstupe do skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:821
+#: bp-themes/bp-default/_inc/ajax.php:837
 msgid "There was a problem marking messages as read."
 msgstr "Vyskytla sa chyba pri označovaní správ ako prečítaných. "
 
-#: bp-themes/bp-default/_inc/ajax.php:796
+#: bp-themes/bp-default/_inc/ajax.php:812
 msgid "There was a problem marking messages as unread."
 msgstr "Vyskytla sa chyba pri označovaní správ ako neprečítaných."
 
-#: bp-themes/bp-default/_inc/ajax.php:778
+#: bp-themes/bp-default/_inc/ajax.php:794
 msgid "There was a problem sending that reply. Please try again."
 msgstr "Vyskytla sa chyba pri odosielaní odpovede. Prosím, skúste znovu."
 
@@ -2130,11 +2130,11 @@ msgstr "Vyskytla sa chyba pri odosielaní odpovede. Prosím, skúste znovu."
 msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 msgstr "<a href=\"%1$s\">%2$s</a> odpovedal/-a <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
 
-#: bp-themes/bp-default/_inc/ajax.php:661
+#: bp-themes/bp-default/_inc/ajax.php:671
 msgid "There was a problem rejecting that request. Please try again."
 msgstr "Vyskytol sa problém pri odmietaní žiadosti. Prosím, skúste znovu."
 
-#: bp-themes/bp-default/_inc/ajax.php:642
+#: bp-themes/bp-default/_inc/ajax.php:652
 msgid "There was a problem accepting that request. Please try again."
 msgstr "Vyskytol sa problém pri prijímaní žiadosti. Prosím, skúste znovu."
 
@@ -2147,7 +2147,7 @@ msgid "That email address is already taken."
 msgstr "Túto emailovú adresu už používa niekto iný."
 
 #: bp-messages/bp-messages-template.php:922
-#: bp-themes/bp-default/_inc/ajax.php:761
+#: bp-themes/bp-default/_inc/ajax.php:777
 msgid "Sent %s"
 msgstr "Odoslané %s"
 
@@ -2172,11 +2172,11 @@ msgstr "Označiť ako prečítané"
 msgid "My Friends <span>%s</span>"
 msgstr "Moji priatelia <span>%s</span>"
 
-#: bp-themes/bp-default/_inc/ajax.php:705
+#: bp-themes/bp-default/_inc/ajax.php:720
 msgid "Error leaving group"
 msgstr "Chyba pri odchádzaní zo skupiny"
 
-#: bp-themes/bp-default/_inc/ajax.php:846
+#: bp-themes/bp-default/_inc/ajax.php:862
 msgid "There was a problem deleting messages."
 msgstr "Vyskytla sa chyba pri odstraňovaní správ."
 
@@ -2260,7 +2260,7 @@ msgstr "Možnosti"
 msgid "There was a problem posting your update, please try again."
 msgstr "Vyskytol sa problém pri zverejňovaní vašej aktuality, prosím, skúste znovu. "
 
-#: bp-themes/bp-default/_inc/ajax.php:622
+#: bp-themes/bp-default/_inc/ajax.php:632
 msgid "Request Pending"
 msgstr "Žiadosť čaká na vybavenie"
 
@@ -2277,11 +2277,11 @@ msgstr "Emailová adresa nemôže byť prázdna."
 msgid "Send a private message to this user."
 msgstr "Zaslať súkromnú správu tomuto používateľovi"
 
-#: bp-themes/bp-default/_inc/ajax.php:696
+#: bp-themes/bp-default/_inc/ajax.php:710
 msgid "Error requesting membership"
 msgstr "Chyba pri žiadosti o členstvo"
 
-#: bp-themes/bp-default/_inc/ajax.php:698
+#: bp-themes/bp-default/_inc/ajax.php:712
 msgid "Membership Requested"
 msgstr "Členstvo vyžiadané"
 
@@ -3915,7 +3915,7 @@ msgstr "<strong>BuddyPress je takmer pripravený</strong>. Na to, aby začal pra
 
 #: bp-core/admin/bp-core-functions.php:253
 msgid "You'll need to <a href='%s'>activate a <strong>BuddyPress-compatible theme</strong></a> to take advantage of all of BuddyPress's features. We've bundled a default theme, but you can always <a href='%s'>install some other compatible themes</a> or <a href='%s'>update your existing WordPress theme</a>."
-msgstr ""
+msgstr "Pre plné využite všetkých BuddyPress funkcií budete musieť <a href='%s'>aktivovať <strong>BuddyPress-kompatibilný motív</strong></a>. Súčasťou je predvolený motív, ktorý môžete ale hocikedy zmeniť <a href='%s'>inštalovaním niektorého z iných kompatibilných motívov</a> alebo <a href='%s'>aktualizovaním existujúceho WordPress motívu</a>."
 
 #: bp-core/admin/bp-core-functions.php:278 bp-core/admin/bp-core-slugs.php:139
 #: bp-core/admin/bp-core-update.php:439
@@ -4100,7 +4100,7 @@ msgstr "Nastavenie"
 
 #: bp-core/admin/bp-core-update.php:143
 msgid "BuddyPress %s"
-msgstr ""
+msgstr "BuddyPress %s"
 
 #: bp-core/admin/bp-core-update.php:181
 msgid "Finish &amp; Activate"
@@ -4116,7 +4116,7 @@ msgstr "Pre dokončenie aktualizácie sú nutné isté zmeny v databáze. Tieto 
 
 #: bp-core/admin/bp-core-update.php:256
 msgid "BuddyPress bundles several individual social components together, each one adding a distinct feature. This first step decides which features are enabled on your site; all features are enabled by default. Don't worry, you can change your mind at any point in the future."
-msgstr ""
+msgstr "BuddyPress spája niekoľko individuálnych sociálnych komponentov dokopy, pričom každý dodáva odlišnú funkciu. Tento prvý krok rozhodne o tom, ktoré z funkcií budú povolené na vašej stránke; všetky funkcie sú predvolene povolené. Nemajte obavy, váš názor môžete hocikedy v budúcnosti zmeniť."
 
 #: bp-core/admin/bp-core-update.php:298
 msgid "members"
@@ -4240,7 +4240,7 @@ msgstr "Číselný"
 
 #: bp-core/admin/bp-core-update.php:559
 msgid "Use BuddyPress Default"
-msgstr ""
+msgstr "Použiť BuddyPress predvolené"
 
 #: bp-core/admin/bp-core-update.php:560
 msgid "BuddyPress Default"
@@ -4248,47 +4248,47 @@ msgstr "BuddyPress predvolené"
 
 #: bp-core/admin/bp-core-update.php:563
 msgid "The default BuddyPress theme comes with the basics, to get up and running out of the box. It supports all features and is highly customizable."
-msgstr ""
+msgstr "Predvolený BuddyPress motív obsahuje základy pre začiatok. Podporuje všetky funkcie a je vysoko prispôsobiteľný."
 
 #: bp-core/admin/bp-core-update.php:564
 msgid "This is the best choice if you want to start using BuddyPress immediately."
-msgstr ""
+msgstr "Toto je najlepšie riešenie ak chcete okamžite používať BuddyPress."
 
 #: bp-core/admin/bp-core-update.php:565
 msgid "Yes, please!"
-msgstr ""
+msgstr "Áno, prosím!"
 
 #: bp-core/admin/bp-core-update.php:573
 msgid "Other themes"
-msgstr ""
+msgstr "Iné motívy"
 
 #: bp-core/admin/bp-core-update.php:574
 msgid "A BuddyPress theme"
-msgstr ""
+msgstr "BuddyPress motív"
 
 #: bp-core/admin/bp-core-update.php:577
 msgid "You have some other BuddyPress compatible themes available. Pick one of them from this list to use it."
-msgstr ""
+msgstr "Máte v ponuke ďalšie BuddyPress kompatibilné motívy. Pre aktiváciu vyberte jeden z nich zo zoznamu."
 
 #: bp-core/admin/bp-core-update.php:580
 msgid "Use this theme"
-msgstr ""
+msgstr "Použiť tento motív"
 
 #: bp-core/admin/bp-core-update.php:601
 msgid "Manually update current theme"
-msgstr ""
+msgstr "Manuálne aktualizovať aktuálny motív"
 
 #: bp-core/admin/bp-core-update.php:605
 msgid "Your existing theme"
-msgstr ""
+msgstr "Váš existujúci motív"
 
 #: bp-core/admin/bp-core-update.php:611
 msgid "The BuddyPress Template Pack will guide you through the process of manually editing your existing theme. It comes with a step-by-step guide and involves copying the BuddyPress template files into your theme. <strong>This option requires knowledge of CSS and HTML.</strong> You will need to tweak the new templates to match your existing theme."
-msgstr ""
+msgstr "BuddyPress šablónový balíček vás prevedie procesom manuálneho editovania existujúceho motívu. Obsahuje sprievodcu krok-za-krokom spolu s postupom kopírovania BuddyPress šablónových súborov do vášho motívu. <strong>Táto možnosť vyžaduje vedomosti o CSS a HTML.</strong> Nové šablóny budete musieť pomeniť tak, aby sa zhodovali s existujúcim motívom."
 
 #: bp-core/admin/bp-core-update.php:615
 msgid "Install BuddyPress Template Pack"
-msgstr ""
+msgstr "Inštalovať BuddyPress Template Pack"
 
 #: bp-core/admin/bp-core-update.php:619
 msgid "Choose this option (go to Appearance &rarr; BP Compatibility after setup is complete)"
@@ -4636,7 +4636,7 @@ msgstr "pred %s"
 
 #: bp-core/bp-core-functions.php:390
 msgid "year"
-msgstr "rok"
+msgstr "rokom"
 
 #: bp-core/bp-core-functions.php:390
 msgid "years"
@@ -4652,7 +4652,7 @@ msgstr "mesiacmi"
 
 #: bp-core/bp-core-functions.php:392
 msgid "week"
-msgstr "týždňami"
+msgstr "týždňom"
 
 #: bp-core/bp-core-functions.php:392
 msgid "weeks"
@@ -4660,7 +4660,7 @@ msgstr "týždňami"
 
 #: bp-core/bp-core-functions.php:393
 msgid "day"
-msgstr "deň"
+msgstr "dňom"
 
 #: bp-core/bp-core-functions.php:393
 msgid "days"
@@ -4688,7 +4688,7 @@ msgstr "sekundou"
 
 #: bp-core/bp-core-functions.php:396
 msgid "seconds"
-msgstr "sekúnd"
+msgstr "sekundami"
 
 #: bp-core/bp-core-functions.php:455
 msgctxt "Separator in time since"
@@ -5161,7 +5161,7 @@ msgstr "S týmto používateľom už ste priatelia"
 msgid "You already have a pending friendship request with this user"
 msgstr "S týmto používateľom už máte žiadosť o priateľstvo čakajúcu na prijatie"
 
-#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:601
+#: bp-friends/bp-friends-actions.php:70 bp-themes/bp-default/_inc/ajax.php:605
 msgid "Friendship could not be canceled."
 msgstr "Priateľstvo nemohlo byť zrušené."
 
@@ -5347,7 +5347,7 @@ msgid "%d friends"
 msgstr "%d priatelia/-ov"
 
 #: bp-friends/bp-friends-template.php:285
-#: bp-themes/bp-default/_inc/ajax.php:611
+#: bp-themes/bp-default/_inc/ajax.php:617
 msgid "Cancel Friendship Request"
 msgstr "Vziať späť žiadosť o priateľstvo "
 
@@ -5362,8 +5362,8 @@ msgstr "Zrušiť priateľstvo"
 
 #: bp-friends/bp-friends-template.php:319
 #: bp-friends/bp-friends-template.php:320
-#: bp-themes/bp-default/_inc/ajax.php:603
-#: bp-themes/bp-default/_inc/ajax.php:617
+#: bp-themes/bp-default/_inc/ajax.php:607
+#: bp-themes/bp-default/_inc/ajax.php:625
 msgid "Add Friend"
 msgstr "Pridať priateľa"
 
@@ -5638,7 +5638,7 @@ msgid "Forum"
 msgstr "Fórum"
 
 #: bp-groups/bp-groups-loader.php:412 bp-groups/bp-groups-template.php:1580
-#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:709
+#: bp-groups/bp-groups-template.php:1581 bp-themes/bp-default/_inc/ajax.php:724
 msgid "Request Membership"
 msgstr "Požiadať o členstvo"
 
