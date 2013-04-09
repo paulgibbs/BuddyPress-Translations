@@ -15,12 +15,16 @@ Load your BuddyPress with translations provided by translate.wordpress.org
 
 Currently the following translations are available for BuddyPress 1.7.x:
 
-* Chinese (Taiwan)
+* Catalan
 * Croatian
 * Danish
 * Dutch
+* Finnish
 * French
+* Greek
+* Hebrew
 * Hungarian
+* Indonesian
 * Italian
 * Japanese
 * Korean
@@ -29,6 +33,7 @@ Currently the following translations are available for BuddyPress 1.7.x:
 * Russian
 * Slovak
 * Spanish (Spain)
+* Swedish
 * Thai
 
 Big thanks to everyone who contributes to these translations on http://translate.wordpress.org/projects/buddypress. Without them, this plugin wouldn't exist.
@@ -48,6 +53,8 @@ To contribute a translation to BuddyPress, [subscribe to the polyglots' blog](ht
 
 = 1.7a =
 Updated for BuddyPress 1.7.
+Added Catalan, Finnish, Greek, Hebrew, Indonesian, Swedish.
+Removed Portuguese (Portugal) and Chinese (Taiwan).
 
 = 1.6f =
 Updated Slovak translation.
